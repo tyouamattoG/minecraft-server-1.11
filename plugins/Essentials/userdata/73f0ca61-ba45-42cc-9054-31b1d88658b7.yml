@@ -1,0 +1,21 @@
+lastAccountName: Ngt_0
+timestamps:
+  login: 1484313064245
+  logout: 1484316880265
+  lastteleport: 1483592951750
+ipAddress: 14.132.213.37
+lastlocation:
+  world: world
+  x: -472.87592632272185
+  y: 63.85000001788139
+  z: 362.8470393613004
+  yaw: 301.14166
+  pitch: 0.4499528
+logoutlocation:
+  world: world
+  x: -178.30000001192093
+  y: 71.0
+  z: 238.30000001192093
+  yaw: 121.927246
+  pitch: 79.499985
+afk: false

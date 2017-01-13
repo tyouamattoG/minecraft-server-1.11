@@ -1,0 +1,4 @@
+plugins/dynmap/
+*.bak
+*.jar
+*._jar

@@ -1,0 +1,29 @@
+timestamps:
+  lastteleport: 1484333064024
+  logout: 1484301548235
+  login: 1484330458828
+lastlocation:
+  world: world
+  x: -201.22913782839137
+  y: 67.56489087764604
+  z: 259.7947783098098
+  yaw: -225.44899
+  pitch: 37.949947
+homes:
+  home:
+    world: world
+    x: -166.46393492761214
+    y: 75.0
+    z: 235.23228993775467
+    yaw: -205.60255
+    pitch: 37.649982
+logoutlocation:
+  world: world
+  x: -167.30000001192093
+  y: 71.0
+  z: 238.34189889170636
+  yaw: -26.22779
+  pitch: -32.25017
+lastAccountName: lm0x
+ipAddress: 127.0.0.1
+afk: false

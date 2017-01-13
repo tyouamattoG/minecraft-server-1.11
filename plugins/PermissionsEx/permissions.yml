@@ -1,0 +1,49 @@
+groups:
+  Member:
+    permissions:
+    - essentials.sethome
+    - essentials.home
+    - essentials.home.bed
+    - essentials.help
+    - choptree.chop
+    - dynmap.webregister
+    - modifyworld.*
+    options:
+      default: true
+  Admin:
+    permissions:
+    - '*'
+    options:
+      default: false
+      rank: '1'
+  Moderator:
+    inheritance:
+    - Member
+    permissions:
+    - bukkit.command.toggledownfall
+    - permissions.manage.reload*
+    - -essentials.gamemode.others
+    - essentials.gamemode*
+    - essentials.skul
+    - essentials.time*
+    - essentials.tp*
+    - essentials.weather
+    - essentials.kill
+    options:
+      default: false
+users:
+  cokadori:
+    group:
+    - Moderator
+  f3ed2aef-99b3-47b2-b8bd-27ad2a77c030:
+    group:
+    - Admin
+    #- Moderator
+    options:
+      name: lm0x
+  ab5a76f3-023e-4b81-8518-6cf6d1976907:
+    group:
+    - Moderator
+    options:
+      name: sm0n
+schema-version: 1
