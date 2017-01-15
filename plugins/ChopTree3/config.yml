@@ -28,5 +28,5 @@ MoreDamageToTools: false
 InterruptIfToolBreaks: false
 LogsMoveDown: false
 OnlyTrees: true
-PopLeaves: true
+PopLeaves: false
 LeafRadius: 3

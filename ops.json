@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "f3ed2aef-99b3-47b2-b8bd-27ad2a77c030",
+    "name": "lm0x",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

@@ -8,6 +8,7 @@ groups:
     - choptree.chop
     - dynmap.webregister
     - modifyworld.*
+    - essentials.give
     options:
       default: true
   Admin:
@@ -32,13 +33,9 @@ groups:
     options:
       default: false
 users:
-  cokadori:
-    group:
-    - Moderator
   f3ed2aef-99b3-47b2-b8bd-27ad2a77c030:
     group:
     - Admin
-    #- Moderator
     options:
       name: lm0x
   ab5a76f3-023e-4b81-8518-6cf6d1976907:
@@ -46,4 +43,9 @@ users:
     - Moderator
     options:
       name: sm0n
+  6b2843a9-e544-4cbb-b3e6-1478ea8e7907:
+    group:
+    - Moderator
+    options:
+      name: Cokadori
 schema-version: 1
