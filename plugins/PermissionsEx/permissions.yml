@@ -3,6 +3,7 @@ groups:
     permissions:
     - essentials.sethome
     - essentials.home
+    - essentials.back
     - essentials.home.bed
     - essentials.help
     - choptree.chop

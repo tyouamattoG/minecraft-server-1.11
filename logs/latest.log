@@ -1,26 +1,41 @@
-[00:00:05] [Async Chat Thread - #3/INFO]: <[0;31;22mlm0x[m> ÇøÇÂÇ¢ï˙íuÇ´ÇﬂÇÈ[m
-[00:10:11] [Server thread/WARN]: Ngt_0 moved too quickly! -0.9220915284800242,0.0,-9.980571972031726
-[00:27:38] [Server thread/INFO]: Ngt_0 lost connection: Internal Exception: java.io.IOException: ä˘ë∂ÇÃê⁄ë±ÇÕÉäÉÇÅ[Ég ÉzÉXÉgÇ…ã≠êßìIÇ…êÿífÇ≥ÇÍÇ‹ÇµÇΩÅB
-[00:27:40] [Server thread/INFO]: Ngt_0 left the game
-[00:29:44] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[00:30:29] [Server thread/INFO]: lm0x lost connection: Disconnected
-[00:30:29] [Server thread/INFO]: lm0x left the game
-[00:30:33] [Server thread/INFO]: Stopping the server
-[00:30:33] [Server thread/INFO]: Stopping server
-[00:30:33] [Server thread/INFO]: [Essentials] Disabling Essentials v2.0.1-b461
-[00:30:33] [Server thread/INFO]: [FarmProtect] Disabling FarmProtect v1.8.3
-[00:30:33] [Server thread/INFO]: [ChopTree3] Disabling ChopTree3 v4.0.0
-[00:30:33] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.3;7a097ca
-[00:30:33] [Server thread/INFO]: [HopperPipes] Disabling HopperPipes v0.1
-[00:30:33] [Server thread/INFO]: [dynmap] Disabling dynmap v2.3-1142
-[00:30:34] [Server thread/INFO]: [dynmap] Unloaded 11 components.
-[00:30:34] [Server thread/INFO]: [dynmap] Stopping map renderer...
-[00:30:34] [Server thread/INFO]: [dynmap] Saved 13 pending tile renders in world 'world'
-[00:30:34] [Server thread/INFO]: [dynmap] Disabled
-[00:30:34] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
-[00:30:34] [Server thread/INFO]: [GetCoord] Disabling GetCoord v1.0.0
-[00:30:34] [Server thread/INFO]: Saving players
-[00:30:34] [Server thread/INFO]: Saving worlds
-[00:30:34] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[00:30:34] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
-[00:30:34] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
+[00:00:42] [Server thread/INFO]: lm0x issued server command: /give lm0x skull 64 3 {SkullOwner:MHF_QUESTION}
+[00:04:15] [Server thread/INFO]: lm0x was slain by Spider
+[00:04:20] [Server thread/INFO]: lm0x issued server command: /back
+[00:04:49] [Server thread/INFO]: lm0x issued server command: /home
+[00:06:43] [Server thread/INFO]: lm0x issued server command: /toggledownfall
+[00:06:43] [Server thread/INFO]: [lm0x: Toggled downfall]
+[00:15:53] [Server thread/INFO]: lm0x issued server command: /gamemode 3
+[00:17:15] [Server thread/INFO]: lm0x issued server command: /gamemode 0
+[00:21:55] [Server thread/INFO]: lm0x was slain by Spider
+[00:21:59] [Server thread/INFO]: lm0x issued server command: /back
+[00:30:42] [Server thread/INFO]: Ngt_0 lost connection: Internal Exception: java.io.IOException: ä˘ë∂ÇÃê⁄ë±ÇÕÉäÉÇÅ[Ég ÉzÉXÉgÇ…ã≠êßìIÇ…êÿífÇ≥ÇÍÇ‹ÇµÇΩÅB
+[00:30:42] [Server thread/INFO]: Ngt_0 left the game
+[00:51:32] [Server thread/INFO]: lm0x was slain by Spider
+[00:51:37] [Server thread/INFO]: lm0x issued server command: /back
+[00:58:10] [Server thread/INFO]: lm0x issued server command: //butcher
+[00:58:13] [Server thread/INFO]: lm0x issued server command: /home
+[00:58:18] [Server thread/INFO]: lm0x issued server command: /toggledownfall
+[00:58:18] [Server thread/INFO]: [lm0x: Toggled downfall]
+[01:01:14] [Server thread/INFO]: lm0x issued server command: /fly
+[01:05:14] [Server thread/INFO]: lm0x issued server command: /home
+[01:06:08] [Server thread/INFO]: lm0x lost connection: Disconnected
+[01:06:08] [Server thread/INFO]: lm0x left the game
+[01:06:12] [Server thread/INFO]: Stopping the server
+[01:06:12] [Server thread/INFO]: Stopping server
+[01:06:12] [Server thread/INFO]: [Essentials] Disabling Essentials v2.0.1-b461
+[01:06:12] [Server thread/INFO]: [FarmProtect] Disabling FarmProtect v1.8.3
+[01:06:12] [Server thread/INFO]: [ChopTree3] Disabling ChopTree3 v4.0.0
+[01:06:12] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.3;7a097ca
+[01:06:12] [Server thread/INFO]: [HopperPipes] Disabling HopperPipes v0.1
+[01:06:12] [Server thread/INFO]: [dynmap] Disabling dynmap v2.3-1142
+[01:06:12] [Server thread/INFO]: [dynmap] Unloaded 11 components.
+[01:06:12] [Server thread/INFO]: [dynmap] Stopping map renderer...
+[01:06:13] [Server thread/INFO]: [dynmap] Saved 5 pending tile renders in world 'world'
+[01:06:13] [Server thread/INFO]: [dynmap] Disabled
+[01:06:14] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
+[01:06:14] [Server thread/INFO]: [GetCoord] Disabling GetCoord v1.0.0
+[01:06:14] [Server thread/INFO]: Saving players
+[01:06:14] [Server thread/INFO]: Saving worlds
+[01:06:14] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[01:06:14] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[01:06:14] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
