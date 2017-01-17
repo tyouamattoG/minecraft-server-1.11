@@ -1,3 +1,4 @@
+plugins/DiscordSRV/
 plugins/dynmap/
 *.bak
 *._jar
