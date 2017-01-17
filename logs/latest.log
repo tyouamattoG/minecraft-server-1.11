@@ -1,41 +1,101 @@
-[00:00:42] [Server thread/INFO]: lm0x issued server command: /give lm0x skull 64 3 {SkullOwner:MHF_QUESTION}
-[00:04:15] [Server thread/INFO]: lm0x was slain by Spider
-[00:04:20] [Server thread/INFO]: lm0x issued server command: /back
-[00:04:49] [Server thread/INFO]: lm0x issued server command: /home
-[00:06:43] [Server thread/INFO]: lm0x issued server command: /toggledownfall
-[00:06:43] [Server thread/INFO]: [lm0x: Toggled downfall]
-[00:15:53] [Server thread/INFO]: lm0x issued server command: /gamemode 3
-[00:17:15] [Server thread/INFO]: lm0x issued server command: /gamemode 0
-[00:21:55] [Server thread/INFO]: lm0x was slain by Spider
-[00:21:59] [Server thread/INFO]: lm0x issued server command: /back
-[00:30:42] [Server thread/INFO]: Ngt_0 lost connection: Internal Exception: java.io.IOException: ä˘ë∂ÇÃê⁄ë±ÇÕÉäÉÇÅ[Ég ÉzÉXÉgÇ…ã≠êßìIÇ…êÿífÇ≥ÇÍÇ‹ÇµÇΩÅB
-[00:30:42] [Server thread/INFO]: Ngt_0 left the game
-[00:51:32] [Server thread/INFO]: lm0x was slain by Spider
-[00:51:37] [Server thread/INFO]: lm0x issued server command: /back
-[00:58:10] [Server thread/INFO]: lm0x issued server command: //butcher
-[00:58:13] [Server thread/INFO]: lm0x issued server command: /home
-[00:58:18] [Server thread/INFO]: lm0x issued server command: /toggledownfall
-[00:58:18] [Server thread/INFO]: [lm0x: Toggled downfall]
-[01:01:14] [Server thread/INFO]: lm0x issued server command: /fly
-[01:05:14] [Server thread/INFO]: lm0x issued server command: /home
-[01:06:08] [Server thread/INFO]: lm0x lost connection: Disconnected
-[01:06:08] [Server thread/INFO]: lm0x left the game
-[01:06:12] [Server thread/INFO]: Stopping the server
-[01:06:12] [Server thread/INFO]: Stopping server
-[01:06:12] [Server thread/INFO]: [Essentials] Disabling Essentials v2.0.1-b461
-[01:06:12] [Server thread/INFO]: [FarmProtect] Disabling FarmProtect v1.8.3
-[01:06:12] [Server thread/INFO]: [ChopTree3] Disabling ChopTree3 v4.0.0
-[01:06:12] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.3;7a097ca
-[01:06:12] [Server thread/INFO]: [HopperPipes] Disabling HopperPipes v0.1
-[01:06:12] [Server thread/INFO]: [dynmap] Disabling dynmap v2.3-1142
-[01:06:12] [Server thread/INFO]: [dynmap] Unloaded 11 components.
-[01:06:12] [Server thread/INFO]: [dynmap] Stopping map renderer...
-[01:06:13] [Server thread/INFO]: [dynmap] Saved 5 pending tile renders in world 'world'
-[01:06:13] [Server thread/INFO]: [dynmap] Disabled
-[01:06:14] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
-[01:06:14] [Server thread/INFO]: [GetCoord] Disabling GetCoord v1.0.0
-[01:06:14] [Server thread/INFO]: Saving players
-[01:06:14] [Server thread/INFO]: Saving worlds
-[01:06:14] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[01:06:14] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
-[01:06:14] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
+[00:00:39] [Server thread/INFO]: lm0x issued server command: /home
+[00:07:16] [Server thread/INFO]: lm0x issued server command: /kill
+[00:07:20] [Server thread/INFO]: lm0x issued server command: /kill lmox
+[00:07:23] [Server thread/INFO]: lm0x issued server command: /kill lm0x
+[00:07:23] [Server thread/INFO]: lm0x died
+[00:08:53] [Server thread/WARN]: lm0x moved wrongly!
+[00:11:08] [Server thread/INFO]: lm0x was slain by Enderman
+[00:15:00] [ReadingThread/INFO]: [DiscordSRV] Chat: [Discord | MusicMaster] lm0x: ÉçÉOÉ}ÉWÇ§ÇÈÇ≥Ç¢Ç»
+[00:16:53] [Server thread/INFO]: lm0x issued server command: /discord reload
+[00:16:58] [ReadingThread/INFO]: [DiscordSRV] Chat: [Discord ] lm0x: aaa
+[00:18:41] [Server thread/INFO]: lm0x issued server command: /discord reload
+[00:18:46] [Server thread/INFO]: lm0x issued server command: /discord unko
+[00:19:00] [ReadingThread/INFO]: [DiscordSRV] Chat: [Discord] lm0x: ÉVÉãÉiÉäÉEÉìÉR
+[00:35:55] [Server thread/INFO]: lm0x issued server command: /gamemode 3
+[00:36:10] [Server thread/INFO]: lm0x issued server command: /gamemode 0
+[00:36:13] [Server thread/INFO]: lm0x issued server command: /fly
+[00:39:21] [Server thread/INFO]: Ngt_0 lost connection: Internal Exception: java.io.IOException: ä˘ë∂ÇÃê⁄ë±ÇÕÉäÉÇÅ[Ég ÉzÉXÉgÇ…ã≠êßìIÇ…êÿífÇ≥ÇÍÇ‹ÇµÇΩÅB
+[00:39:21] [Server thread/INFO]: Ngt_0 left the game
+[00:42:43] [User Authenticator #10/INFO]: UUID of player sm0n is ab5a76f3-023e-4b81-8518-6cf6d1976907
+[00:42:44] [Server thread/INFO]: sm0n[/118.20.51.83:60657] logged in with entity id 83855 at ([world]-191.32744288570555, 80.5, 252.7499690383501)
+[00:42:57] [Server thread/INFO]: sm0n lost connection: Disconnected
+[00:42:57] [Server thread/INFO]: sm0n left the game
+[00:43:03] [User Authenticator #11/INFO]: UUID of player sm0n is ab5a76f3-023e-4b81-8518-6cf6d1976907
+[00:43:03] [Server thread/INFO]: sm0n[/118.20.51.83:60663] logged in with entity id 84052 at ([world]-196.96935149960112, 70.0, 252.9149125455801)
+[00:43:56] [Server thread/INFO]: sm0n issued server command: /home
+[00:44:30] [ReadingThread/INFO]: [DiscordSRV] Chat: [Discord] lm0x: https://www.spigotmc.org/resources/chunkloaderx.19471/
+[00:44:40] [Server thread/INFO]: sm0n issued server command: /gamemode 1
+[00:44:56] [Server thread/INFO]: sm0n issued server command: /home
+[00:44:59] [Server thread/INFO]: sm0n issued server command: /gamemode 0
+[00:46:01] [Server thread/INFO]: sm0n issued server command: /gamemode 1
+[00:56:40] [Server thread/INFO]: lm0x lost connection: Disconnected
+[00:56:40] [Server thread/INFO]: [DiscordSRV] Player lm0x quit with silent quiting permission, not sending a quit message
+[00:56:40] [Server thread/INFO]: lm0x left the game
+[00:56:43] [Server thread/INFO]: com.mojang.authlib.GameProfile@5dddf42e[id=<null>,name=lm0x,properties={},legacy=false] (/127.0.0.1:53033) lost connection: Disconnected
+[00:56:45] [Server thread/INFO]: com.mojang.authlib.GameProfile@16ba24bb[id=<null>,name=lm0x,properties={},legacy=false] (/127.0.0.1:53040) lost connection: Disconnected
+[00:56:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@224104c6[id=<null>,name=lm0x,properties={},legacy=false] (/127.0.0.1:53049) lost connection: Disconnected
+[00:57:15] [ReadingThread/INFO]: [DiscordSRV] Chat: [Discord] lm0x: ÇØÇ¬
+[00:57:23] [ReadingThread/INFO]: [DiscordSRV] Chat: [Discord] lm0x: ÇØÇ¬Ç‹ÇÒÇ±ÇŒÇ¡Ç©ÇËÇ∂Ç·ÇÀÇ¶ÇÊ
+[00:57:29] [User Authenticator #12/INFO]: UUID of player lm0x is f3ed2aef-99b3-47b2-b8bd-27ad2a77c030
+[00:57:29] [Server thread/INFO]: [DiscordSRV] Player lm0x joined with silent joining permission, not sending a join message
+[00:57:29] [Server thread/INFO]: lm0x[/127.0.0.1:53149] logged in with entity id 90362 at ([world]-234.35324438912806, 13.200000047683716, 325.69999998807907)
+[00:57:41] [Server thread/INFO]: lm0x issued server command: /tp sm0n
+[00:57:50] [Server thread/INFO]: lm0x issued server command: /fly
+[00:58:02] [Server thread/INFO]: lm0x issued server command: /gamemode 0 sm0n
+[00:59:19] [Server thread/INFO]: sm0n was slain by lm0x
+[00:59:28] [Server thread/INFO]: lm0x issued server command: /tp sm0n lm0x
+[01:01:29] [Server thread/INFO]: lm0x issued server command: /gamemode 0 sm0n
+[01:01:42] [Server thread/INFO]: lm0x issued server command: /kill lm0x
+[01:01:42] [Server thread/INFO]: lm0x died
+[01:01:50] [Server thread/INFO]: sm0n issued server command: /gamemode 1
+[01:01:54] [Server thread/INFO]: lm0x issued server command: /kill lm0x
+[01:01:54] [Server thread/INFO]: lm0x died
+[01:01:59] [Server thread/INFO]: lm0x issued server command: /gamemode 0 sm0n
+[01:02:02] [Server thread/INFO]: sm0n issued server command: /gamemode 1
+[01:04:34] [Server thread/INFO]: sm0n issued server command: /tp Cokadori
+[01:06:40] [Server thread/INFO]: sm0n issued server command: /gamemode 0
+[01:06:44] [Server thread/INFO]: lm0x lost connection: Disconnected
+[01:06:44] [Server thread/INFO]: [DiscordSRV] Player lm0x quit with silent quiting permission, not sending a quit message
+[01:06:44] [Server thread/INFO]: lm0x left the game
+[01:08:28] [Server thread/INFO]: sm0n issued server command: /gamemode 1
+[01:12:46] [Server thread/INFO]: CONSOLE issued server command: /list 
+[01:12:46] [Server thread/INFO]: [0;33;22mThere are [0;31;1m1[0;33;22m out of maximum [0;31;1m10[0;33;22m players online.[m
+[01:12:46] [Server thread/INFO]: [0;33;22mdefault[m: [msm0n[0;37;1m[m
+[01:17:15] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[01:17:15] [Server thread/INFO]: [0;37;1mPermissions reloaded[m
+[01:17:21] [Server thread/INFO]: [Server] Ç®Å[Å[Å[Å[Ç¢
+[01:17:26] [Server thread/INFO]: CONSOLE issued server command: /list 
+[01:17:26] [Server thread/INFO]: [0;33;22mThere are [0;31;1m1[0;33;22m out of maximum [0;31;1m10[0;33;22m players online.[m
+[01:17:26] [Server thread/INFO]: [0;33;22mdefault[m: [msm0n[0;37;1m[m
+[01:17:29] [Async Chat Thread - #4/INFO]: <sm0n> Ç»ÇÒÇæÉKÉCÉW[m
+[01:17:39] [ReadingThread/INFO]: [DiscordSRV] Chat: [Discord] lm0x: éIï¬Ç∂ÇƒÇ¢Ç¢Ç∑Ç©
+[01:17:47] [Async Chat Thread - #4/INFO]: <sm0n> ÇÕÅH[m
+[01:17:51] [ReadingThread/INFO]: [DiscordSRV] Chat: [Discord] lm0x: Ç¶ÅH
+[01:17:57] [Server thread/INFO]: sm0n lost connection: Disconnected
+[01:17:57] [Server thread/INFO]: sm0n left the game
+[01:18:03] [ReadingThread/INFO]: [DiscordSRV] Chat: [Discord] lm0x: Ç¶Ç¶ÇÒÇ©Ç¢
+[01:18:06] [Server thread/INFO]: Stopping the server
+[01:18:06] [Server thread/INFO]: Stopping server
+[01:18:06] [Server thread/INFO]: [Essentials] Disabling Essentials v2.0.1-b461
+[01:18:06] [Server thread/INFO]: [FarmProtect] Disabling FarmProtect v1.8.3
+[01:18:06] [Server thread/INFO]: [DiscordSRV] Disabling DiscordSRV v12.4
+[01:18:06] [Server thread/INFO]: [ChopTree3] Disabling ChopTree3 v4.0.0
+[01:18:06] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.3;7a097ca
+[01:18:06] [Server thread/INFO]: [HopperPipes] Disabling HopperPipes v0.1
+[01:18:06] [Server thread/INFO]: [dynmap] Disabling dynmap v2.3-1142
+[01:18:07] [Server thread/INFO]: [dynmap] Unloaded 11 components.
+[01:18:07] [Server thread/INFO]: [dynmap] Stopping map renderer...
+[01:18:07] [ReadingThread/INFO]: [DiscordSRV] [JDA] The connection was closed!
+[01:18:07] [ReadingThread/INFO]: [DiscordSRV] [JDA] By remote? false
+[01:18:07] [ReadingThread/INFO]: [DiscordSRV] [JDA] Reason: null
+[01:18:07] [ReadingThread/INFO]: [DiscordSRV] [JDA] Close code: 1000
+[01:18:08] [Server thread/INFO]: [dynmap] Saved 1 pending tile renders in world 'world'
+[01:18:08] [Server thread/INFO]: [dynmap] Saved 31872 pending tile renders in world 'world_the_end'
+[01:18:13] [Server thread/INFO]: [dynmap] Disabled
+[01:18:13] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
+[01:18:13] [Server thread/INFO]: [GetCoord] Disabling GetCoord v1.0.0
+[01:18:13] [Server thread/INFO]: Saving players
+[01:18:13] [Server thread/INFO]: Saving worlds
+[01:18:13] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[01:18:13] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[01:18:13] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End

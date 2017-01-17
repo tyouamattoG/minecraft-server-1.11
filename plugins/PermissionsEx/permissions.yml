@@ -1,6 +1,7 @@
 groups:
   Member:
     permissions:
+    - discordsrv.chat
     - essentials.sethome
     - essentials.home
     - essentials.back
