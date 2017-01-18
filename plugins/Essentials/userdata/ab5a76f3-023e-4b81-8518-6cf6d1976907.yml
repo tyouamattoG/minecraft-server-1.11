@@ -1,14 +1,14 @@
 lastlocation:
   world: world
-  x: -186.5
-  y: 70.0
-  z: 257.5
-  yaw: 74.54999
-  pitch: 12.749994
+  x: -420.68296160842914
+  y: 92.47208029337797
+  z: 197.49658252778352
+  yaw: -271.7996
+  pitch: 35.99992
 timestamps:
-  lastteleport: 1484667896821
-  logout: 1484669877240
-  login: 1484667783393
+  lastteleport: 1484755055683
+  logout: 1484756776490
+  login: 1484756048127
 homes:
   home:
     world: world
@@ -19,11 +19,11 @@ homes:
     pitch: 44.699993
 logoutlocation:
   world: world
-  x: -436.5069747717554
-  y: 70.2353528007938
-  z: 205.1229167881916
-  yaw: -258.1502
-  pitch: 60.899967
+  x: -810.7477323723388
+  y: 256.0
+  z: 33.81558126515341
+  yaw: 317.2508
+  pitch: 51.45
 lastAccountName: sm0n
 ipAddress: 118.20.51.83
 afk: false

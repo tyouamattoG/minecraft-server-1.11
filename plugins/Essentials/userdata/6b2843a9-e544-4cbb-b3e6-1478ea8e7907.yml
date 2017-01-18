@@ -1,21 +1,21 @@
 timestamps:
-  lastteleport: 1484238376597
-  logout: 1484577361598
-  login: 1484575469564
+  lastteleport: 1484746881891
+  logout: 1484747222182
+  login: 1484734208200
 lastlocation:
   world: world
-  x: 1000002.3849339478
-  y: 24.0
-  z: 99955.82711317648
-  yaw: -269.9638
-  pitch: 17.55002
+  x: -214.04427369186078
+  y: 14.0
+  z: 187.20472183277332
+  yaw: 46.499878
+  pitch: 10.949806
 logoutlocation:
   world: world
-  x: -65.93128790438463
-  y: 12.200000047683716
-  z: 288.30000001192093
-  yaw: 264.9078
-  pitch: 17.100437
+  x: -196.985979109672
+  y: 67.9375
+  z: 186.42944841884034
+  yaw: -331.002
+  pitch: 27.899862
 lastAccountName: Cokadori
 ipAddress: 120.72.13.198
 afk: false
