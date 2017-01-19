@@ -42,7 +42,7 @@ users:
       name: lm0x
   ab5a76f3-023e-4b81-8518-6cf6d1976907:
     group:
-    - Moderator
+    #- Moderator
     options:
       name: sm0n
   6b2843a9-e544-4cbb-b3e6-1478ea8e7907:
