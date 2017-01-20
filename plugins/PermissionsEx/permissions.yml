@@ -47,7 +47,7 @@ users:
       name: sm0n
   6b2843a9-e544-4cbb-b3e6-1478ea8e7907:
     group:
-    - Moderator
+    #- Moderator
     options:
       name: Cokadori
 schema-version: 1
