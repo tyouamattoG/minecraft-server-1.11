@@ -1,209 +1,177 @@
-[16:57:50] [Server thread/INFO]: Starting minecraft server version 1.11
-[16:57:50] [Server thread/INFO]: Loading properties
-[16:57:50] [Server thread/INFO]: Default game type: SURVIVAL
-[16:57:50] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-6f7aabf-c8ff651 (MC: 1.11) (Implementing API version 1.11-R0.1-SNAPSHOT)
-[16:57:50] [Server thread/INFO]: Unable to find file banned-players.json, creating it.
-[16:57:50] [Server thread/INFO]: Debug logging is disabled
-[16:57:50] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[16:57:50] [Server thread/INFO]: Using 4 threads for Netty based IO
-[16:57:50] [Server thread/INFO]: Generating keypair
-[16:57:50] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:57:50] [Server thread/INFO]: Using default channel type
-[16:57:51] [Server thread/INFO]: Set PluginClassLoader as parallel capable
-[16:57:51] [Server thread/INFO]: [GetCoord] Loading GetCoord v1.0.0
-[16:57:51] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.4
-[16:57:51] [Server thread/INFO]: [dynmap] Loading dynmap v2.3-1142
-[16:57:51] [Server thread/INFO]: [dynmap] version=git-Spigot-6f7aabf-c8ff651 (MC: 1.11)
-[16:57:51] [Server thread/INFO]: [dynmap] Mod Support API available
-[16:57:51] [Server thread/INFO]: [HopperPipes] Loading HopperPipes v0.1
-[16:57:51] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.3;7a097ca
-[16:57:51] [Server thread/INFO]: [ChopTree3] Loading ChopTree3 v4.0.0
-[16:57:51] [Server thread/INFO]: [DiscordSRV] Loading DiscordSRV v12.4
-[16:57:51] [Server thread/INFO]: [FarmProtect] Loading FarmProtect v1.8.3
-[16:57:51] [Server thread/INFO]: [Essentials] Loading Essentials v2.0.1-b461
-[16:57:52] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[16:57:52] [Server thread/INFO]: Preparing level "world"
-[16:57:52] [Server thread/INFO]: -------- World Settings For [world] --------
-[16:57:52] [Server thread/INFO]: Item Despawn Rate: 6000
-[16:57:52] [Server thread/INFO]: Item Merge Radius: 2.5
-[16:57:52] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[16:57:52] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[16:57:52] [Server thread/INFO]: View Distance: 10
-[16:57:52] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[16:57:52] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[16:57:52] [Server thread/INFO]: Experience Merge Radius: 3.0
-[16:57:52] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[16:57:52] [Server thread/INFO]: Mob Spawn Range: 4
-[16:57:52] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[16:57:52] [Server thread/INFO]: Structure Info Saving: true
-[16:57:52] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[16:57:52] [Server thread/INFO]: Cane Growth Modifier: 100%
-[16:57:52] [Server thread/INFO]: Melon Growth Modifier: 100%
-[16:57:52] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[16:57:52] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[16:57:52] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[16:57:52] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[16:57:52] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[16:57:52] [Server thread/INFO]: Vine Growth Modifier: 100%
-[16:57:52] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[16:57:52] [Server thread/INFO]: Random Lighting Updates: false
-[16:57:52] [Server thread/INFO]: Max TNT Explosions: 100
-[16:57:52] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[16:57:52] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[16:57:52] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[16:57:52] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[16:57:52] [Server thread/INFO]: Item Despawn Rate: 6000
-[16:57:52] [Server thread/INFO]: Item Merge Radius: 2.5
-[16:57:52] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[16:57:52] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[16:57:52] [Server thread/INFO]: View Distance: 10
-[16:57:52] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[16:57:52] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[16:57:52] [Server thread/INFO]: Experience Merge Radius: 3.0
-[16:57:52] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[16:57:52] [Server thread/INFO]: Mob Spawn Range: 4
-[16:57:52] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[16:57:52] [Server thread/INFO]: Structure Info Saving: true
-[16:57:52] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[16:57:52] [Server thread/INFO]: Cane Growth Modifier: 100%
-[16:57:52] [Server thread/INFO]: Melon Growth Modifier: 100%
-[16:57:52] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[16:57:52] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[16:57:52] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[16:57:52] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[16:57:52] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[16:57:52] [Server thread/INFO]: Vine Growth Modifier: 100%
-[16:57:52] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[16:57:52] [Server thread/INFO]: Random Lighting Updates: false
-[16:57:52] [Server thread/INFO]: Max TNT Explosions: 100
-[16:57:52] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[16:57:52] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[16:57:52] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[16:57:52] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[16:57:52] [Server thread/INFO]: Item Despawn Rate: 6000
-[16:57:52] [Server thread/INFO]: Item Merge Radius: 2.5
-[16:57:52] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[16:57:52] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[16:57:52] [Server thread/INFO]: View Distance: 10
-[16:57:52] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[16:57:52] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[16:57:52] [Server thread/INFO]: Experience Merge Radius: 3.0
-[16:57:52] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[16:57:52] [Server thread/INFO]: Mob Spawn Range: 4
-[16:57:52] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[16:57:52] [Server thread/INFO]: Structure Info Saving: true
-[16:57:52] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[16:57:52] [Server thread/INFO]: Cane Growth Modifier: 100%
-[16:57:52] [Server thread/INFO]: Melon Growth Modifier: 100%
-[16:57:52] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[16:57:52] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[16:57:52] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[16:57:52] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[16:57:52] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[16:57:52] [Server thread/INFO]: Vine Growth Modifier: 100%
-[16:57:52] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[16:57:52] [Server thread/INFO]: Random Lighting Updates: false
-[16:57:52] [Server thread/INFO]: Max TNT Explosions: 100
-[16:57:52] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[16:57:52] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[16:57:52] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[16:57:52] [Server thread/INFO]: Preparing start region for level 0 (Seed: -8101145141919893)
-[16:57:53] [Server thread/INFO]: Preparing spawn area: 36%
-[16:57:53] [Server thread/INFO]: Preparing start region for level 1 (Seed: -8101145141919893)
-[16:57:54] [Server thread/INFO]: Preparing spawn area: 83%
-[16:57:54] [Server thread/INFO]: Preparing start region for level 2 (Seed: -8101145141919893)
-[16:57:55] [Server thread/INFO]: [GetCoord] Enabling GetCoord v1.0.0
-[16:57:55] [Server thread/INFO]: TEST Plugin Loaded!
-[16:57:55] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4
-[16:57:55] [Server thread/INFO]: [PermissionsEx] Initializing file backend
-[16:57:55] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
-[16:57:55] [Server thread/INFO]: [dynmap] Enabling dynmap v2.3-1142
-[16:57:55] [Server thread/INFO]: [dynmap] Added 1 custom biome mappings
-[16:57:55] [Server thread/INFO]: [dynmap] Using PermissionsEx 1.23.4 for access control
-[16:57:56] [Server thread/INFO]: [dynmap] Mod Support processing completed
-[16:57:57] [Server thread/INFO]: [dynmap] Loaded 23 shaders.
-[16:57:57] [Server thread/INFO]: [dynmap] Loaded 82 perspectives.
-[16:57:57] [Server thread/INFO]: [dynmap] Loaded 14 lightings.
-[16:57:57] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:8123
-[16:57:57] [Server thread/INFO]: [dynmap] version 2.3-1142 is enabled - core version 2.3-2074
-[16:57:57] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
-[16:57:57] [Server thread/INFO]: [dynmap] Loaded 3 pending tile renders for world 'world'
-[16:57:57] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
-[16:57:57] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
-[16:57:57] [Server thread/INFO]: [dynmap] Enabled
-[16:57:57] [Server thread/INFO]: [HopperPipes] Enabling HopperPipes v0.1
-[16:57:57] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.3;7a097ca
-[16:57:57] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
-[16:57:58] [Server thread/WARN]: [WorldEdit] 
-**********************************************
-** This WorldEdit version does not fully support your version of Bukkit.
-**
-** When working with blocks or undoing, chests will be empty, signs
-** will be blank, and so on. There will be no support for entity
-** and biome-related functions.
-**
-** Please see http://wiki.sk89q.com/wiki/WorldEdit/Bukkit_adapters
-**********************************************
-
-[16:57:58] [Server thread/INFO]: [ChopTree3] Enabling ChopTree3 v4.0.0
-[16:57:58] [Server thread/INFO]: [DiscordSRV] Enabling DiscordSRV v12.4
-[16:57:58] [Server thread/INFO]: [DiscordSRV] DiscordSRV is up-to-date. For change logs see the latest file at http://dev.bukkit.org/bukkit-plugins/discordsrv/
-[16:57:59] [Server thread/INFO]: [DiscordSRV] [JDA] JDA starting...
-[16:58:00] [Server thread/INFO]: [DiscordSRV] [JDA] Login Successful!
-[16:58:01] [ReadingThread/INFO]: [DiscordSRV] [JDA] Connected to WebSocket
-[16:58:01] [ReadingThread/INFO]: [DiscordSRV] [JDA] Finished Loading!
-[16:58:01] [Server thread/INFO]: [DiscordSRV] Found guild G:èóÇÃéqÇÃåCâ∫(232552049680711681)
-[16:58:01] [Server thread/INFO]: [DiscordSRV] - TC:notice(266991071236456453)
-[16:58:01] [Server thread/INFO]: [DiscordSRV] - TC:general(232552049680711681)
-[16:58:01] [Server thread/INFO]: [DiscordSRV] - TC:minecraft(260428519517978626)
-[16:58:01] [Server thread/INFO]: [DiscordSRV] - TC:sukebe(260455377269817344)
-[16:58:01] [Server thread/INFO]: [DiscordSRV] - TC:music(266942459668463617)
-[16:58:01] [Server thread/INFO]: [DiscordSRV] - TC:inmu(266833464081383425)
-[16:58:01] [Server thread/INFO]: [DiscordSRV] - TC:ayaroid(269742533922258944)
-[16:58:01] [Server thread/INFO]: [DiscordSRV] - TC:yamazoe-server-ops(271310556558917643)
-[16:58:01] [Server thread/WARN]: [DiscordSRV] Specified console channel from config could not be found
-[16:58:01] [Server thread/INFO]: [DiscordSRV] No chat plugin hooks enabled
-[16:58:01] [Server thread/INFO]: [DiscordSRV] Colors: {3498db=&3, 9b59b6=&5, 71368a=&5, a84300=&6, 99aab5=&f, e74c3c=&c, 11806a=&2, 206694=&1, 992d22=&4, e91e63=&d, e67e22=&6, 979c9f=&7, 607d8b=&8, ad1457=&d, 1abc9c=&a, 95a5a6=&7, c27c0e=&6, 1f8b4c=&2, f1c40f=&e, 2ecc71=&a, 546e7a=&8}
-[16:58:01] [Server thread/INFO]: [FarmProtect] Enabling FarmProtect v1.8.3
-[16:58:01] [Server thread/INFO]: [FarmProtect] You are running the latest version of FarmProtect
-[16:58:01] [Server thread/INFO]: [FarmProtect] Version 1.8.3 by jacklin213 has been Enabled!
-[16:58:01] [Server thread/INFO]: [Essentials] Enabling Essentials v2.0.1-b461
-[16:58:01] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
-[16:58:02] [Server thread/INFO]: [Essentials] Using Reflection based provider as spawn egg provider.
-[16:58:02] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
-[16:58:02] [Server thread/INFO]: Using locale ja_JP
-[16:58:02] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global PluginMetrics config.
-[16:58:02] [Server thread/WARN]: [Essentials] Detected supported permissions plugin PermissionsEx without Vault installed.
-[16:58:02] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
-[16:58:02] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
-[16:58:02] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[16:58:02] [Server thread/INFO]: Done (10.333s)! For help, type "help" or "?"
-[16:58:02] [Server thread/INFO]: Starting GS4 status listener
-[16:58:02] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
-[16:58:02] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
-[16:58:07] [Server thread/INFO]: CONSOLE issued server command: /ban sm0n
-[16:58:08] [Server thread/INFO]: Åò6PlayerÅòc Console Åò6bannedÅòc sm0n Åò6for: ÅòcÅòcYou have been banned:
-ÅòrThe Ban Hammer has spoken!Åò6.
-[16:58:54] [Server thread/INFO]: Stopping the server
-[16:58:54] [Server thread/INFO]: Stopping server
-[16:58:54] [Server thread/INFO]: [Essentials] Disabling Essentials v2.0.1-b461
-[16:58:54] [Server thread/INFO]: [FarmProtect] Disabling FarmProtect v1.8.3
-[16:58:54] [Server thread/INFO]: [DiscordSRV] Disabling DiscordSRV v12.4
-[16:58:54] [Server thread/INFO]: [ChopTree3] Disabling ChopTree3 v4.0.0
-[16:58:54] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.3;7a097ca
-[16:58:54] [Server thread/INFO]: [HopperPipes] Disabling HopperPipes v0.1
-[16:58:54] [Server thread/INFO]: [dynmap] Disabling dynmap v2.3-1142
-[16:58:54] [Server thread/INFO]: [dynmap] Unloaded 11 components.
-[16:58:54] [Server thread/INFO]: [dynmap] Stopping map renderer...
-[16:58:54] [ReadingThread/INFO]: [DiscordSRV] [JDA] The connection was closed!
-[16:58:54] [ReadingThread/INFO]: [DiscordSRV] [JDA] By remote? false
-[16:58:54] [ReadingThread/INFO]: [DiscordSRV] [JDA] Reason: null
-[16:58:54] [ReadingThread/INFO]: [DiscordSRV] [JDA] Close code: 1000
-[16:58:55] [Server thread/INFO]: [dynmap] Disabled
-[16:58:55] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
-[16:58:55] [Server thread/INFO]: [GetCoord] Disabling GetCoord v1.0.0
-[16:58:55] [Server thread/INFO]: Saving players
-[16:58:55] [Server thread/INFO]: Saving worlds
-[16:58:55] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[16:58:56] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
-[16:58:56] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
+[00:17:09] [Server thread/INFO]: lm0x issued server command: //butcher
+[00:17:26] [Server thread/INFO]: lm0x issued server command: /gamemode 0 Flasushi
+[00:18:44] [Server thread/INFO]: lm0x issued server command: /fly
+[00:19:20] [Server thread/INFO]: lm0x issued server command: /fly
+[00:19:29] [Server thread/INFO]: lm0x issued server command: /fly
+[00:19:47] [Server thread/INFO]: lm0x issued server command: /fly
+[00:20:22] [Server thread/INFO]: lm0x issued server command: /gamemode 1
+[00:20:37] [Server thread/INFO]: lm0x issued server command: //set 1
+[00:20:47] [Server thread/INFO]: lm0x issued server command: //set 1
+[00:20:54] [Server thread/INFO]: lm0x issued server command: /gamemode 0
+[00:20:57] [Server thread/INFO]: lm0x issued server command: /gamemode 0
+[00:20:59] [Server thread/INFO]: lm0x issued server command: //set 1
+[00:21:01] [Server thread/INFO]: lm0x issued server command: //set 1
+[00:21:10] [Server thread/INFO]: lm0x issued server command: //gamemode 1
+[00:21:14] [Server thread/INFO]: lm0x issued server command: /gamemode 1
+[00:21:18] [Server thread/INFO]: lm0x issued server command: /gamemode 0
+[00:21:32] [User Authenticator #3/INFO]: UUID of player Ngt_0 is 73f0ca61-ba45-42cc-9054-31b1d88658b7
+[00:21:32] [Server thread/INFO]: Ngt_0[/14.132.185.68:50049] logged in with entity id 17314 at ([world]-268.69999998807907, 16.0, 383.1942005602549)
+[00:23:07] [Server thread/INFO]: lm0x issued server command: /fly
+[00:29:47] [Server thread/INFO]: Flasushi has just earned the achievement [Time to Strike!]
+[00:31:20] [Server thread/INFO]: Flasushi has just earned the achievement [Diamonds to you!]
+[00:32:16] [Server thread/INFO]: Flasushi has just earned the achievement [Monster Hunter]
+[00:36:16] [Server thread/INFO]: Ngt_0 was shot by Skeleton
+[00:38:34] [Server thread/WARN]: lm0x moved wrongly!
+[00:40:29] [Server thread/INFO]: Flasushi issued server command: /frame lm0x 10
+[00:40:37] [Server thread/INFO]: Flasushi issued server command: /help 10
+[00:40:39] [Server thread/INFO]: Flasushi issued server command: /help
+[00:40:41] [Server thread/INFO]: Flasushi issued server command: /help2
+[00:40:44] [Server thread/INFO]: Flasushi issued server command: /help 2
+[00:40:48] [Server thread/INFO]: Flasushi issued server command: /give
+[00:41:04] [Server thread/INFO]: lm0x issued server command: /coord
+[00:41:05] [Server thread/INFO]: Flasushi issued server command: /give Flasushi
+[00:41:37] [Server thread/INFO]: lm0x issued server command: /coord
+[00:42:30] [Server thread/INFO]: lm0x issued server command: /gamemode 3
+[00:42:50] [Server thread/INFO]: lm0x issued server command: /gamemode 0
+[00:43:02] [Server thread/INFO]: lm0x issued server command: /gamemode 3
+[00:43:10] [Server thread/INFO]: lm0x issued server command: /gamemode 0
+[00:43:15] [Server thread/INFO]: lm0x issued server command: /gamemode 3
+[00:45:05] [Server thread/INFO]: lm0x issued server command: /gamemode 0
+[00:45:08] [Server thread/INFO]: lm0x issued server command: /fly
+[00:45:59] [Server thread/INFO]: Ngt_0 was shot by Flasushi
+[00:47:21] [Server thread/INFO]: Ngt_0 was shot by Skeleton
+[00:47:50] [Server thread/INFO]: Ngt_0 was shot by Skeleton
+[00:54:12] [Server thread/WARN]: Horse moved wrongly!
+[00:54:12] [Server thread/WARN]: Horse moved wrongly!
+[00:54:12] [Server thread/WARN]: Horse moved wrongly!
+[00:54:12] [Server thread/WARN]: Horse moved wrongly!
+[00:54:12] [Server thread/WARN]: Horse moved wrongly!
+[00:54:12] [Server thread/WARN]: Horse moved wrongly!
+[00:54:12] [Server thread/WARN]: Horse moved wrongly!
+[00:54:12] [Server thread/WARN]: Horse moved wrongly!
+[00:54:13] [Server thread/WARN]: Horse moved wrongly!
+[00:54:56] [Server thread/WARN]: Horse moved wrongly!
+[00:54:56] [Server thread/WARN]: Horse moved wrongly!
+[00:55:40] [Server thread/WARN]: Horse moved wrongly!
+[00:55:40] [Server thread/WARN]: Horse moved wrongly!
+[00:55:40] [Server thread/WARN]: Horse moved wrongly!
+[00:55:40] [Server thread/WARN]: Horse moved wrongly!
+[00:55:40] [Server thread/WARN]: Horse moved wrongly!
+[00:55:40] [Server thread/WARN]: Horse moved wrongly!
+[00:55:40] [Server thread/WARN]: Horse moved wrongly!
+[00:55:40] [Server thread/WARN]: Horse moved wrongly!
+[00:55:40] [Server thread/WARN]: Horse moved wrongly!
+[00:55:41] [Server thread/WARN]: Horse moved wrongly!
+[00:55:41] [Server thread/WARN]: Horse moved wrongly!
+[00:55:41] [Server thread/WARN]: Horse moved wrongly!
+[00:56:31] [Server thread/WARN]: Horse moved wrongly!
+[00:58:07] [Server thread/INFO]: lm0x issued server command: /pex reload
+[00:58:07] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[00:58:55] [Server thread/INFO]: lm0x issued server command: /gamemode
+[00:58:57] [Server thread/INFO]: lm0x issued server command: /gamemode 3
+[00:59:35] [Server thread/INFO]: lm0x issued server command: /coord
+[00:59:48] [Server thread/INFO]: lm0x issued server command: /coord
+[01:00:47] [Server thread/INFO]: lm0x issued server command: /gamemode 0
+[01:09:26] [Server thread/INFO]: lm0x issued server command: /fly
+[01:10:31] [Server thread/WARN]: lm0x moved wrongly!
+[01:19:17] [Server thread/WARN]: Horse moved wrongly!
+[01:19:17] [Server thread/WARN]: Horse moved wrongly!
+[01:19:18] [Server thread/WARN]: Horse moved wrongly!
+[01:19:28] [Server thread/WARN]: Horse moved wrongly!
+[01:19:28] [Server thread/WARN]: Horse moved wrongly!
+[01:19:28] [Server thread/WARN]: Horse moved wrongly!
+[01:19:29] [Server thread/WARN]: Horse moved wrongly!
+[01:19:29] [Server thread/WARN]: Horse moved wrongly!
+[01:19:29] [Server thread/WARN]: Horse moved wrongly!
+[01:19:29] [Server thread/WARN]: Horse moved wrongly!
+[01:19:29] [Server thread/WARN]: Horse moved wrongly!
+[01:19:29] [Server thread/WARN]: Horse moved wrongly!
+[01:19:29] [Server thread/WARN]: Horse moved wrongly!
+[01:19:30] [Server thread/WARN]: Horse moved wrongly!
+[01:19:30] [Server thread/WARN]: Horse moved wrongly!
+[01:19:30] [Server thread/WARN]: Horse moved wrongly!
+[01:19:30] [Server thread/WARN]: Horse moved wrongly!
+[01:19:30] [Server thread/WARN]: Horse moved wrongly!
+[01:19:30] [Server thread/WARN]: Horse moved wrongly!
+[01:19:30] [Server thread/WARN]: Horse moved wrongly!
+[01:19:30] [Server thread/WARN]: Horse moved wrongly!
+[01:19:30] [Server thread/WARN]: Horse moved wrongly!
+[01:19:31] [Server thread/WARN]: Horse moved wrongly!
+[01:19:31] [Server thread/WARN]: Horse moved wrongly!
+[01:19:31] [Server thread/WARN]: Horse moved wrongly!
+[01:19:31] [Server thread/WARN]: Horse moved wrongly!
+[01:19:31] [Server thread/WARN]: Horse moved wrongly!
+[01:19:31] [Server thread/WARN]: Horse moved wrongly!
+[01:19:32] [Server thread/WARN]: Horse moved wrongly!
+[01:19:32] [Server thread/WARN]: Horse moved wrongly!
+[01:19:32] [Server thread/WARN]: Horse moved wrongly!
+[01:19:32] [Server thread/WARN]: Horse moved wrongly!
+[01:19:32] [Server thread/WARN]: Horse moved wrongly!
+[01:19:32] [Server thread/WARN]: Horse moved wrongly!
+[01:19:32] [Server thread/WARN]: Horse moved wrongly!
+[01:19:32] [Server thread/WARN]: Horse moved wrongly!
+[01:19:32] [Server thread/WARN]: Horse moved wrongly!
+[01:19:32] [Server thread/WARN]: Horse moved wrongly!
+[01:19:32] [Server thread/WARN]: Horse moved wrongly!
+[01:19:33] [Server thread/WARN]: Horse moved wrongly!
+[01:19:33] [Server thread/WARN]: Horse moved wrongly!
+[01:19:33] [Server thread/WARN]: Horse moved wrongly!
+[01:19:33] [Server thread/WARN]: Horse moved wrongly!
+[01:19:33] [Server thread/WARN]: Horse moved wrongly!
+[01:19:33] [Server thread/WARN]: Horse moved wrongly!
+[01:19:34] [Server thread/WARN]: Horse moved wrongly!
+[01:19:34] [Server thread/WARN]: Horse moved wrongly!
+[01:19:34] [Server thread/WARN]: Horse moved wrongly!
+[01:19:34] [Server thread/WARN]: Horse moved wrongly!
+[01:19:34] [Server thread/WARN]: Horse moved wrongly!
+[01:19:34] [Server thread/WARN]: Horse moved wrongly!
+[01:19:34] [Server thread/WARN]: Horse moved wrongly!
+[01:19:34] [Server thread/WARN]: Horse moved wrongly!
+[01:19:34] [Server thread/WARN]: Horse moved wrongly!
+[01:19:35] [Server thread/WARN]: Horse moved wrongly!
+[01:19:35] [Server thread/WARN]: Horse moved wrongly!
+[01:19:35] [Server thread/WARN]: Horse moved wrongly!
+[01:19:35] [Server thread/WARN]: Horse moved wrongly!
+[01:19:35] [Server thread/WARN]: Horse moved wrongly!
+[01:19:35] [Server thread/WARN]: Horse moved wrongly!
+[01:19:48] [Server thread/WARN]: Horse moved wrongly!
+[01:19:49] [Server thread/WARN]: Horse moved wrongly!
+[01:19:49] [Server thread/WARN]: Horse moved wrongly!
+[01:19:49] [Server thread/WARN]: Horse moved wrongly!
+[01:19:49] [Server thread/WARN]: Horse moved wrongly!
+[01:19:49] [Server thread/WARN]: Horse moved wrongly!
+[01:19:49] [Server thread/WARN]: Horse moved wrongly!
+[01:19:49] [Server thread/WARN]: Horse moved wrongly!
+[01:19:50] [Server thread/WARN]: Horse moved wrongly!
+[01:19:50] [Server thread/WARN]: Horse moved wrongly!
+[01:19:50] [Server thread/WARN]: Horse moved wrongly!
+[01:19:50] [Server thread/WARN]: Horse moved wrongly!
+[01:19:50] [Server thread/WARN]: Horse moved wrongly!
+[01:19:50] [Server thread/WARN]: Horse moved wrongly!
+[01:19:50] [Server thread/WARN]: Horse moved wrongly!
+[01:19:50] [Server thread/WARN]: Horse moved wrongly!
+[01:19:50] [Server thread/WARN]: Horse moved wrongly!
+[01:22:48] [Server thread/INFO]: Ngt_0 lost connection: Timed out
+[01:22:48] [Server thread/INFO]: Ngt_0 left the game
+[01:41:37] [Server thread/INFO]: Flasushi lost connection: Disconnected
+[01:41:37] [Server thread/INFO]: Flasushi left the game
+[02:26:56] [Server thread/INFO]: lm0x lost connection: Disconnected
+[02:26:56] [Server thread/INFO]: lm0x left the game
+[02:27:00] [Server thread/INFO]: Stopping the server
+[02:27:00] [Server thread/INFO]: Stopping server
+[02:27:00] [Server thread/INFO]: [Essentials] Disabling Essentials v2.0.1-b461
+[02:27:00] [Server thread/INFO]: [FarmProtect] Disabling FarmProtect v1.8.3
+[02:27:00] [Server thread/INFO]: [ChopTree3] Disabling ChopTree3 v4.0.0
+[02:27:00] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.3;7a097ca
+[02:27:00] [Server thread/INFO]: [HopperPipes] Disabling HopperPipes v0.1
+[02:27:00] [Server thread/INFO]: [dynmap] Disabling dynmap v2.3-1142
+[02:27:00] [Server thread/INFO]: [dynmap] Unloaded 11 components.
+[02:27:00] [Server thread/INFO]: [dynmap] Stopping map renderer...
+[02:27:01] [Server thread/INFO]: [dynmap] Disabled
+[02:27:01] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
+[02:27:02] [Server thread/INFO]: [GetCoord] Disabling GetCoord v1.0.0
+[02:27:02] [Server thread/INFO]: Saving players
+[02:27:02] [Server thread/INFO]: Saving worlds
+[02:27:02] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[02:27:02] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[02:27:02] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End

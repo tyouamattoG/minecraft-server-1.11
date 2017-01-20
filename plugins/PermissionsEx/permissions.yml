@@ -10,7 +10,7 @@ groups:
     - choptree.chop
     - dynmap.webregister
     - modifyworld.*
-    - essentials.give
+    - bukkit.command.toggledownfall
     options:
       default: true
   Admin:
@@ -23,7 +23,6 @@ groups:
     inheritance:
     - Member
     permissions:
-    - bukkit.command.toggledownfall
     - permissions.manage.reload*
     - -essentials.gamemode.others
     - essentials.gamemode*
@@ -32,6 +31,7 @@ groups:
     - essentials.tp*
     - essentials.weather
     - essentials.kill
+    - essentials.give
     options:
       default: false
 users:
