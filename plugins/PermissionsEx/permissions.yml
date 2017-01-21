@@ -5,12 +5,14 @@ groups:
     - essentials.sethome
     - essentials.home
     - essentials.back
+    - essentials.fly
     - essentials.home.bed
     - essentials.help
     - choptree.chop
     - dynmap.webregister
     - modifyworld.*
     - bukkit.command.toggledownfall
+    - essentials.gamemode*
     options:
       default: true
   Admin:
@@ -25,7 +27,7 @@ groups:
     permissions:
     - permissions.manage.reload*
     - -essentials.gamemode.others
-    - essentials.gamemode*
+    #- essentials.gamemode*
     - essentials.skul
     - essentials.time*
     - essentials.tp*
