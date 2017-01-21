@@ -8,6 +8,7 @@ groups:
     - essentials.fly
     - essentials.home.bed
     - essentials.help
+    - essentials.afk
     - choptree.chop
     - dynmap.webregister
     - modifyworld.*
