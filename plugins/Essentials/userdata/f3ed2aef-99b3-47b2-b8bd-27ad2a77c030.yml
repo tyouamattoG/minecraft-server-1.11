@@ -1,14 +1,14 @@
 timestamps:
-  lastteleport: 1485086270576
+  lastteleport: 1485098088647
   logout: 1485086568623
-  login: 1485086598823
+  login: 1485092264303
 lastlocation:
   world: world
-  x: -263.5
-  y: 16.0
-  z: 382.5
-  yaw: 0.0
-  pitch: 0.0
+  x: -1144.4367663625849
+  y: 70.28095988513158
+  z: 1022.7492543769935
+  yaw: -85.650246
+  pitch: -6.300029
 homes:
   home:
     world: world
