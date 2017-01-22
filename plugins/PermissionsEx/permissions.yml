@@ -28,13 +28,19 @@ groups:
     permissions:
     - permissions.manage.reload*
     - -essentials.gamemode.others
-    #- essentials.gamemode*
     - essentials.skul
     - essentials.time*
     - essentials.tp*
     - essentials.weather
     - essentials.kill
     - essentials.give
+    options:
+      default: false
+  Editor:
+    inheritance:
+    - Member
+    permissions:
+    - worldedit*
     options:
       default: false
 users:
@@ -44,13 +50,19 @@ users:
     options:
       name: lm0x
   ab5a76f3-023e-4b81-8518-6cf6d1976907:
-    group:
-    #- Moderator
     options:
       name: sm0n
   6b2843a9-e544-4cbb-b3e6-1478ea8e7907:
-    group:
-    #- Moderator
     options:
       name: Cokadori
+  ff256b53-8ce0-4acf-ab53-4fb3562e1c38:
+    group:
+    - Editor
+    options:
+      name: Flasushi
+  73f0ca61-ba45-42cc-9054-31b1d88658b7:
+    group:
+    - Editor
+    options:
+      name: Ngt_0
 schema-version: 1
