@@ -1,44 +1,39 @@
-[00:01:50] [User Authenticator #4/INFO]: UUID of player tyouamattoG is 246113b7-ec57-4fb8-a148-794c7929ba76
-[00:01:51] [Server thread/INFO]: tyouamattoG[/14.132.31.53:51483] logged in with entity id 31482 at ([world]-1161.241595889338, 65.5625, 1014.4474430048873)
-[00:02:26] [Server thread/INFO]: lm0x issued server command: /dmarker add ÉXÉPÉãÉgÉìTTëO icon:minecart label:Station
-[00:02:47] [Server thread/INFO]: lm0x issued server command: /dmarker delete station
-[00:02:52] [Server thread/INFO]: lm0x issued server command: /dmarker delete Station
-[00:02:58] [Server thread/INFO]: lm0x issued server command: /dmarker add ÉXÉPÉãÉgÉìTTëO icon:minecart
-[00:03:22] [Server thread/INFO]: lm0x issued server command: /dmarker add íwÂÅTTëO icon:minecart
-[00:05:23] [Server thread/INFO]: lm0x issued server command: /dmarker add éRìYíÜâõ icon:minecart
-[00:10:22] [Server thread/INFO]: lm0x issued server command: //set 1:2
-[00:10:25] [Server thread/INFO]: lm0x issued server command: //set 1:4
-[00:10:41] [Server thread/INFO]: lm0x issued server command: //set 1:4
-[00:11:03] [Server thread/INFO]: lm0x issued server command: //set fence:3
-[00:11:19] [Server thread/INFO]: lm0x issued server command: //set fence:3
-[00:12:39] [Server thread/INFO]: lm0x issued server command: /tp tyouamattoG
-[00:12:57] [Async Chat Thread - #0/INFO]: <tyouamattoG> ì‡ëïç¢Ç¡ÇƒÇÈ[m
-[00:13:14] [Server thread/INFO]: tyouamattoG was shot by Skeleton
-[00:13:31] [Async Chat Thread - #0/INFO]: <tyouamattoG> ÇπÇ‚Ç»[m
-[00:14:48] [Server thread/INFO]: lm0x issued server command: /home
-[00:24:12] [Async Chat Thread - #1/INFO]: <tyouamattoG> eede[m
-[00:24:24] [Server thread/INFO]: Stopping the server
-[00:24:24] [Server thread/INFO]: Stopping server
-[00:24:24] [Server thread/INFO]: [ChopTree3] Disabling ChopTree3 v4.0.0
-[00:24:24] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1.3-SNAPSHOT;c904242
-[00:24:24] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
-[00:24:24] [Server thread/INFO]: [Essentials] Disabling Essentials v2.0.1-b461
-[00:24:24] [Server thread/INFO]: [FarmProtect] Disabling FarmProtect v1.8.3
-[00:24:24] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.3;7a097ca
-[00:24:24] [Server thread/INFO]: [HopperPipes] Disabling HopperPipes v0.1
-[00:24:24] [Server thread/INFO]: [dynmap] Disabling dynmap v2.3-1142
-[00:24:24] [Server thread/INFO]: [dynmap] Unloaded 11 components.
-[00:24:24] [Server thread/INFO]: [dynmap] Stopping map renderer...
-[00:24:25] [Server thread/INFO]: [dynmap] Saved 4 pending tile renders in world 'world'
-[00:24:25] [Server thread/INFO]: [dynmap] Disabled
-[00:24:25] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
-[00:24:25] [Server thread/INFO]: [GetCoord] Disabling GetCoord v1.0.0
-[00:24:25] [Server thread/INFO]: Saving players
-[00:24:25] [Server thread/INFO]: lm0x lost connection: Server closed
-[00:24:25] [Server thread/INFO]: lm0x left the game
-[00:24:25] [Server thread/INFO]: tyouamattoG lost connection: Server closed
-[00:24:25] [Server thread/INFO]: tyouamattoG left the game
-[00:24:25] [Server thread/INFO]: Saving worlds
-[00:24:25] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[00:24:25] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
-[00:24:25] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
+[00:00:10] [Server thread/INFO]: lm0x issued server command: //paste
+[00:00:55] [Server thread/INFO]: lm0x issued server command: //undo
+[00:00:58] [Server thread/INFO]: lm0x issued server command: /tp Ngt_0
+[00:02:23] [Server thread/INFO]: lm0x issued server command: /home
+[00:03:55] [Server thread/INFO]: lm0x issued server command: //set dirt
+[00:04:01] [Server thread/INFO]: lm0x issued server command: //set dirt
+[00:04:14] [Server thread/INFO]: lm0x issued server command: //replace dirt
+[00:04:18] [Server thread/INFO]: lm0x issued server command: //replace 0 dirt
+[00:04:24] [Server thread/INFO]: lm0x issued server command: //undo 5
+[00:04:30] [Server thread/INFO]: lm0x issued server command: //redo
+[00:04:33] [Server thread/INFO]: lm0x issued server command: //redo
+[00:04:36] [Server thread/INFO]: lm0x issued server command: //undo
+[00:04:43] [Server thread/INFO]: lm0x lost connection: Disconnected
+[00:04:43] [Server thread/INFO]: lm0x left the game
+[00:04:48] [Server thread/INFO]: Stopping the server
+[00:04:48] [Server thread/INFO]: Stopping server
+[00:04:48] [Server thread/INFO]: [ChopTree3] Disabling ChopTree3 v4.0.0
+[00:04:48] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1.3-SNAPSHOT;c904242
+[00:04:48] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[00:04:48] [Server thread/INFO]: [Essentials] Disabling Essentials v2.0.1-b461
+[00:04:48] [Server thread/INFO]: [FarmProtect] Disabling FarmProtect v1.8.3
+[00:04:48] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.3;7a097ca
+[00:04:48] [Server thread/INFO]: [HopperPipes] Disabling HopperPipes v0.1
+[00:04:48] [Server thread/INFO]: [dynmap] Disabling dynmap v2.3-1142
+[00:04:48] [Server thread/INFO]: [dynmap] Unloaded 11 components.
+[00:04:48] [Server thread/INFO]: [dynmap] Stopping map renderer...
+[00:04:48] [Server thread/INFO]: [dynmap] Saved 651 pending tile renders in world 'world'
+[00:04:48] [Server thread/INFO]: [dynmap] Disabled
+[00:04:48] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
+[00:04:48] [Server thread/INFO]: [GetCoord] Disabling GetCoord v1.0.0
+[00:04:48] [Server thread/INFO]: Saving players
+[00:04:48] [Server thread/INFO]: Ngt_0 lost connection: Server closed
+[00:04:48] [Server thread/INFO]: Ngt_0 left the game
+[00:04:48] [Server thread/INFO]: Cokadori lost connection: Server closed
+[00:04:48] [Server thread/INFO]: Cokadori left the game
+[00:04:48] [Server thread/INFO]: Saving worlds
+[00:04:48] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[00:04:49] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[00:04:49] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
