@@ -1,39 +1,87 @@
-[00:00:10] [Server thread/INFO]: lm0x issued server command: //paste
-[00:00:55] [Server thread/INFO]: lm0x issued server command: //undo
-[00:00:58] [Server thread/INFO]: lm0x issued server command: /tp Ngt_0
-[00:02:23] [Server thread/INFO]: lm0x issued server command: /home
-[00:03:55] [Server thread/INFO]: lm0x issued server command: //set dirt
-[00:04:01] [Server thread/INFO]: lm0x issued server command: //set dirt
-[00:04:14] [Server thread/INFO]: lm0x issued server command: //replace dirt
-[00:04:18] [Server thread/INFO]: lm0x issued server command: //replace 0 dirt
-[00:04:24] [Server thread/INFO]: lm0x issued server command: //undo 5
-[00:04:30] [Server thread/INFO]: lm0x issued server command: //redo
-[00:04:33] [Server thread/INFO]: lm0x issued server command: //redo
-[00:04:36] [Server thread/INFO]: lm0x issued server command: //undo
-[00:04:43] [Server thread/INFO]: lm0x lost connection: Disconnected
-[00:04:43] [Server thread/INFO]: lm0x left the game
-[00:04:48] [Server thread/INFO]: Stopping the server
-[00:04:48] [Server thread/INFO]: Stopping server
-[00:04:48] [Server thread/INFO]: [ChopTree3] Disabling ChopTree3 v4.0.0
-[00:04:48] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1.3-SNAPSHOT;c904242
-[00:04:48] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
-[00:04:48] [Server thread/INFO]: [Essentials] Disabling Essentials v2.0.1-b461
-[00:04:48] [Server thread/INFO]: [FarmProtect] Disabling FarmProtect v1.8.3
-[00:04:48] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.3;7a097ca
-[00:04:48] [Server thread/INFO]: [HopperPipes] Disabling HopperPipes v0.1
-[00:04:48] [Server thread/INFO]: [dynmap] Disabling dynmap v2.3-1142
-[00:04:48] [Server thread/INFO]: [dynmap] Unloaded 11 components.
-[00:04:48] [Server thread/INFO]: [dynmap] Stopping map renderer...
-[00:04:48] [Server thread/INFO]: [dynmap] Saved 651 pending tile renders in world 'world'
-[00:04:48] [Server thread/INFO]: [dynmap] Disabled
-[00:04:48] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
-[00:04:48] [Server thread/INFO]: [GetCoord] Disabling GetCoord v1.0.0
-[00:04:48] [Server thread/INFO]: Saving players
-[00:04:48] [Server thread/INFO]: Ngt_0 lost connection: Server closed
-[00:04:48] [Server thread/INFO]: Ngt_0 left the game
-[00:04:48] [Server thread/INFO]: Cokadori lost connection: Server closed
-[00:04:48] [Server thread/INFO]: Cokadori left the game
-[00:04:48] [Server thread/INFO]: Saving worlds
-[00:04:48] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[00:04:49] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
-[00:04:49] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
+[00:04:56] [Server thread/INFO]: lm0x issued server command: //set fence
+[00:05:11] [Server thread/INFO]: lm0x issued server command: //set fence
+[00:23:02] [Server thread/INFO]: lm0x issued server command: //set 0
+[00:23:13] [Server thread/INFO]: lm0x issued server command: //set 0
+[00:23:23] [Server thread/INFO]: lm0x issued server command: //set dirt
+[00:23:28] [Async Chat Thread - #1/INFO]: <[0;31;22mlm0x[m> grass[m
+[00:23:34] [Server thread/INFO]: lm0x issued server command: //set grass
+[00:23:57] [Server thread/INFO]: lm0x issued server command: //set 0
+[00:24:09] [Server thread/INFO]: lm0x issued server command: //set 0
+[00:24:20] [Server thread/INFO]: lm0x issued server command: //set grave;
+[00:30:59] [Server thread/INFO]: lm0x issued server command: //set 0
+[00:31:13] [Server thread/INFO]: lm0x issued server command: //set 0
+[00:31:26] [Server thread/INFO]: lm0x issued server command: //set 0
+[00:31:41] [Server thread/INFO]: lm0x issued server command: //set grass
+[00:32:00] [Server thread/INFO]: lm0x issued server command: //set grave;
+[00:32:02] [Server thread/INFO]: lm0x issued server command: //set grave:
+[00:32:06] [Server thread/INFO]: lm0x issued server command: //set 0
+[00:32:10] [Server thread/INFO]: lm0x issued server command: //set grave:
+[00:32:11] [Server thread/INFO]: lm0x issued server command: //set grave
+[00:32:14] [Server thread/INFO]: lm0x issued server command: //set 0
+[00:32:16] [Server thread/INFO]: lm0x issued server command: //set grave
+[00:32:18] [Server thread/INFO]: lm0x issued server command: //set grav
+[00:32:20] [Server thread/INFO]: lm0x issued server command: //set grav
+[00:32:22] [Server thread/INFO]: lm0x issued server command: //set grav
+[00:32:23] [Server thread/INFO]: lm0x issued server command: //set grav
+[00:32:27] [Server thread/INFO]: lm0x issued server command: //set graval
+[00:32:32] [Server thread/INFO]: lm0x issued server command: //set 0
+[00:32:35] [Server thread/INFO]: lm0x issued server command: //set dart
+[00:32:41] [Server thread/INFO]: lm0x issued server command: //set cart
+[00:32:48] [Server thread/INFO]: lm0x issued server command: //set touch
+[00:34:43] [Server thread/INFO]: lm0x issued server command: //undo
+[00:34:53] [Server thread/INFO]: lm0x issued server command: //set grave
+[00:34:58] [Server thread/INFO]: lm0x issued server command: //undo
+[00:35:11] [Server thread/INFO]: lm0x issued server command: //set dar
+[00:35:16] [Server thread/INFO]: lm0x issued server command: //set dir
+[00:35:26] [Server thread/INFO]: lm0x issued server command: //set gras
+[00:36:30] [Server thread/INFO]: lm0x issued server command: //set dirtpat
+[00:38:06] [Server thread/INFO]: lm0x issued server command: //set gravee
+[00:48:09] [Server thread/INFO]: lm0x issued server command: //set dirtpa
+[00:48:12] [Server thread/INFO]: lm0x issued server command: //set dirtpath
+[00:53:31] [Server thread/INFO]: lm0x issued server command: //set fence
+[00:53:46] [Server thread/INFO]: lm0x issued server command: //set fence
+[00:57:55] [Server thread/INFO]: lm0x issued server command: /dmarker add è„éRìY icon:minecrat
+[00:58:00] [Server thread/INFO]: lm0x issued server command: /dmarker add è„éRìY icon:minecaat
+[00:58:03] [Server thread/INFO]: lm0x issued server command: /dmarker add è„éRìY icon:minecart
+[01:00:05] [Server thread/INFO]: lm0x issued server command: //set dirtpath
+[01:01:43] [Server thread/INFO]: lm0x issued server command: //srt 1:6
+[01:01:49] [Server thread/INFO]: lm0x issued server command: //set 1:6
+[01:03:01] [Server thread/INFO]: lm0x issued server command: //set 0
+[01:03:06] [Server thread/INFO]: lm0x issued server command: //set 1:6
+[01:03:14] [Server thread/INFO]: lm0x issued server command: //set 1:6
+[01:03:21] [Server thread/INFO]: lm0x issued server command: //set 1:6
+[01:04:38] [Server thread/INFO]: lm0x issued server command: //set 1:6
+[01:07:28] [Server thread/INFO]: lm0x issued server command: //set dirtpath
+[01:07:50] [Server thread/INFO]: lm0x issued server command: //set 1:6
+[01:09:57] [Server thread/INFO]: lm0x issued server command: //set 1:6
+[01:10:37] [Server thread/INFO]: lm0x issued server command: //set dirtpath
+[01:10:47] [Server thread/INFO]: lm0x issued server command: //set dirtpath
+[01:18:51] [Server thread/INFO]: lm0x issued server command: //set dirtpath
+[01:18:55] [Server thread/INFO]: lm0x issued server command: //set dirtpath
+[01:23:27] [Server thread/INFO]: lm0x issued server command: //set wll.
+[01:23:35] [Server thread/INFO]: lm0x issued server command: //set wool:red
+[01:23:44] [Server thread/INFO]: lm0x issued server command: //set wool:red
+[01:23:52] [Server thread/INFO]: lm0x issued server command: //set wool:red
+[01:23:58] [Server thread/INFO]: lm0x issued server command: //set wool:red
+[01:29:09] [Server thread/INFO]: lm0x lost connection: Disconnected
+[01:29:09] [Server thread/INFO]: lm0x left the game
+[01:36:04] [Server thread/INFO]: Stopping the server
+[01:36:04] [Server thread/INFO]: Stopping server
+[01:36:04] [Server thread/INFO]: [ChopTree3] Disabling ChopTree3 v4.0.0
+[01:36:04] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1.3-SNAPSHOT;c904242
+[01:36:04] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[01:36:04] [Server thread/INFO]: [Essentials] Disabling Essentials v2.0.1-b461
+[01:36:04] [Server thread/INFO]: [FarmProtect] Disabling FarmProtect v1.8.3
+[01:36:04] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.3;7a097ca
+[01:36:04] [Server thread/INFO]: [HopperPipes] Disabling HopperPipes v0.1
+[01:36:04] [Server thread/INFO]: [dynmap] Disabling dynmap v2.3-1142
+[01:36:04] [Server thread/INFO]: [dynmap] Unloaded 11 components.
+[01:36:04] [Server thread/INFO]: [dynmap] Stopping map renderer...
+[01:36:05] [Server thread/INFO]: [dynmap] Disabled
+[01:36:05] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
+[01:36:05] [Server thread/INFO]: [GetCoord] Disabling GetCoord v1.0.0
+[01:36:05] [Server thread/INFO]: Saving players
+[01:36:05] [Server thread/INFO]: Saving worlds
+[01:36:05] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[01:36:05] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[01:36:05] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
