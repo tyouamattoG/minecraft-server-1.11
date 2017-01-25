@@ -1,87 +1,104 @@
-[00:04:56] [Server thread/INFO]: lm0x issued server command: //set fence
-[00:05:11] [Server thread/INFO]: lm0x issued server command: //set fence
-[00:23:02] [Server thread/INFO]: lm0x issued server command: //set 0
-[00:23:13] [Server thread/INFO]: lm0x issued server command: //set 0
-[00:23:23] [Server thread/INFO]: lm0x issued server command: //set dirt
-[00:23:28] [Async Chat Thread - #1/INFO]: <[0;31;22mlm0x[m> grass[m
-[00:23:34] [Server thread/INFO]: lm0x issued server command: //set grass
-[00:23:57] [Server thread/INFO]: lm0x issued server command: //set 0
-[00:24:09] [Server thread/INFO]: lm0x issued server command: //set 0
-[00:24:20] [Server thread/INFO]: lm0x issued server command: //set grave;
-[00:30:59] [Server thread/INFO]: lm0x issued server command: //set 0
-[00:31:13] [Server thread/INFO]: lm0x issued server command: //set 0
-[00:31:26] [Server thread/INFO]: lm0x issued server command: //set 0
-[00:31:41] [Server thread/INFO]: lm0x issued server command: //set grass
-[00:32:00] [Server thread/INFO]: lm0x issued server command: //set grave;
-[00:32:02] [Server thread/INFO]: lm0x issued server command: //set grave:
-[00:32:06] [Server thread/INFO]: lm0x issued server command: //set 0
-[00:32:10] [Server thread/INFO]: lm0x issued server command: //set grave:
-[00:32:11] [Server thread/INFO]: lm0x issued server command: //set grave
-[00:32:14] [Server thread/INFO]: lm0x issued server command: //set 0
-[00:32:16] [Server thread/INFO]: lm0x issued server command: //set grave
-[00:32:18] [Server thread/INFO]: lm0x issued server command: //set grav
-[00:32:20] [Server thread/INFO]: lm0x issued server command: //set grav
-[00:32:22] [Server thread/INFO]: lm0x issued server command: //set grav
-[00:32:23] [Server thread/INFO]: lm0x issued server command: //set grav
-[00:32:27] [Server thread/INFO]: lm0x issued server command: //set graval
-[00:32:32] [Server thread/INFO]: lm0x issued server command: //set 0
-[00:32:35] [Server thread/INFO]: lm0x issued server command: //set dart
-[00:32:41] [Server thread/INFO]: lm0x issued server command: //set cart
-[00:32:48] [Server thread/INFO]: lm0x issued server command: //set touch
-[00:34:43] [Server thread/INFO]: lm0x issued server command: //undo
-[00:34:53] [Server thread/INFO]: lm0x issued server command: //set grave
-[00:34:58] [Server thread/INFO]: lm0x issued server command: //undo
-[00:35:11] [Server thread/INFO]: lm0x issued server command: //set dar
-[00:35:16] [Server thread/INFO]: lm0x issued server command: //set dir
-[00:35:26] [Server thread/INFO]: lm0x issued server command: //set gras
-[00:36:30] [Server thread/INFO]: lm0x issued server command: //set dirtpat
-[00:38:06] [Server thread/INFO]: lm0x issued server command: //set gravee
-[00:48:09] [Server thread/INFO]: lm0x issued server command: //set dirtpa
-[00:48:12] [Server thread/INFO]: lm0x issued server command: //set dirtpath
-[00:53:31] [Server thread/INFO]: lm0x issued server command: //set fence
-[00:53:46] [Server thread/INFO]: lm0x issued server command: //set fence
-[00:57:55] [Server thread/INFO]: lm0x issued server command: /dmarker add è„éRìY icon:minecrat
-[00:58:00] [Server thread/INFO]: lm0x issued server command: /dmarker add è„éRìY icon:minecaat
-[00:58:03] [Server thread/INFO]: lm0x issued server command: /dmarker add è„éRìY icon:minecart
-[01:00:05] [Server thread/INFO]: lm0x issued server command: //set dirtpath
-[01:01:43] [Server thread/INFO]: lm0x issued server command: //srt 1:6
-[01:01:49] [Server thread/INFO]: lm0x issued server command: //set 1:6
-[01:03:01] [Server thread/INFO]: lm0x issued server command: //set 0
-[01:03:06] [Server thread/INFO]: lm0x issued server command: //set 1:6
-[01:03:14] [Server thread/INFO]: lm0x issued server command: //set 1:6
-[01:03:21] [Server thread/INFO]: lm0x issued server command: //set 1:6
-[01:04:38] [Server thread/INFO]: lm0x issued server command: //set 1:6
-[01:07:28] [Server thread/INFO]: lm0x issued server command: //set dirtpath
-[01:07:50] [Server thread/INFO]: lm0x issued server command: //set 1:6
-[01:09:57] [Server thread/INFO]: lm0x issued server command: //set 1:6
-[01:10:37] [Server thread/INFO]: lm0x issued server command: //set dirtpath
-[01:10:47] [Server thread/INFO]: lm0x issued server command: //set dirtpath
-[01:18:51] [Server thread/INFO]: lm0x issued server command: //set dirtpath
-[01:18:55] [Server thread/INFO]: lm0x issued server command: //set dirtpath
-[01:23:27] [Server thread/INFO]: lm0x issued server command: //set wll.
-[01:23:35] [Server thread/INFO]: lm0x issued server command: //set wool:red
-[01:23:44] [Server thread/INFO]: lm0x issued server command: //set wool:red
-[01:23:52] [Server thread/INFO]: lm0x issued server command: //set wool:red
-[01:23:58] [Server thread/INFO]: lm0x issued server command: //set wool:red
-[01:29:09] [Server thread/INFO]: lm0x lost connection: Disconnected
-[01:29:09] [Server thread/INFO]: lm0x left the game
-[01:36:04] [Server thread/INFO]: Stopping the server
-[01:36:04] [Server thread/INFO]: Stopping server
-[01:36:04] [Server thread/INFO]: [ChopTree3] Disabling ChopTree3 v4.0.0
-[01:36:04] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1.3-SNAPSHOT;c904242
-[01:36:04] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
-[01:36:04] [Server thread/INFO]: [Essentials] Disabling Essentials v2.0.1-b461
-[01:36:04] [Server thread/INFO]: [FarmProtect] Disabling FarmProtect v1.8.3
-[01:36:04] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.3;7a097ca
-[01:36:04] [Server thread/INFO]: [HopperPipes] Disabling HopperPipes v0.1
-[01:36:04] [Server thread/INFO]: [dynmap] Disabling dynmap v2.3-1142
-[01:36:04] [Server thread/INFO]: [dynmap] Unloaded 11 components.
-[01:36:04] [Server thread/INFO]: [dynmap] Stopping map renderer...
-[01:36:05] [Server thread/INFO]: [dynmap] Disabled
-[01:36:05] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
-[01:36:05] [Server thread/INFO]: [GetCoord] Disabling GetCoord v1.0.0
-[01:36:05] [Server thread/INFO]: Saving players
-[01:36:05] [Server thread/INFO]: Saving worlds
-[01:36:05] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[01:36:05] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
-[01:36:05] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
+[00:08:59] [Server thread/INFO]: Flasushi lost connection: Internal Exception: java.io.IOException: ä˘ë∂ÇÃê⁄ë±ÇÕÉäÉÇÅ[Ég ÉzÉXÉgÇ…ã≠êßìIÇ…êÿífÇ≥ÇÍÇ‹ÇµÇΩÅB
+[00:08:59] [Server thread/INFO]: Flasushi left the game
+[00:10:23] [Server thread/INFO]: Cokadori lost connection: Disconnected
+[00:10:23] [Server thread/INFO]: Cokadori left the game
+[00:18:16] [Server thread/INFO]: lm0x issued server command: //set dirtpath
+[00:21:01] [Server thread/INFO]: lm0x lost connection: Disconnected
+[00:21:01] [Server thread/INFO]: lm0x left the game
+[00:28:37] [Server thread/INFO]: Full render starting on world 'world'...[m
+[00:28:42] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 100 tiles rendered (59.32 msec/tile, 34.51 msec per render)[m
+[00:28:50] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 200 tiles rendered (67.52 msec/tile, 41.19 msec per render)[m
+[00:28:59] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 300 tiles rendered (74.46 msec/tile, 45.16 msec per render)[m
+[00:29:10] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 400 tiles rendered (82.47 msec/tile, 48.60 msec per render)[m
+[00:29:20] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 500 tiles rendered (86.68 msec/tile, 50.36 msec per render)[m
+[00:29:32] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 600 tiles rendered (92.92 msec/tile, 52.66 msec per render)[m
+[00:29:43] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 700 tiles rendered (95.21 msec/tile, 52.72 msec per render)[m
+[00:29:54] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 800 tiles rendered (97.06 msec/tile, 52.14 msec per render)[m
+[00:30:08] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 900 tiles rendered (101.82 msec/tile, 52.72 msec per render)[m
+[00:30:19] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 1000 tiles rendered (102.17 msec/tile, 52.70 msec per render)[m
+[00:30:34] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 1100 tiles rendered (106.32 msec/tile, 54.59 msec per render)[m
+[00:30:44] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 1200 tiles rendered (105.88 msec/tile, 53.76 msec per render)[m
+[00:30:54] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 1300 tiles rendered (105.56 msec/tile, 53.75 msec per render)[m
+[00:31:05] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 1400 tiles rendered (105.76 msec/tile, 53.65 msec per render)[m
+[00:31:15] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 1500 tiles rendered (105.09 msec/tile, 53.09 msec per render)[m
+[00:31:23] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 1600 tiles rendered (103.57 msec/tile, 52.26 msec per render)[m
+[00:31:34] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 1700 tiles rendered (103.55 msec/tile, 52.17 msec per render)[m
+[00:31:43] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 1800 tiles rendered (103.14 msec/tile, 51.37 msec per render)[m
+[00:31:52] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 1900 tiles rendered (102.10 msec/tile, 50.84 msec per render)[m
+[00:32:02] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 2000 tiles rendered (101.52 msec/tile, 50.67 msec per render)[m
+[00:32:11] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 2100 tiles rendered (100.96 msec/tile, 49.94 msec per render)[m
+[00:32:20] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 2200 tiles rendered (100.28 msec/tile, 49.34 msec per render)[m
+[00:32:30] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 2300 tiles rendered (99.66 msec/tile, 48.70 msec per render)[m
+[00:32:39] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 2400 tiles rendered (99.07 msec/tile, 47.92 msec per render)[m
+[00:32:48] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 2500 tiles rendered (98.42 msec/tile, 47.22 msec per render)[m
+[00:32:56] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 2600 tiles rendered (97.74 msec/tile, 46.69 msec per render)[m
+[00:33:05] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 2700 tiles rendered (97.19 msec/tile, 46.13 msec per render)[m
+[00:33:13] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 2800 tiles rendered (96.59 msec/tile, 45.67 msec per render)[m
+[00:33:21] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 2900 tiles rendered (95.85 msec/tile, 45.24 msec per render)[m
+[00:33:29] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 3000 tiles rendered (95.05 msec/tile, 44.62 msec per render)[m
+[00:33:38] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 3100 tiles rendered (94.80 msec/tile, 44.35 msec per render)[m
+[00:33:48] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 3200 tiles rendered (94.90 msec/tile, 44.54 msec per render)[m
+[00:33:59] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 3300 tiles rendered (95.44 msec/tile, 45.10 msec per render)[m
+[00:34:10] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 3400 tiles rendered (95.66 msec/tile, 45.25 msec per render)[m
+[00:34:20] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 3500 tiles rendered (95.54 msec/tile, 45.30 msec per render)[m
+[00:34:28] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 3600 tiles rendered (95.11 msec/tile, 45.15 msec per render)[m
+[00:34:38] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 3700 tiles rendered (94.88 msec/tile, 44.94 msec per render)[m
+[00:34:46] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 3800 tiles rendered (94.37 msec/tile, 44.70 msec per render)[m
+[00:34:54] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 3900 tiles rendered (93.97 msec/tile, 44.52 msec per render)[m
+[00:35:04] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 4000 tiles rendered (93.89 msec/tile, 44.41 msec per render)[m
+[00:35:14] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 4100 tiles rendered (93.83 msec/tile, 44.43 msec per render)[m
+[00:35:22] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 4200 tiles rendered (93.43 msec/tile, 44.29 msec per render)[m
+[00:35:30] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 4300 tiles rendered (93.10 msec/tile, 44.16 msec per render)[m
+[00:35:40] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 4400 tiles rendered (92.99 msec/tile, 44.13 msec per render)[m
+[00:35:48] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 4500 tiles rendered (92.53 msec/tile, 43.85 msec per render)[m
+[00:35:56] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 4600 tiles rendered (92.20 msec/tile, 43.65 msec per render)[m
+[00:36:05] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 4700 tiles rendered (91.98 msec/tile, 43.48 msec per render)[m
+[00:36:14] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 4800 tiles rendered (91.86 msec/tile, 43.34 msec per render)[m
+[00:36:23] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 4900 tiles rendered (91.84 msec/tile, 43.30 msec per render)[m
+[00:36:32] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 5000 tiles rendered (91.75 msec/tile, 43.23 msec per render)[m
+[00:36:40] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 5100 tiles rendered (91.47 msec/tile, 43.04 msec per render)[m
+[00:36:49] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 5200 tiles rendered (91.28 msec/tile, 42.91 msec per render)[m
+[00:36:59] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 5300 tiles rendered (91.29 msec/tile, 42.82 msec per render)[m
+[00:37:09] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 5400 tiles rendered (91.40 msec/tile, 42.83 msec per render)[m
+[00:37:19] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 5500 tiles rendered (91.32 msec/tile, 42.71 msec per render)[m
+[00:37:27] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 5600 tiles rendered (91.05 msec/tile, 42.50 msec per render)[m
+[00:37:36] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 5700 tiles rendered (90.85 msec/tile, 42.31 msec per render)[m
+[00:37:44] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 5800 tiles rendered (90.71 msec/tile, 42.24 msec per render)[m
+[00:37:53] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 5900 tiles rendered (90.49 msec/tile, 42.12 msec per render)[m
+[00:38:01] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 6000 tiles rendered (90.25 msec/tile, 41.93 msec per render)[m
+[00:38:09] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 6100 tiles rendered (89.97 msec/tile, 41.77 msec per render)[m
+[00:38:20] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 6200 tiles rendered (90.14 msec/tile, 41.93 msec per render)[m
+[00:38:29] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 6300 tiles rendered (90.15 msec/tile, 41.99 msec per render)[m
+[00:38:37] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 6400 tiles rendered (89.82 msec/tile, 41.81 msec per render)[m
+[00:38:45] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 6500 tiles rendered (89.51 msec/tile, 41.64 msec per render)[m
+[00:38:55] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 6600 tiles rendered (89.53 msec/tile, 41.57 msec per render)[m
+[00:39:06] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 6700 tiles rendered (89.69 msec/tile, 41.66 msec per render)[m
+[00:39:18] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 6800 tiles rendered (90.16 msec/tile, 42.19 msec per render)[m
+[00:39:29] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' in progress - 6900 tiles rendered (90.30 msec/tile, 42.44 msec per render)[m
+[00:39:37] [Dynmap Render Thread/INFO]: Full render of map 'flat' of 'world' completed - 6996 tiles rendered (90.02 msec/map-tile, 42.20 msec per render)[m
+[00:39:54] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 100 tiles rendered (165.91 msec/tile, 127.59 msec per render)[m
+[00:40:08] [Dynmap Render Thread/INFO]: Full render of map 'surface' of 'world' in progress - 200 tiles rendered (154.01 msec/tile, 120.04 msec per render)[m
+[00:40:12] [Server thread/INFO]: Stopping the server
+[00:40:12] [Server thread/INFO]: Stopping server
+[00:40:12] [Server thread/INFO]: [ChopTree3] Disabling ChopTree3 v4.0.0
+[00:40:12] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1.3-SNAPSHOT;c904242
+[00:40:12] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[00:40:12] [Server thread/INFO]: [Essentials] Disabling Essentials v2.0.1-b461
+[00:40:12] [Server thread/INFO]: [FarmProtect] Disabling FarmProtect v1.8.3
+[00:40:12] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.3;7a097ca
+[00:40:12] [Server thread/INFO]: [HopperPipes] Disabling HopperPipes v0.1
+[00:40:12] [Server thread/INFO]: [dynmap] Disabling dynmap v2.3-1142
+[00:40:12] [Server thread/INFO]: [dynmap] Unloaded 11 components.
+[00:40:12] [Server thread/INFO]: [dynmap] Stopping map renderer...
+[00:40:12] [Server thread/INFO]: [dynmap] Saved 41 pending tile renders in world 'world'
+[00:40:12] [Server thread/INFO]: [dynmap] Full render job saved for world 'world'
+[00:40:12] [Server thread/INFO]: [dynmap] Disabled
+[00:40:12] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
+[00:40:12] [Server thread/INFO]: [GetCoord] Disabling GetCoord v1.0.0
+[00:40:12] [Server thread/INFO]: Saving players
+[00:40:12] [Server thread/INFO]: Ngt_0 lost connection: Server closed
+[00:40:12] [Server thread/INFO]: Ngt_0 left the game
+[00:40:12] [Server thread/INFO]: Saving worlds
+[00:40:12] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[00:40:13] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[00:40:13] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
