@@ -53,6 +53,8 @@ users:
     options:
       name: sm0n
   6b2843a9-e544-4cbb-b3e6-1478ea8e7907:
+    group:
+    - Editor
     options:
       name: Cokadori
   ff256b53-8ce0-4acf-ab53-4fb3562e1c38:
