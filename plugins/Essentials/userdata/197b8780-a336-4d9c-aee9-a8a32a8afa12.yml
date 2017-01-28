@@ -1,15 +1,15 @@
 lastAccountName: mikanz4
 timestamps:
-  login: 1485524299617
-  logout: 1485528269278
+  login: 1485606504744
+  logout: 1485609575976
 ipAddress: 202.180.193.176
 logoutlocation:
   world: world
-  x: -137.89944935420624
-  y: 73.0
-  z: 197.761168782449
-  yaw: 40.19995
-  pitch: 19.950039
+  x: -127.76666704821906
+  y: 76.5
+  z: 210.8157534187694
+  yaw: -227.85022
+  pitch: 7.4999857
 lastlocation:
   world: world
   x: -171.4319432027434

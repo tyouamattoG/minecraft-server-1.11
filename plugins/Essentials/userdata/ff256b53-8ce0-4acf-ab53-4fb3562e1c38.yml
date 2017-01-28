@@ -1,8 +1,8 @@
 lastAccountName: Flasushi
 timestamps:
-  login: 1485517324200
+  login: 1485582205914
   lastteleport: 1485521238023
-  logout: 1485529626096
+  logout: 1485588552251
 ipAddress: 49.251.167.8
 afk: false
 lastlocation:
@@ -14,11 +14,11 @@ lastlocation:
   pitch: 9.4500475
 logoutlocation:
   world: world
-  x: -192.08654792562842
-  y: 96.208922687834
-  z: 195.24701127738945
-  yaw: 26.346802
-  pitch: 27.900373
+  x: -57.45350774637056
+  y: 86.11740202713568
+  z: 187.93601000186501
+  yaw: 132.98901
+  pitch: 33.299988
 homes:
   home:
     world: world
