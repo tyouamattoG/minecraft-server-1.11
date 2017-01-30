@@ -1,140 +1,142 @@
-[14:53:26] [Server thread/INFO]: Starting minecraft server version 1.11
-[14:53:27] [Server thread/INFO]: Loading properties
-[14:53:27] [Server thread/INFO]: Default game type: SURVIVAL
-[14:53:28] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-6f7aabf-c8ff651 (MC: 1.11) (Implementing API version 1.11-R0.1-SNAPSHOT)
-[14:53:29] [Server thread/INFO]: Debug logging is disabled
-[14:53:29] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[14:53:29] [Server thread/INFO]: Using 4 threads for Netty based IO
-[14:53:29] [Server thread/INFO]: Generating keypair
-[14:53:30] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:53:30] [Server thread/INFO]: Using default channel type
-[14:53:36] [Server thread/INFO]: Set PluginClassLoader as parallel capable
-[14:53:37] [Server thread/INFO]: [GetCoord] Loading GetCoord v1.0.0
-[14:53:37] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.4
-[14:53:37] [Server thread/INFO]: [dynmap] Loading dynmap v2.3-1142
-[14:53:37] [Server thread/INFO]: [dynmap] version=git-Spigot-6f7aabf-c8ff651 (MC: 1.11)
-[14:53:37] [Server thread/INFO]: [dynmap] Mod Support API available
-[14:53:37] [Server thread/INFO]: [HopperPipes] Loading HopperPipes v0.1
-[14:53:37] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.3;7a097ca
-[14:53:37] [Server thread/INFO]: [FarmProtect] Loading FarmProtect v1.8.3
-[14:53:37] [Server thread/INFO]: [Essentials] Loading Essentials v2.0.1-b461
-[14:53:37] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1.3-SNAPSHOT;c904242
-[14:53:37] [Server thread/INFO]: [ChopTree3] Loading ChopTree3 v4.0.0
-[14:53:37] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[14:53:37] [Server thread/INFO]: Preparing level "world"
-[14:53:37] [Server thread/INFO]: -------- World Settings For [world] --------
-[14:53:37] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[14:53:37] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[14:53:37] [Server thread/INFO]: Experience Merge Radius: 3.0
-[14:53:37] [Server thread/INFO]: View Distance: 10
-[14:53:37] [Server thread/INFO]: Item Merge Radius: 2.5
-[14:53:37] [Server thread/INFO]: Item Despawn Rate: 6000
-[14:53:37] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[14:53:37] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[14:53:37] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[14:53:37] [Server thread/INFO]: Cane Growth Modifier: 100%
-[14:53:37] [Server thread/INFO]: Melon Growth Modifier: 100%
-[14:53:37] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[14:53:37] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[14:53:37] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[14:53:37] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[14:53:37] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[14:53:37] [Server thread/INFO]: Vine Growth Modifier: 100%
-[14:53:37] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[14:53:37] [Server thread/INFO]: Mob Spawn Range: 4
-[14:53:37] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[14:53:37] [Server thread/INFO]: Structure Info Saving: true
-[14:53:37] [Server thread/INFO]: Random Lighting Updates: false
-[14:53:37] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[14:53:37] [Server thread/INFO]: Max TNT Explosions: 100
-[14:53:37] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[14:53:37] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[14:53:37] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[14:53:37] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[14:53:37] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[14:53:37] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[14:53:37] [Server thread/INFO]: Experience Merge Radius: 3.0
-[14:53:37] [Server thread/INFO]: View Distance: 10
-[14:53:37] [Server thread/INFO]: Item Merge Radius: 2.5
-[14:53:37] [Server thread/INFO]: Item Despawn Rate: 6000
-[14:53:37] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[14:53:37] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[14:53:37] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[14:53:37] [Server thread/INFO]: Cane Growth Modifier: 100%
-[14:53:37] [Server thread/INFO]: Melon Growth Modifier: 100%
-[14:53:37] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[14:53:37] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[14:53:37] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[14:53:37] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[14:53:37] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[14:53:37] [Server thread/INFO]: Vine Growth Modifier: 100%
-[14:53:37] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[14:53:37] [Server thread/INFO]: Mob Spawn Range: 4
-[14:53:37] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[14:53:37] [Server thread/INFO]: Structure Info Saving: true
-[14:53:37] [Server thread/INFO]: Random Lighting Updates: false
-[14:53:37] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[14:53:37] [Server thread/INFO]: Max TNT Explosions: 100
-[14:53:37] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[14:53:37] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[14:53:37] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[14:53:38] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[14:53:38] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[14:53:38] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[14:53:38] [Server thread/INFO]: Experience Merge Radius: 3.0
-[14:53:38] [Server thread/INFO]: View Distance: 10
-[14:53:38] [Server thread/INFO]: Item Merge Radius: 2.5
-[14:53:38] [Server thread/INFO]: Item Despawn Rate: 6000
-[14:53:38] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[14:53:38] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[14:53:38] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[14:53:38] [Server thread/INFO]: Cane Growth Modifier: 100%
-[14:53:38] [Server thread/INFO]: Melon Growth Modifier: 100%
-[14:53:38] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[14:53:38] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[14:53:38] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[14:53:38] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[14:53:38] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[14:53:38] [Server thread/INFO]: Vine Growth Modifier: 100%
-[14:53:38] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[14:53:38] [Server thread/INFO]: Mob Spawn Range: 4
-[14:53:38] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[14:53:38] [Server thread/INFO]: Structure Info Saving: true
-[14:53:38] [Server thread/INFO]: Random Lighting Updates: false
-[14:53:38] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[14:53:38] [Server thread/INFO]: Max TNT Explosions: 100
-[14:53:38] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[14:53:38] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[14:53:38] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[14:53:38] [Server thread/INFO]: Preparing start region for level 0 (Seed: -8101145141919893)
-[14:53:39] [Server thread/INFO]: Preparing spawn area: 0%
-[14:53:40] [Server thread/INFO]: Preparing spawn area: 11%
-[14:53:41] [Server thread/INFO]: Preparing spawn area: 61%
-[14:53:42] [Server thread/INFO]: Preparing start region for level 1 (Seed: -8101145141919893)
-[14:53:43] [Server thread/INFO]: Preparing spawn area: 51%
-[14:53:43] [Server thread/INFO]: Preparing start region for level 2 (Seed: -8101145141919893)
-[14:53:43] [Server thread/INFO]: [GetCoord] Enabling GetCoord v1.0.0
-[14:53:43] [Server thread/INFO]: TEST Plugin Loaded!
-[14:53:43] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4
-[14:53:44] [Server thread/INFO]: [PermissionsEx] Initializing file backend
-[14:53:44] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
-[14:53:44] [Server thread/INFO]: [dynmap] Enabling dynmap v2.3-1142
-[14:53:44] [Server thread/INFO]: [dynmap] Added 1 custom biome mappings
-[14:53:44] [Server thread/INFO]: [dynmap] Using PermissionsEx 1.23.4 for access control
-[14:53:48] [Server thread/INFO]: [dynmap] Mod Support processing completed
-[14:53:51] [Server thread/INFO]: [dynmap] Loaded 23 shaders.
-[14:53:51] [Server thread/INFO]: [dynmap] Loaded 82 perspectives.
-[14:53:51] [Server thread/INFO]: [dynmap] Loaded 14 lightings.
-[14:53:51] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:8123
-[14:53:51] [Server thread/INFO]: [dynmap] version 2.3-1142 is enabled - core version 2.3-2074
-[14:53:51] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
-[14:53:51] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
-[14:53:51] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
-[14:53:51] [Server thread/INFO]: [dynmap] Enabled
-[14:53:51] [Server thread/INFO]: [HopperPipes] Enabling HopperPipes v0.1
-[14:53:51] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.3;7a097ca
-[14:53:52] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
-[14:53:52] [Server thread/WARN]: [WorldEdit] 
+[16:32:38] [Server thread/INFO]: Starting minecraft server version 1.11
+[16:32:38] [Server thread/INFO]: Loading properties
+[16:32:38] [Server thread/INFO]: Default game type: SURVIVAL
+[16:32:39] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-6f7aabf-c8ff651 (MC: 1.11) (Implementing API version 1.11-R0.1-SNAPSHOT)
+[16:32:39] [Server thread/INFO]: Debug logging is disabled
+[16:32:39] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:32:39] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:32:39] [Server thread/INFO]: Generating keypair
+[16:32:40] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:32:40] [Server thread/INFO]: Using default channel type
+[16:32:46] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[16:32:47] [Server thread/INFO]: [GetCoord] Loading GetCoord v1.0.0
+[16:32:47] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.4
+[16:32:47] [Server thread/INFO]: [dynmap] Loading dynmap v2.3-1142
+[16:32:47] [Server thread/INFO]: [dynmap] version=git-Spigot-6f7aabf-c8ff651 (MC: 1.11)
+[16:32:48] [Server thread/INFO]: [dynmap] Mod Support API available
+[16:32:48] [Server thread/INFO]: [HopperPipes] Loading HopperPipes v0.1
+[16:32:48] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.3;7a097ca
+[16:32:48] [Server thread/INFO]: [FarmProtect] Loading FarmProtect v1.8.3
+[16:32:48] [Server thread/INFO]: [Essentials] Loading Essentials v2.0.1-b461
+[16:32:48] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1.3-SNAPSHOT;c904242
+[16:32:48] [Server thread/INFO]: [ChopTree3] Loading ChopTree3 v4.0.0
+[16:32:48] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[16:32:48] [Server thread/INFO]: Preparing level "world"
+[16:32:48] [Server thread/INFO]: -------- World Settings For [world] --------
+[16:32:48] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:32:48] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[16:32:48] [Server thread/INFO]: Experience Merge Radius: 3.0
+[16:32:48] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[16:32:48] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:32:48] [Server thread/INFO]: Item Merge Radius: 2.5
+[16:32:48] [Server thread/INFO]: Item Despawn Rate: 6000
+[16:32:48] [Server thread/INFO]: View Distance: 10
+[16:32:48] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:32:48] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[16:32:48] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[16:32:48] [Server thread/INFO]: Random Lighting Updates: false
+[16:32:48] [Server thread/INFO]: Structure Info Saving: true
+[16:32:48] [Server thread/INFO]: Max TNT Explosions: 100
+[16:32:48] [Server thread/INFO]: Mob Spawn Range: 4
+[16:32:48] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:32:48] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:32:48] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:32:48] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:32:48] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:32:48] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:32:48] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:32:48] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:32:48] [Server thread/INFO]: Vine Growth Modifier: 100%
+[16:32:48] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[16:32:48] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:32:48] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[16:32:48] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[16:32:48] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:32:48] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[16:32:48] [Server thread/INFO]: Experience Merge Radius: 3.0
+[16:32:48] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[16:32:48] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:32:48] [Server thread/INFO]: Item Merge Radius: 2.5
+[16:32:48] [Server thread/INFO]: Item Despawn Rate: 6000
+[16:32:48] [Server thread/INFO]: View Distance: 10
+[16:32:48] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:32:48] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[16:32:48] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[16:32:48] [Server thread/INFO]: Random Lighting Updates: false
+[16:32:48] [Server thread/INFO]: Structure Info Saving: true
+[16:32:48] [Server thread/INFO]: Max TNT Explosions: 100
+[16:32:48] [Server thread/INFO]: Mob Spawn Range: 4
+[16:32:48] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:32:48] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:32:48] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:32:48] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:32:48] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:32:48] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:32:48] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:32:48] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:32:48] [Server thread/INFO]: Vine Growth Modifier: 100%
+[16:32:48] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[16:32:48] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:32:48] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[16:32:48] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[16:32:48] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:32:48] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[16:32:48] [Server thread/INFO]: Experience Merge Radius: 3.0
+[16:32:48] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[16:32:48] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:32:48] [Server thread/INFO]: Item Merge Radius: 2.5
+[16:32:48] [Server thread/INFO]: Item Despawn Rate: 6000
+[16:32:48] [Server thread/INFO]: View Distance: 10
+[16:32:48] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:32:48] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[16:32:48] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[16:32:48] [Server thread/INFO]: Random Lighting Updates: false
+[16:32:48] [Server thread/INFO]: Structure Info Saving: true
+[16:32:48] [Server thread/INFO]: Max TNT Explosions: 100
+[16:32:48] [Server thread/INFO]: Mob Spawn Range: 4
+[16:32:48] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:32:48] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:32:48] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:32:48] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:32:48] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:32:48] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:32:48] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:32:48] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:32:48] [Server thread/INFO]: Vine Growth Modifier: 100%
+[16:32:48] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[16:32:48] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:32:48] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[16:32:49] [Server thread/INFO]: Preparing start region for level 0 (Seed: -8101145141919893)
+[16:32:50] [Server thread/INFO]: Preparing spawn area: 2%
+[16:32:51] [Server thread/INFO]: Preparing spawn area: 14%
+[16:32:52] [Server thread/INFO]: Preparing spawn area: 50%
+[16:32:52] [Server thread/INFO]: Preparing start region for level 1 (Seed: -8101145141919893)
+[16:32:53] [Server thread/INFO]: Preparing spawn area: 24%
+[16:32:54] [Server thread/INFO]: Preparing spawn area: 50%
+[16:32:55] [Server thread/INFO]: Preparing start region for level 2 (Seed: -8101145141919893)
+[16:32:56] [Server thread/INFO]: Preparing spawn area: 74%
+[16:32:56] [Server thread/INFO]: [GetCoord] Enabling GetCoord v1.0.0
+[16:32:56] [Server thread/INFO]: TEST Plugin Loaded!
+[16:32:56] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4
+[16:32:56] [Server thread/INFO]: [PermissionsEx] Initializing file backend
+[16:32:56] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[16:32:57] [Server thread/INFO]: [dynmap] Enabling dynmap v2.3-1142
+[16:32:57] [Server thread/INFO]: [dynmap] Added 1 custom biome mappings
+[16:32:57] [Server thread/INFO]: [dynmap] Using PermissionsEx 1.23.4 for access control
+[16:33:02] [Server thread/INFO]: [dynmap] Mod Support processing completed
+[16:33:05] [Server thread/INFO]: [dynmap] Loaded 23 shaders.
+[16:33:05] [Server thread/INFO]: [dynmap] Loaded 82 perspectives.
+[16:33:05] [Server thread/INFO]: [dynmap] Loaded 14 lightings.
+[16:33:06] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:8123
+[16:33:06] [Server thread/INFO]: [dynmap] version 2.3-1142 is enabled - core version 2.3-2074
+[16:33:06] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
+[16:33:06] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
+[16:33:06] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
+[16:33:06] [Server thread/INFO]: [dynmap] Enabled
+[16:33:06] [Server thread/INFO]: [HopperPipes] Enabling HopperPipes v0.1
+[16:33:06] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.3;7a097ca
+[16:33:09] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[16:33:09] [Server thread/WARN]: [WorldEdit] 
 **********************************************
 ** This WorldEdit version does not fully support your version of Bukkit.
 **
@@ -145,532 +147,197 @@
 ** Please see http://wiki.sk89q.com/wiki/WorldEdit/Bukkit_adapters
 **********************************************
 
-[14:53:52] [Server thread/INFO]: [FarmProtect] Enabling FarmProtect v1.8.3
-[14:53:52] [Server thread/INFO]: [FarmProtect] You are running the latest version of FarmProtect
-[14:53:52] [Server thread/INFO]: [FarmProtect] Version 1.8.3 by jacklin213 has been Enabled!
-[14:53:52] [Server thread/INFO]: [Essentials] Enabling Essentials v2.0.1-b461
-[14:53:53] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
-[14:53:53] [Server thread/INFO]: [Essentials] Using Reflection based provider as spawn egg provider.
-[14:53:53] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
-[14:53:54] [Server thread/INFO]: Using locale ja_JP
-[14:53:54] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global PluginMetrics config.
-[14:53:54] [Server thread/WARN]: [Essentials] Detected supported permissions plugin PermissionsEx without Vault installed.
-[14:53:54] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
-[14:53:54] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
-[14:53:54] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1.3-SNAPSHOT;c904242
-[14:53:59] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is blocked.
-[14:53:59] [Server thread/INFO]: [WorldGuard] (world) Lighters are blocked.
-[14:53:59] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
-[14:53:59] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
-[14:53:59] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
-[14:53:59] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is blocked.
-[14:53:59] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are blocked.
-[14:53:59] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is blocked.
-[14:53:59] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
-[14:53:59] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
-[14:53:59] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is blocked.
-[14:53:59] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are blocked.
-[14:53:59] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
-[14:53:59] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
-[14:53:59] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
-[14:53:59] [Server thread/INFO]: [WorldGuard] Loading region data...
-[14:54:00] [Server thread/INFO]: [ChopTree3] Enabling ChopTree3 v4.0.0
-[14:54:00] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[14:54:00] [Server thread/INFO]: Done (22.777s)! For help, type "help" or "?"
-[14:54:00] [Server thread/INFO]: Starting GS4 status listener
-[14:54:00] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
-[15:12:52] [User Authenticator #1/INFO]: UUID of player tyouamattoG is 246113b7-ec57-4fb8-a148-794c7929ba76
-[15:12:53] [Server thread/INFO]: tyouamattoG[/14.132.31.53:59202] logged in with entity id 467 at ([world]-1168.699999988079, 66.875, 1014.4436775945346)
-[15:13:59] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
-[15:23:52] [Server thread/WARN]: Horse moved wrongly!
-[15:25:19] [Server thread/WARN]: Horse moved wrongly!
-[15:26:29] [Server thread/WARN]: Horse moved wrongly!
-[15:26:29] [Server thread/WARN]: Horse moved wrongly!
-[15:27:18] [Server thread/WARN]: tyouamattoG moved wrongly!
-[15:27:22] [Server thread/WARN]: tyouamattoG moved wrongly!
-[15:27:24] [Server thread/WARN]: tyouamattoG moved wrongly!
-[15:27:25] [Server thread/WARN]: tyouamattoG moved wrongly!
-[15:27:30] [Server thread/WARN]: tyouamattoG moved wrongly!
-[15:33:58] [Server thread/WARN]: Horse moved wrongly!
-[15:33:58] [Server thread/WARN]: Horse moved wrongly!
-[15:49:46] [User Authenticator #2/INFO]: UUID of player lm0x is f3ed2aef-99b3-47b2-b8bd-27ad2a77c030
-[15:49:46] [Server thread/INFO]: lm0x[/127.0.0.1:50568] logged in with entity id 19177 at ([world]-135.52239874559805, 67.60319368068102, 267.63626159314504)
-[15:49:57] [Server thread/INFO]: lm0x issued server command: /list
-[15:50:07] [Async Chat Thread - #0/INFO]: <[0;31;22mlm0x[m> ‚Í‚ë[[m
-[15:50:16] [Async Chat Thread - #0/INFO]: <tyouamattoG> èj•Ô‚¹[m
-[15:50:20] [Async Chat Thread - #0/INFO]: <[0;31;22mlm0x[m> ‚¦[m
-[15:50:32] [Async Chat Thread - #0/INFO]: <[0;31;22mlm0x[m> ’m‚ç‚ñ‚Ë‚ñ‚¯‚Ç[m
-[15:50:36] [Async Chat Thread - #0/INFO]: <tyouamattoG> ‚Ä‚ß‚¥‘O‚Ì”nŸè‚É‚Á‚Ä‚Á‚Ä‚»‚Ì‚Ü‚Ü‚â‚Á‚½‚â‚ë‚ª[m
-[15:50:40] [Async Chat Thread - #0/INFO]: <tyouamattoG> E‚·‚¼[m
-[15:50:53] [Async Chat Thread - #0/INFO]: <[0;31;22mlm0x[m> ‚¢‚âƒ}ƒW’m‚ç‚ñ[m
-[15:51:17] [Async Chat Thread - #0/INFO]: <tyouamattoG> ‰Æ‚ñ’†‚É”n‚¨‚ç‚ñ‚©‚Á‚½‚©‚çâ‘Î‚»‚¤‚â‚Ë‚ñ‚¯‚Ç[m
-[15:51:33] [Async Chat Thread - #0/INFO]: <[0;31;22mlm0x[m> —¬Î‚É‚Ì‚è‚Á‚Ï‚Å‚Ç‚Á‚©s‚Á‚½‚è‚Í‚µ‚È‚¢‚Æv‚¤‚ñ‚¾‚¯‚Ç[m
-[15:51:37] [Async Chat Thread - #0/INFO]: <[0;31;22mlm0x[m> ”n‚à‚¢‚È‚¢‚Ì‚©[m
-[15:51:53] [Async Chat Thread - #0/INFO]: <tyouamattoG> ƒNƒ\‚Ù‚Ç’T‚µ‚½‚çX‚ñ’†‚É‚¨‚Á‚½‚í[m
-[15:52:05] [Async Chat Thread - #0/INFO]: <[0;31;22mlm0x[m> ‚í‚©‚ñ‚È‚¢[m
-[15:52:08] [Server thread/INFO]: lm0x issued server command: /gamemode 0
-[15:52:09] [Async Chat Thread - #0/INFO]: <tyouamattoG> j‚Ç‚±‚¶‚á[m
-[15:52:10] [Server thread/INFO]: lm0x issued server command: /gly
-[15:52:13] [Server thread/INFO]: lm0x issued server command: /fly
-[15:52:17] [Async Chat Thread - #0/INFO]: <[0;31;22mlm0x[m> ‚µ‚ç‚È‚¢‚æ‚¨[m
-[15:54:08] [Async Chat Thread - #1/INFO]: <tyouamattoG> ƒNƒŠƒG‚Åo‚¹‚ñ‚ÌH[m
-[15:54:12] [Async Chat Thread - #1/INFO]: <[0;31;22mlm0x[m> o‚¹‚é‚¯‚Ç[m
-[15:54:18] [Async Chat Thread - #1/INFO]: <[0;31;22mlm0x[m> ‚»‚ê‚Å‚¢‚¢‚Ì?[m
-[15:54:28] [Async Chat Thread - #1/INFO]: <tyouamattoG> ‚ ‚Á‚½‚Ì‚È‚­‚È‚Á‚½‚µ‚¦‚¦‚â‚ë[m
-[15:54:32] [Server thread/INFO]: lm0x issued server command: /give tyouamattog loap 1
-[15:54:34] [Async Chat Thread - #1/INFO]: <tyouamattoG> ÀÛ¢‚Á‚Ä‚é[m
-[15:54:37] [Async Chat Thread - #1/INFO]: <tyouamattoG> ‚Â‚ç‚¢[m
-[15:54:47] [Server thread/INFO]: lm0x issued server command: /give tyouamattog rope 1
-[15:54:51] [Async Chat Thread - #1/INFO]: <[0;31;22mlm0x[m> ‚Í‚¢[m
-[15:54:58] [Async Chat Thread - #1/INFO]: <[0;31;22mlm0x[m> ƒNƒŠƒG‚Á‚Ä‚©give‚ ‚¯‚Ç[m
-[15:55:01] [Async Chat Thread - #1/INFO]: <[0;31;22mlm0x[m> ‚¾‚¯‚Ç[m
-[15:55:21] [Async Chat Thread - #1/INFO]: <tyouamattoG> ‚”‚ˆ‚˜[m
-[15:55:41] [Async Chat Thread - #1/INFO]: <[0;31;22mlm0x[m> ‚Ä‚¢‚¤‚©‚İ‚ñ‚Ègamemode‚Í‚Å‚«‚é‚©‚ç‚»‚ê‚Å‚æ‚©‚Á‚½‚Ì‚Å‚Í[m
-[15:55:52] [Async Chat Thread - #1/INFO]: <tyouamattoG> ‚Ü‚¶[m
-[15:56:02] [Async Chat Thread - #1/INFO]: <[0;31;22mlm0x[m> ‘O‚¢‚¤‚½‚â‚ñ[m
-[15:56:11] [Async Chat Thread - #1/INFO]: <tyouamattoG> ‚â‚ç‚È‚³‚·‚¬‚Ä‚í‚·‚ê‚Ä‚é[m
-[15:56:17] [Async Chat Thread - #1/INFO]: <[0;31;22mlm0x[m> ‚à‚Á‚Æ‚µ‚Ä[m
-[15:56:21] [Async Chat Thread - #1/INFO]: <tyouamattoG> ‚¶‚©‚ñ‚È‚¢[m
-[15:56:25] [Async Chat Thread - #1/INFO]: <[0;31;22mlm0x[m> ‚©‚È‚µ‚¢[m
-[15:56:33] [Async Chat Thread - #1/INFO]: <[0;31;22mlm0x[m> Q‚éŠÔ‚ğÉ‚µ‚ñ‚Å[m
-[15:56:33] [Async Chat Thread - #1/INFO]: <tyouamattoG> ‚Â‚ç‚¢[m
-[15:56:37] [Async Chat Thread - #1/INFO]: <tyouamattoG> ‚ÍH[m
-[15:56:41] [Async Chat Thread - #1/INFO]: <[0;31;22mlm0x[m> T_[m
-[15:56:45] [Async Chat Thread - #1/INFO]: <[0;31;22mlm0x[m> T_T[m
-[15:56:52] [Server thread/WARN]: Horse moved wrongly!
-[15:56:53] [Server thread/WARN]: Horse moved wrongly!
-[15:56:53] [Server thread/WARN]: Horse moved wrongly!
-[15:56:53] [Server thread/WARN]: Horse moved wrongly!
-[15:58:25] [Server thread/WARN]: Horse moved wrongly!
-[15:58:33] [Server thread/WARN]: Horse moved wrongly!
-[15:58:33] [Server thread/WARN]: Horse moved wrongly!
-[15:58:33] [Server thread/WARN]: Horse moved wrongly!
-[15:58:33] [Server thread/WARN]: Horse moved wrongly!
-[15:58:33] [Server thread/WARN]: Horse moved wrongly!
-[15:58:34] [Server thread/WARN]: Horse moved wrongly!
-[15:59:12] [Async Chat Thread - #2/INFO]: <tyouamattoG> –³‘Ê‚É‚·‚²‚¢‚±‚Æ‚È‚Á‚Ä‚Ä‚¿‚å‚Á‚ÆŠ´“®‚µ‚Ä‚é[m
-[15:59:18] [Async Chat Thread - #2/INFO]: <[0;31;22mlm0x[m> ƒ“ƒ“ƒ“[m
-[15:59:22] [Async Chat Thread - #2/INFO]: <tyouamattoG> ‚±‚ê‘S•”ƒTƒoƒCƒoƒ‹H[m
-[15:59:25] [Async Chat Thread - #2/INFO]: <[0;31;22mlm0x[m> ‚È‚í‚¯[m
-[15:59:31] [Async Chat Thread - #2/INFO]: <tyouamattoG> Š´“®•Ô‚¹[m
-[15:59:41] [Async Chat Thread - #2/INFO]: <[0;31;22mlm0x[m> ‚¦‚¦[m
-[16:00:04] [Async Chat Thread - #2/INFO]: <tyouamattoG> ‚Ç‚êƒNƒŠƒG‚È‚ñH[m
-[16:00:22] [Async Chat Thread - #2/INFO]: <[0;31;22mlm0x[m> ‘½•ª^V‚µ‚¢‚Ì‚Í‘S•”[m
-[16:00:29] [Async Chat Thread - #2/INFO]: <tyouamattoG> ‚Í[[m
-[16:00:55] [Server thread/WARN]: Horse moved wrongly!
-[16:01:52] [Async Chat Thread - #3/INFO]: <tyouamattoG> Œš‘¢•¨‚Ì“ˆê«‚ÌNASA[m
-[16:02:06] [Async Chat Thread - #3/INFO]: <[0;31;22mlm0x[m> ‚¢‚¢‚¶‚á‚È‚¢‚Ì[m
-[16:02:27] [Server thread/WARN]: Horse moved wrongly!
-[16:02:37] [Async Chat Thread - #3/INFO]: <tyouamattoG> ƒe[ƒ}ƒp[ƒN‚©‚È‚ñ‚©‚©‚±‚±‚Í[m
-[16:02:44] [Async Chat Thread - #3/INFO]: <[0;31;22mlm0x[m> R“Y‘º‚Å‚·‚¯‚Ç[m
-[16:03:04] [Async Chat Thread - #3/INFO]: <tyouamattoG> ‚¨‚¤A‚¨‘O‚Ì’nŒ³‚Ç‚ñ‚È‚¯”­“W‚µ‚Æ‚ñ‚Ë‚ñ[m
-[16:03:16] [Async Chat Thread - #3/INFO]: <[0;31;22mlm0x[m> ƒlƒIR“Y‚¾‚©‚ç•ºŠí[m
-[16:03:19] [Async Chat Thread - #3/INFO]: <[0;31;22mlm0x[m> •½‹C[m
-[16:03:25] [Async Chat Thread - #3/INFO]: <[0;31;22mlm0x[m> weapo‚É‚È‚Á‚Ä‚µ‚Ü‚Á‚½[m
-[16:03:30] [Async Chat Thread - #3/INFO]: <[0;31;22mlm0x[m> weapon[m
-[16:03:30] [Async Chat Thread - #3/INFO]: <tyouamattoG> ‚Ù‚ñ‚Ü•ºŠí‚â‚í[m
-[16:03:38] [Async Chat Thread - #3/INFO]: <[0;31;22mlm0x[m> ^^;[m
-[16:03:55] [Server thread/INFO]: lm0x issued server command: /home
-[16:05:33] [Async Chat Thread - #4/INFO]: <tyouamattoG> ”Ñ‚Æ‚©‚È‚¢‚ñ‚©[m
-[16:06:05] [Async Chat Thread - #4/INFO]: <[0;31;22mlm0x[m> ƒƒV?[m
-[16:06:13] [Async Chat Thread - #4/INFO]: <[0;31;22mlm0x[m> ˆğ”¨‚È‚ç[m
-[16:06:26] [Async Chat Thread - #4/INFO]: <tyouamattoG> ‚Ä‚©‹¤—pƒ`ƒFƒXƒg‚È‚¢‚ñH[m
-[16:06:44] [Async Chat Thread - #4/INFO]: <[0;31;22mlm0x[m> ‚µ‚à‚ñ‚ªr‚ç‚µ‚Ä‘S•”‰ó‚µ‚Ä‚¢‚Á‚½[m
-[16:07:01] [Async Chat Thread - #4/INFO]: <tyouamattoG> ‚­‚»‚Å‚µ‚å[m
-[16:07:06] [Async Chat Thread - #4/INFO]: <[0;31;22mlm0x[m> ƒKƒ`ƒEƒ“ƒR[m
-[16:09:10] [Async Chat Thread - #5/INFO]: <tyouamattoG> “S“¹•~‚©‚ê‚½‚ñŠ´“®‚µ‚½‚¯‚Ç‚±‚±‚Ì‹´ã‚»‚¤‚Å‚È‚ñ‚©ˆŞ‚¦‚½[m
-[16:09:17] [Async Chat Thread - #5/INFO]: <[0;31;22mlm0x[m> ‚¦‚¦[m
-[16:09:40] [Async Chat Thread - #5/INFO]: <tyouamattoG> \‘¢ƒŠƒAƒ‹‚Éì‚Á‚½‚ñ‚â‚Á‚½‚ç‹­“xl‚¦‚Ä[m
-[16:09:48] [Async Chat Thread - #5/INFO]: <tyouamattoG> ‘«•nã‚·‚¬[m
-[16:09:53] [Async Chat Thread - #5/INFO]: <[0;31;22mlm0x[m> ‚¢‚¯‚é‚â‚ë[m
-[16:10:05] [Async Chat Thread - #5/INFO]: <tyouamattoG> ‚¢‚âã‚¢[m
-[16:10:16] [Async Chat Thread - #5/INFO]: <[0;31;22mlm0x[m> ƒMƒŠƒZ[ƒt[m
-[16:10:28] [Async Chat Thread - #5/INFO]: <tyouamattoG> ‚à‚Á‚Æ‚²‚Â‚¢‚Ì‚â‚Á‚½‚ç‚æ‚©‚Á‚½[m
-[16:11:03] [Async Chat Thread - #5/INFO]: <tyouamattoG> ‚ ‚Æ»”™‘¤‚Ìü˜HƒKƒo‚è‚·‚¬[m
-[16:11:03] [Async Chat Thread - #5/INFO]: <[0;31;22mlm0x[m> ‚Ü‚ 4‚Âì‚é‚æ‚è1‚ÂƒfƒJ‚¢‚Ì‚É‚Í‚µ‚½‚©‚Á‚½[m
-[16:11:09] [Async Chat Thread - #5/INFO]: <[0;31;22mlm0x[m> ‚Ç‚ê[m
-[16:11:19] [Async Chat Thread - #5/INFO]: <tyouamattoG> ¡‘–‚Á‚Ä‚é‚Ì[m
-[16:11:25] [Async Chat Thread - #5/INFO]: <[0;31;22mlm0x[m> ‚±‚ê‚µ‚©‚½‚È‚¢[m
-[16:11:48] [Async Chat Thread - #5/INFO]: <tyouamattoG> ‚±‚Ì‚Ö‚ñ‚©‚ç“‚¢[m
-[16:11:58] [Async Chat Thread - #5/INFO]: <[0;31;22mlm0x[m> ƒVƒ‹ƒiƒŠ‚Ì‚¹‚¢[m
-[16:12:13] [Async Chat Thread - #5/INFO]: <tyouamattoG> ‚Ü‚Ÿ•Ê‚É‰´ü˜Hg‚¤‹C‚È‚¢‚µ‚¦‚¦‚¯‚Ç‚—[m
-[16:12:21] [Async Chat Thread - #5/INFO]: <[0;31;22mlm0x[m> ‹j[‚ª‹uì‚Á‚½‚Ì‚É[m
-[16:12:40] [Async Chat Thread - #5/INFO]: <tyouamattoG> ‚±‚ê‹j[‚ª‹uH[m
-[16:12:48] [Async Chat Thread - #5/INFO]: <[0;31;22mlm0x[m> ‚»‚¤[m
-[16:13:01] [Async Chat Thread - #5/INFO]: <tyouamattoG> R“YƒlƒIƒVƒeƒB‚·‚¬‚é‚â‚ë‚—[m
-[16:13:09] [Server thread/WARN]: Horse moved wrongly!
-[16:13:09] [Server thread/WARN]: Horse moved wrongly!
-[16:13:10] [Async Chat Thread - #5/INFO]: <[0;31;22mlm0x[m> ƒEƒP‚é[m
-[16:14:05] [Async Chat Thread - #5/INFO]: <tyouamattoG> ‰w‚©‚ç‚­‚é‚Æ‚±‚±‚©‚ç‚Í“ü‚ê‚é‚Ì‚Ë[m
-[16:14:08] [Async Chat Thread - #5/INFO]: <tyouamattoG> ‚¦‚¦‚â‚ñ[m
-[16:14:13] [Async Chat Thread - #5/INFO]: <[0;31;22mlm0x[m> ‚ñ‚ñ‚[m
-[16:14:18] [Async Chat Thread - #5/INFO]: <tyouamattoG> “üŒû®”õ‚µ‚È‚ ‚©‚ñ‚È‚—[m
-[16:14:23] [Async Chat Thread - #5/INFO]: <[0;31;22mlm0x[m> ‚ ‚ [m
-[16:14:30] [Async Chat Thread - #5/INFO]: <tyouamattoG> ‚±‚±‚Ìã©‹ï‡[m
-[16:14:32] [Async Chat Thread - #5/INFO]: <[0;31;22mlm0x[m> ü˜Hˆø‚Á’£‚Á‚Ä‚­‚é‚Â‚à‚è‚¾‚¯‚Ç[m
-[16:14:38] [Async Chat Thread - #5/INFO]: <tyouamattoG> ‚â‚ß‚Ä[m
-[16:14:43] [Async Chat Thread - #5/INFO]: <[0;31;22mlm0x[m> ‚¦‚¦[m
-[16:14:45] [Async Chat Thread - #5/INFO]: <tyouamattoG> ‰w‚ ‚»‚±‚Å‚¢‚¢‚©‚ç[m
-[16:14:50] [Async Chat Thread - #5/INFO]: <[0;31;22mlm0x[m> ‚¿‚å‚Á‚Æ—£‚·‚©‚ç[m
-[16:14:54] [Async Chat Thread - #5/INFO]: <tyouamattoG> ‚±‚±‚Ü‚Å‚¿‚á‚ñ‚Æ‰´“¹‚Â‚­‚é‚©‚ç[m
-[16:15:01] [Async Chat Thread - #5/INFO]: <tyouamattoG> ‚â‚ß‚Ä[m
-[16:15:05] [Async Chat Thread - #5/INFO]: <[0;31;22mlm0x[m> ‚»‚ê‚à‚¢‚¢[m
-[16:15:11] [Async Chat Thread - #5/INFO]: <tyouamattoG> ’n–¡‚É‰w‚Æ‚Ì‹——£Š´‚¢‚¢‚Ì‚É[m
-[16:15:12] [Async Chat Thread - #5/INFO]: <[0;31;22mlm0x[m> ‚Ç‚Á‚¿‚Å‚à‚¢‚¢[m
-[16:15:14] [Async Chat Thread - #5/INFO]: <[0;31;22mlm0x[m> ‚»‚ê[m
-[16:15:28] [Async Chat Thread - #5/INFO]: <tyouamattoG> ‚¿‚á‚ñ‚Æ‹C‚â‚·‚­‚Í‚·‚é‚©‚ç‚—[m
-[16:15:34] [Async Chat Thread - #5/INFO]: <tyouamattoG> —ˆ‚â‚·‚­[m
-[16:15:53] [Async Chat Thread - #5/INFO]: <[0;31;22mlm0x[m> ‚¿‚å‚Á‚Æ‚¾‚¯L‚Ñ‚Ä‚é‚â‚ÂCì‚Ì‚Æ‚±‚ë‚­‚ç‚¢‚Ü‚Å‚Íˆø‚Á’£‚è‚½‚¢‚Ë‚ñ‚¯‚Ç[m
-[16:15:59] [Async Chat Thread - #5/INFO]: <tyouamattoG> ‚Ä‚©‰Æ‚Ìü‚è‚¿‚á‚Á‚©‚è¼–¾’u‚©‚ê‚Ä‚Ä‘[m
-[16:16:13] [Async Chat Thread - #5/INFO]: <[0;31;22mlm0x[m> ƒ“‚—[m
-[16:16:33] [Async Chat Thread - #5/INFO]: <tyouamattoG> ‚¿‚å‚Á‚ÆL‚Ñ‚Ä‚é‚Á‚Ä‚Ç‚êH[m
-[16:16:45] [Server thread/WARN]: Horse moved wrongly!
-[16:16:45] [Server thread/WARN]: Horse moved wrongly!
-[16:16:45] [Server thread/WARN]: Horse moved wrongly!
-[16:16:56] [Async Chat Thread - #5/INFO]: <[0;31;22mlm0x[m> ‹j[‚Ì‰w‚©‚ç”ƒ[ƒgƒ‹‚¾‚¯xüƒnƒG‚Ä‚é[m
-[16:17:20] [Async Chat Thread - #5/INFO]: <tyouamattoG> ‚±‚ê‚Ç‚±‚Ü‚Å‚Â‚È‚°‚ñ‚ÌH[m
-[16:17:21] [Async Chat Thread - #5/INFO]: <[0;31;22mlm0x[m> ‚±‚Á‚¿‚Á‚·‚Ë[m
-[16:17:22] [Server thread/WARN]: Horse moved wrongly!
-[16:17:23] [Server thread/WARN]: Horse moved wrongly!
-[16:17:23] [Server thread/WARN]: Horse moved wrongly!
-[16:17:27] [Async Chat Thread - #5/INFO]: <[0;31;22mlm0x[m> ‚»‚ê‚Í–¢’è[m
-[16:17:30] [Async Chat Thread - #5/INFO]: <tyouamattoG> ‚ ‚Ÿ‚±‚ê‚©‚—[m
-[16:17:34] [Server thread/WARN]: Horse moved wrongly!
-[16:17:35] [Server thread/WARN]: Horse moved wrongly!
-[16:18:00] [Async Chat Thread - #5/INFO]: <[0;31;22mlm0x[m> ‚±‚ê‚Å‚àˆø‚Á’£‚é‚È‚ç‹´‚æ‚è’n–Ê‚Ì•û‚ª‚¢‚¢‚È[m
-[16:18:00] [Async Chat Thread - #5/INFO]: <tyouamattoG> ‚È‚ñ‚Å–Ø‚Ìã‚Éü˜H‚Ì‚Á‚¯‚Ä‚ñ‚Ë‚ñEEE[m
-[16:18:12] [Async Chat Thread - #5/INFO]: <tyouamattoG> ‚±‚ñ‚Èƒ“”pü‚â[m
-[16:18:15] [Async Chat Thread - #5/INFO]: <[0;31;22mlm0x[m> ‚¦‚¦[m
-[16:18:15] [Async Chat Thread - #5/INFO]: <tyouamattoG> ‰ó‚¹[m
-[16:18:25] [Async Chat Thread - #5/INFO]: <[0;31;22mlm0x[m> ì‚Ü‚Å‚¢‚«‚½‚¢[m
-[16:18:50] [Async Chat Thread - #5/INFO]: <tyouamattoG> ’n‰º‚È‚ç‚¦‚¦‚Å[m
-[16:18:55] [Async Chat Thread - #5/INFO]: <[0;31;22mlm0x[m> ‚¦‚¦’n‰ºƒ@[m
-[16:18:58] [Server thread/WARN]: Horse moved wrongly!
-[16:19:05] [Async Chat Thread - #5/INFO]: <[0;31;22mlm0x[m> Xc‚µ‚½‚¢Œ´Z–¯‚©‚æ[m
-[16:19:07] [Async Chat Thread - #5/INFO]: <tyouamattoG> ’nã‚Å‚à‚¦‚¦‚¯‚Ç[m
-[16:19:14] [Async Chat Thread - #5/INFO]: <tyouamattoG> –Ø‚Ìã‚Í‚â‚ß‚ë[m
-[16:19:20] [Async Chat Thread - #5/INFO]: <[0;31;22mlm0x[m> –l’n–Ê‚ª—Ç‚¢[m
-[16:19:22] [Async Chat Thread - #5/INFO]: <tyouamattoG> ‚¹‚ß‚Ä–Ø»‚Ì‹´‚É‚µ‚ë[m
-[16:19:32] [Async Chat Thread - #5/INFO]: <tyouamattoG> –Ø‚Ìã‚ÉÎ‚Åì‚é‚È[m
-[16:19:39] [Async Chat Thread - #5/INFO]: <[0;31;22mlm0x[m> ƒVƒ‹ƒiƒŠ‚ÉŒ¾‚Á‚Ä[m
-[16:19:44] [Async Chat Thread - #5/INFO]: <tyouamattoG> ƒZƒ“ƒX‚È‚µ‚©‚æ[m
-[16:19:57] [Async Chat Thread - #5/INFO]: <tyouamattoG> ‚È‚ñ‚â‚Ë‚ñ‚±‚ê[m
-[16:19:58] [Async Chat Thread - #5/INFO]: <[0;31;22mlm0x[m> ‚¶‚á‚ ‚Ü‚ ì‚Ü‚Å’nãüˆø‚­‚Ë[m
-[16:20:01] [Async Chat Thread - #5/INFO]: <[0;31;22mlm0x[m> ƒ“[m
-[16:20:14] [Async Chat Thread - #5/INFO]: <[0;31;22mlm0x[m> ‚³‚ EEE[m
-[16:20:19] [Async Chat Thread - #5/INFO]: <tyouamattoG> •Ço—ˆ‚Æ‚ñ‚â‚ñ‚¯[m
-[16:20:23] [Async Chat Thread - #5/INFO]: <tyouamattoG> ƒgƒ‰ƒ“ƒv‚©‚æ[m
-[16:20:34] [Async Chat Thread - #5/INFO]: <[0;31;22mlm0x[m> ƒgƒ‰ƒ“ƒv‚Í‚æƒƒLƒVƒR‚©‚ç‹à‚Ô‚ñ‚Ç‚Á‚Ä—~‚µ‚¢[m
-[16:20:48] [Server thread/INFO]: lm0x issued server command: /gamemode 1
-[16:21:49] [Async Chat Thread - #6/INFO]: <tyouamattoG> ‚ ‚Æ‚Å‚±‚í‚»‚©‚Æv‚Á‚½‚¯‚Ç‰ó‚µ‚Ä‚­‚ê‚é‚Ì‚Ë‚—[m
-[16:21:55] [Async Chat Thread - #6/INFO]: <[0;31;22mlm0x[m> •~‚«‚½‚È‚Á‚½[m
-[16:23:23] [Async Chat Thread - #7/INFO]: <tyouamattoG> ‚±‚Á‚¿‚ª‚í—Î’n‰»‚·‚é‚©[[m
-[16:23:34] [Async Chat Thread - #7/INFO]: <[0;31;22mlm0x[m> ‚Ç‚±[m
-[16:23:42] [Async Chat Thread - #7/INFO]: <[0;31;22mlm0x[m> ‚ ‚ [m
-[16:23:50] [Async Chat Thread - #7/INFO]: <[0;31;22mlm0x[m> »”™‚ß‚è‚ñ‚Å‚é‚â‚Â‚©[m
-[16:24:06] [Async Chat Thread - #7/INFO]: <[0;31;22mlm0x[m> ‚±‚ê‚·‚²‚¢‚ß‚è‚İ•û‚â‚È[m
-[16:26:50] [Server thread/INFO]: tyouamattoG was slain by Husk
-[16:27:05] [Server thread/INFO]: lm0x issued server command: //set gravel
-[16:27:55] [Async Chat Thread - #8/INFO]: <tyouamattoG> ‚ ‚ŸEEE[m
-[16:28:00] [Async Chat Thread - #8/INFO]: <[0;31;22mlm0x[m> ‚Ç‚µ‚½‚Ì[m
-[16:28:05] [Async Chat Thread - #8/INFO]: <tyouamattoG> €‚ñ‚¾‚Â‚¢‚Å‚É‰×•¨—a‚¯‚½‚ç‚æ‚©‚Á‚½EEE[m
-[16:28:18] [Async Chat Thread - #8/INFO]: <[0;31;22mlm0x[m> HDH[m
-[16:29:25] [Server thread/INFO]: tyouamattoG was shot by Skeleton
-[16:30:36] [Server thread/INFO]: tyouamattoG was blown up by Creeper
-[16:33:25] [Server thread/INFO]: tyouamattoG was shot by Skeleton
-[16:39:02] [Async Chat Thread - #9/INFO]: <tyouamattoG> ‰ÆŒ©‚¦‚ñ‚Ì• —§‚Â‚È‚Ÿ[m
-[16:39:06] [Async Chat Thread - #9/INFO]: <[0;31;22mlm0x[m> ‚¦‚¦[m
-[16:39:10] [Async Chat Thread - #9/INFO]: <[0;31;22mlm0x[m> –Ø‚¤‚¦‚æ[m
-[16:39:28] [Async Chat Thread - #9/INFO]: <tyouamattoG> ‚±‚±‚Ì‚‚³‚â‚ÆƒoƒŠŒ©‚¦‚é[m
-[16:39:41] [Async Chat Thread - #9/INFO]: <[0;31;22mlm0x[m> ‚ ‚ [m
-[16:39:46] [Async Chat Thread - #9/INFO]: <tyouamattoG> ¡A‚¦‚Ä‚İ‚½‚¯‚Ç‚±‚±‚â‚Æ–h‚°‚ñ[m
-[16:39:51] [Async Chat Thread - #9/INFO]: <tyouamattoG> ‚³‚Ä‚Ç‚¤‚·‚é‚©EEE[m
-[16:41:13] [Server thread/INFO]: lm0x issued server command: //replace sand dirt
-[16:41:17] [Server thread/INFO]: lm0x issued server command: //replace sand dirt
-[16:44:30] [Async Chat Thread - #10/INFO]: <tyouamattoG> ‚È‚ñ‚©œ‚ÌˆÚ“®‘¬“x‚¨‚©‚µ‚È‚¢H[m
-[16:44:35] [Async Chat Thread - #10/INFO]: <[0;31;22mlm0x[m> ‚Æ‚¢‚¤‚Æ[m
-[16:44:36] [Server thread/INFO]: tyouamattoG fell from a high place
-[16:44:43] [Async Chat Thread - #10/INFO]: <tyouamattoG> ‚·‚°‚¥‚Í‚â‚¢[m
-[16:44:52] [Async Chat Thread - #10/INFO]: <[0;31;22mlm0x[m> ‚Ü‚ Šm‚©‚É[m
-[16:45:02] [Async Chat Thread - #10/INFO]: <[0;31;22mlm0x[m> fly‚Å“¦‚°‚Ä‚à‚ß‚Á‚¿‚á‚¨‚Á‚©‚¯‚Ä‚­‚é[m
-[16:45:13] [Async Chat Thread - #10/INFO]: <tyouamattoG> ‚³‚Á‚«‚È‚ñ‚©‘–‚Á‚Æ‚é”n‚É‚×‚Á‚½‚è‚­‚Á‚Â‚¢‚Ä‚«‚½‚µƒLƒŒ‚»‚¤[m
-[16:45:33] [Async Chat Thread - #10/INFO]: <[0;31;22mlm0x[m> •’Ê‚ÉƒLƒ‚‚¢[m
-[16:45:45] [Server thread/INFO]: tyouamattoG fell from a high place
-[16:46:12] [Async Chat Thread - #10/INFO]: <[0;31;22mlm0x[m> \\set stone[m
-[16:46:18] [Server thread/INFO]: lm0x issued server command: //set stone
-[16:50:40] [Server thread/INFO]: tyouamattoG was shot by Skeleton
-[16:51:49] [Server thread/INFO]: [0;32;22m[WEB] 192.168.0.7: [0;37;1mƒCƒ“ƒtƒ‹‚©‚©‚Á‚Ä‚à‚¤‚½??wwwwwwww[m
-[16:51:53] [Async Chat Thread - #11/INFO]: <[0;31;22mlm0x[m> ‚Í[m
-[16:52:02] [Async Chat Thread - #11/INFO]: <[0;31;22mlm0x[m> ‚¾‚ê[m
-[16:52:09] [Async Chat Thread - #11/INFO]: <[0;31;22mlm0x[m> ‚¨‚â‚·‚İ[m
-[16:52:11] [Server thread/INFO]: [0;32;22m[WEB] 192.168.0.7: [0;37;1mƒVƒ‹ƒiƒŠƒiƒŠƒiƒŠƒiƒŠƒiƒŠ[m
-[16:52:14] [Async Chat Thread - #11/INFO]: <tyouamattoG> •—×‚Ì‚Ğ‚­”n­‚Å‚µ‚å[m
-[16:52:15] [Async Chat Thread - #11/INFO]: <[0;31;22mlm0x[m> ’m‚Á‚Ä‚é[m
-[16:52:18] [Async Chat Thread - #11/INFO]: <[0;31;22mlm0x[m> ‚¶‚á‚ ‚È[m
-[16:52:28] [Server thread/INFO]: [0;32;22m[WEB] 192.168.0.7: [0;37;1m•—×‚¶‚á‚È‚¢‚Ì‚Å??[m
-[16:52:34] [Async Chat Thread - #11/INFO]: <[0;31;22mlm0x[m> \VS16[m
-[16:53:10] [Server thread/INFO]: [0;32;22m[WEB] 192.168.0.7: [0;37;1m‰w‚»‚±‚Éì‚é‚È‚ç‹´ì‚ç‚È‚¢‚Æƒ_ƒ‚â‚ñ‚¯[m
-[16:53:22] [Async Chat Thread - #11/INFO]: <[0;31;22mlm0x[m> ‚à‚¤‚±‚±‚Å‘Å‚¿~‚ß‚É‚·‚é‚©‚ç[m
-[16:53:31] [Server thread/INFO]: [0;32;22m[WEB] 192.168.0.7: [0;37;1m‹´‚ÍH[m
-[16:53:40] [Async Chat Thread - #11/INFO]: <[0;31;22mlm0x[m> ‚ ‚Æ‚Ål‚¦‚é[m
-[16:53:44] [Async Chat Thread - #11/INFO]: <tyouamattoG> ¡X‚â‚¯‚Ç‚à‚¤‚¿‚å‚¢è‘O‚ª‚¢‚¢‚©‚È[m
-[16:53:48] [Async Chat Thread - #11/INFO]: <[0;31;22mlm0x[m> ‚ ‚Ü‚¨‚¶‚É‚Ü‚©‚¹‚éƒ“ƒS[m
-[16:53:50] [Async Chat Thread - #11/INFO]: <[0;31;22mlm0x[m> ƒ“ƒA[[[[m
-[16:54:01] [Async Chat Thread - #11/INFO]: <tyouamattoG> ‚Ü‚Ÿ‚È‚¨¡‚ß‚ñ‚Ç‚¢‚ñ‚â‚Á‚½‚ç‚à‚¤‚¦‚¦‚¯‚Ç[m
-[16:54:02] [Async Chat Thread - #11/INFO]: <[0;31;22mlm0x[m> ‚Ü‚ •Ê‚ÉˆÚ‚¹‚é‚µ‚»‚¤‚·‚é‚©[m
-[16:54:07] [Async Chat Thread - #11/INFO]: <tyouamattoG> ƒ}ƒWH[m
-[16:54:11] [Async Chat Thread - #11/INFO]: <tyouamattoG> ‚Â‚æ‚¢[m
-[16:54:15] [Server thread/INFO]: lm0x issued server command: //pos2
-[16:54:26] [Server thread/INFO]: lm0x issued server command: //copy
-[16:54:28] [Server thread/INFO]: lm0x issued server command: //set 0
-[16:54:30] [Server thread/INFO]: [0;32;22m[WEB] 192.168.0.7: [0;37;1m‚ ‚Æ‚¨éˆÚ“®‚³‚¹‚½‚¢‚ñ‚â‚¯‚Ç[m
-[16:54:32] [Server thread/INFO]: lm0x issued server command: //undo
-[16:54:46] [Async Chat Thread - #11/INFO]: <[0;31;22mlm0x[m> ƒEƒ“[m
-[16:54:59] [Server thread/INFO]: lm0x issued server command: //copy
-[16:55:01] [Server thread/INFO]: tyouamattoG was slain by Zombie
-[16:55:01] [Server thread/INFO]: lm0x issued server command: //set 0
-[16:55:02] [Server thread/INFO]: [0;32;22m[WEB] 192.168.0.7: [0;37;1m}‘ŠÙ‚Ìã‚ ‚½‚è‚ÉˆÚ“®‚³‚¹‚Æ‚¢‚Ä[m
-[16:55:14] [Async Chat Thread - #11/INFO]: <[0;31;22mlm0x[m> ‚¦‚¦‚¦[m
-[16:55:16] [Server thread/INFO]: lm0x issued server command: //paste
-[16:55:31] [Server thread/INFO]: [0;32;22m[WEB] 192.168.0.7: [0;37;1m‚¦‚¶‚á‚È‚¢[m
-[16:55:31] [Async Chat Thread - #11/INFO]: <[0;31;22mlm0x[m> ‚â‚Á‚Ï‚¤‚Ü‚­ˆÚ“®‚Í‚Å‚«‚È‚¢ƒ“ƒS[m
-[16:55:40] [Async Chat Thread - #11/INFO]: <tyouamattoG> ‚©‚È‚µ‚¢[m
-[16:55:41] [Async Chat Thread - #11/INFO]: <[0;31;22mlm0x[m> ŠÃ‚¨‚¶‚±‚Ì•Ó‚Å‚¢‚¢H[m
-[16:55:45] [Server thread/INFO]: [0;32;22m[WEB] 192.168.0.7: [0;37;1m‚»‚±‚Í‚Ü‚Ÿ‚¢‚¯‚é‚â‚ë[m
-[16:56:00] [Async Chat Thread - #11/INFO]: <tyouamattoG> ‚ñ`EEE‚Ü‚Ÿ‚¦‚¦‚©[m
-[16:56:03] [Server thread/INFO]: lm0x issued server command: //set dirt
-[16:56:19] [Async Chat Thread - #11/INFO]: <tyouamattoG> ‚à‚¤‚¿‚å‚¢‚í‚ª‚Ü‚ÜŒ¾‚¤‚Æ‚±‚±‚ª‚¢‚¢‚—[m
-[16:56:31] [Async Chat Thread - #11/INFO]: <[0;31;22mlm0x[m> ƒCƒPƒ‹‚Æv‚¤[m
-[16:56:38] [Server thread/INFO]: lm0x issued server command: //undo 5
-[16:56:42] [Async Chat Thread - #11/INFO]: <tyouamattoG> ‚¨‚Ë‚ª‚¢`[m
-[16:56:47] [Server thread/INFO]: lm0x issued server command: //paste
-[16:56:53] [Async Chat Thread - #11/INFO]: <tyouamattoG> ‚ [_[m
-[16:56:53] [Async Chat Thread - #11/INFO]: <[0;31;22mlm0x[m> ‚¨‚‹H[m
-[16:56:56] [Async Chat Thread - #11/INFO]: <[0;31;22mlm0x[m> ƒKƒnƒn[m
-[16:57:02] [Async Chat Thread - #11/INFO]: <tyouamattoG> ‚¦‚¦‚â‚ñ[m
-[16:57:08] [Server thread/INFO]: lm0x issued server command: //set 0
-[16:57:21] [Async Chat Thread - #11/INFO]: <tyouamattoG> ‚¿‚å‚Á‚Æ–Ø‚¯‚¸‚ê‚½‚ÌÎ‚¤‚—[m
-[16:57:36] [Async Chat Thread - #11/INFO]: <[0;31;22mlm0x[m> ‹ó‹C‚àƒRƒs‚Á‚¿‚á‚¤‚©‚ç‚±‚¤‚È‚é[m
-[16:57:50] [Async Chat Thread - #11/INFO]: <tyouamattoG> ‹óŠÔ‚²‚ÆˆÚ“®‚·‚é‚Ì‚©[m
-[16:58:00] [Async Chat Thread - #11/INFO]: <[0;31;22mlm0x[m> ‚»‚ñ‚ÈŠ´‚¶[m
-[17:00:15] [Server thread/INFO]: lm0x issued server command: //set redstone_torch
-[17:00:56] [Async Chat Thread - #12/INFO]: <tyouamattoG> ‚»‚¤‚¢‚¦‚ÎƒƒC”n‚Ç‚±‚â‚Á‚½‚Á‚¯‚—[m
-[17:01:05] [Async Chat Thread - #12/INFO]: <[0;31;22mlm0x[m> €‚ñ‚¾‚É‚Ù‚Á‚½‚ç‚©‚µ‚É‚µ‚½‚ñ‚¶‚á[m
-[17:01:07] [Server thread/INFO]: [0;32;22m[WEB] 192.168.0.7: [0;37;1m€‚ñ‚¾(‚Ä‚«‚Æ‚¤[m
-[17:01:28] [Async Chat Thread - #12/INFO]: <tyouamattoG> ‚½‚Ô‚ñü˜H‚Ğ‚«n‚ß‚Éæ‚èÌ‚Ä‚½‹C‚ª‚·‚é‚—[m
-[17:01:43] [Async Chat Thread - #12/INFO]: <[0;31;22mlm0x[m> ‰w‚Ü‚Å‚Â‚ê‚Ä‚«‚½[m
-[17:02:13] [Async Chat Thread - #12/INFO]: <[0;31;22mlm0x[m> ‚»‚Á‚¿‚Å‚Í‚È‚¢[m
-[17:02:16] [Async Chat Thread - #12/INFO]: <tyouamattoG> ‰w‚Á‚Ä‚»‚Á‚¿‚©‚—[m
-[17:02:55] [Server thread/WARN]: tyouamattoG moved wrongly!
-[17:03:25] [Async Chat Thread - #13/INFO]: <tyouamattoG> ‚ ‚´[‚Á‚µ[m
-[17:03:45] [Async Chat Thread - #13/INFO]: <tyouamattoG> —\Šú‚¹‚Êƒ~ƒXƒ^ƒCƒv‚Å‘[m
-[17:03:52] [Async Chat Thread - #13/INFO]: <[0;31;22mlm0x[m> ƒ^ƒCƒvƒ~ƒX‚©‚æ‚—[m
-[17:04:02] [Async Chat Thread - #13/INFO]: <tyouamattoG> ©•ª‚Å‚à‚ÍH‚Á‚Ä‚È‚Á‚Ä‚é[m
-[17:04:18] [Async Chat Thread - #13/INFO]: <[0;31;22mlm0x[m> ‚í‚´‚Æ‚©‚Æ‚à‚Á‚¿‚á‚Á‚½[m
-[17:04:20] [Async Chat Thread - #13/INFO]: <[0;31;22mlm0x[m> v‚Á‚¿‚á‚Á‚½[m
-[17:04:22] [Async Chat Thread - #13/INFO]: <tyouamattoG> ¡”N‚Í‚±‚ÌŒ¾—t‚ğ‚Í‚â‚ç‚»‚¤‚Æv‚Á‚Ä‚Ü‚·[m
-[17:04:28] [Async Chat Thread - #13/INFO]: <[0;31;22mlm0x[m> ‚ª‚ñ‚Î‚ê[m
-[17:04:42] [Server thread/INFO]: [0;32;22m[WEB] 192.168.0.7: [0;37;1m—¬s‚ç‚éw—¬s‚ç‚éwwww[m
-[17:04:47] [Async Chat Thread - #13/INFO]: <[0;31;22mlm0x[m> ‚ÍH[m
-[17:04:52] [Server thread/WARN]: Horse moved wrongly!
-[17:04:53] [Server thread/INFO]: [0;32;22m[WEB] 192.168.0.7: [0;37;1m‚¦H[m
-[17:05:02] [Server thread/INFO]: [0;32;22m[WEB] 192.168.0.7: [0;37;1m‰wƒ_ƒT‚­‚È‚¢H[m
-[17:05:06] [Async Chat Thread - #13/INFO]: <[0;31;22mlm0x[m> ‚¤‚é‚³‚¢[m
-[17:05:21] [Async Chat Thread - #13/INFO]: <tyouamattoG> –³l‰wŠ´‚ ‚Á‚Ä‚¢‚¢[m
-[17:05:23] [Server thread/INFO]: [0;32;22m[WEB] 192.168.0.7: [0;37;1m“cÉwwww‚Á‚ÄŠ´‚¶‚Ì‰w‚É‚µ‚æ‚¤[m
-[17:05:49] [Server thread/INFO]: [0;32;22m[WEB] 192.168.0.7: [0;37;1m‚Ü‚Ÿ‹A‚Á‚½‚çƒ}ƒCƒNƒ}ƒCƒNƒ‰‚â‚é‚Ì‚Å[m
-[17:06:12] [Async Chat Thread - #13/INFO]: <tyouamattoG> ‚»‚¤‚¢‚¦‚Î–‚ÜƒZƒbƒg”ƒ‚¢‚Ü‚µ‚½[m
-[17:06:26] [Async Chat Thread - #13/INFO]: <[0;31;22mlm0x[m> ƒZƒbƒgH[m
-[17:06:37] [Async Chat Thread - #13/INFO]: <tyouamattoG> lí“ü‚Á‚Ä‚é‚â‚Â[m
-[17:06:42] [Async Chat Thread - #13/INFO]: <[0;31;22mlm0x[m> ‚»‚ñ‚È‚ñ‚ ‚é‚ñ‚â[m
-[17:06:51] [Async Chat Thread - #13/INFO]: <tyouamattoG> –§—Ñ‚ÅƒpƒN‚Á‚Ä‚«‚½[m
-[17:07:05] [Async Chat Thread - #13/INFO]: <tyouamattoG> ‚ Ao“ü‚èŒû‚»‚Á‚¿‚É‚È‚Á‚¿‚á‚¤‚Ì‚©EEE[m
-[17:07:08] [Async Chat Thread - #13/INFO]: <[0;31;22mlm0x[m> ƒ“[m
-[17:08:00] [Async Chat Thread - #13/INFO]: <[0;31;22mlm0x[m> ‚±‚Ì•Ó‚É‚È‚é‚ñ‚¿‚á‚¤‚©‚È[m
-[17:08:06] [Async Chat Thread - #13/INFO]: <tyouamattoG> ‹´‚ğ‚Ë‚±‚Á‚©‚çÎ‚ß‚É‘‚¯‚æ‚¤‚©‚Æv‚Á‚Ä‚é‚ñ‚³[m
-[17:08:19] [Async Chat Thread - #13/INFO]: <[0;31;22mlm0x[m> ‚¦‚¦‚ñ‚¿‚á[m
-[17:08:20] [Async Chat Thread - #13/INFO]: <[0;31;22mlm0x[m> u[m
-[17:08:47] [Async Chat Thread - #13/INFO]: <tyouamattoG> ‚¦‚¦‚â‚ñ[m
-[17:08:51] [Async Chat Thread - #13/INFO]: <tyouamattoG> ‚ß‚Á‚¿‚á‚¢‚¢Š´‚¶[m
-[17:08:55] [Async Chat Thread - #13/INFO]: <tyouamattoG> ‚ ‚è‚ª‚Ä‚¥[m
-[17:08:57] [Async Chat Thread - #13/INFO]: <[0;31;22mlm0x[m> ‚í[‚¢[m
-[17:09:02] [Async Chat Thread - #13/INFO]: <tyouamattoG> ƒNƒŠƒG‚¶‚á‚È‚©‚Á‚½‚ç_‚Á‚Ä‚é[m
-[17:09:21] [Async Chat Thread - #13/INFO]: <tyouamattoG> ƒNƒŠƒG‚¾‚©‚ç—L”\~‚Ü‚è[m
-[17:09:28] [Async Chat Thread - #13/INFO]: <[0;31;22mlm0x[m> ‚Ü‚ •Ê‚ÉƒŒ[ƒ‹ˆÈŠO‚ÍƒTƒoƒCƒoƒ‹‚Å‚à‘S‘R‚¢‚¯‚é‚ñ‚â‚¯‚Ç[m
-[17:10:37] [Async Chat Thread - #14/INFO]: <[0;31;22mlm0x[m> ‚Ä‚¢‚¤‚©ƒ^ƒ_‚Ì“¤•…‚È‚ñ‚¾‚¯‚Ç[m
-[17:11:31] [Async Chat Thread - #14/INFO]: <tyouamattoG> ‚ñ`‚È‚ñ‚©•Ç‘S•”Œ´–Ø‚¾‚©‚ç‚È‚ŸEEE[m
-[17:11:45] [Async Chat Thread - #14/INFO]: <[0;31;22mlm0x[m> ”\‚ª‚È‚¢[m
-[17:11:46] [Async Chat Thread - #14/INFO]: <tyouamattoG> ‚¿‚å‚Á‚Æ•Ï‰»—~‚µ‚¢‚æ‚Ë[m
-[17:12:10] [Async Chat Thread - #14/INFO]: <[0;31;22mlm0x[m> –Ø‚±‚è‚É‚È‚Á‚Ä‚Ä‘[m
-[17:12:18] [Async Chat Thread - #14/INFO]: <tyouamattoG> ‚ß‚Á‚¿‚á‚Ñ‚Ñ‚Á‚½‚—[m
-[17:12:39] [Async Chat Thread - #14/INFO]: <tyouamattoG> ‚»‚ê‚Í‚¾‚³‚¢[m
-[17:12:43] [Async Chat Thread - #14/INFO]: <[0;31;22mlm0x[m> ƒ“ƒA[[m
-[17:13:29] [Async Chat Thread - #14/INFO]: <tyouamattoG> ‚Ç‚¤‚·‚é‚©‚È`EEE[m
-[17:13:43] [Async Chat Thread - #14/INFO]: <tyouamattoG> ‰º‚ÍÎŒn‚Ì‚É‚·‚é‚Æ‚µ‚Ä[m
-[17:13:52] [Async Chat Thread - #14/INFO]: <[0;31;22mlm0x[m> wwwwwwwww[m
-[17:13:54] [Async Chat Thread - #14/INFO]: <tyouamattoG> ‚ ‚ ‚ ‚—[m
-[17:14:15] [Async Chat Thread - #14/INFO]: <[0;31;22mlm0x[m> ‘½•ªØ‚ê‚È‚¢‚µ‚È‚ [m
-[17:14:42] [Server thread/INFO]: tyouamattoG issued server command: /gamemode 1
-[17:14:45] [Async Chat Thread - #14/INFO]: <[0;31;22mlm0x[m> ‚È‚ñ‚©‹}‚É•ÖŠ‚Á‚Û‚­‚È‚Á‚½[m
-[17:25:35] [Async Chat Thread - #15/INFO]: <[0;31;22mlm0x[m> ƒIƒzO`[m
-[17:25:49] [Async Chat Thread - #15/INFO]: <tyouamattoG> ‚È‚ñ‚©”[“¾‚¢‚©‚ñ[m
-[17:25:55] [Async Chat Thread - #15/INFO]: <[0;31;22mlm0x[m> ‚¦‚¦[m
-[17:25:56] [Async Chat Thread - #15/INFO]: <tyouamattoG> ‚ÜA‚à‚¤‚¦‚¦‚í[m
-[17:26:35] [Async Chat Thread - #15/INFO]: <tyouamattoG> g‚Á‚Ä‚éŞ—¿‚Ì­‚È‚³‚Æ‚¢‚¢Ş¿‚Ì“ˆêŠ´‚Æ‚¢‚¢’á—\ZŠ´‚ ‚Á‚Ä‚¦‚¦‚©‚—[m
-[17:26:41] [Async Chat Thread - #15/INFO]: <[0;31;22mlm0x[m> ‚»‚¤‚¾ƒ][m
-[17:26:50] [Server thread/INFO]: tyouamattoG issued server command: /‚ªƒƒ‚‚Å‚O
-[17:26:56] [Server thread/INFO]: tyouamattoG issued server command: /gamemode 0
-[17:31:00] [Server thread/INFO]: tyouamattoG was slain by Zombie
-[17:42:28] [Server thread/INFO]: lm0x issued server command: /home
-[17:46:44] [Server thread/INFO]: tyouamattoG was slain by Zombie
-[17:48:10] [Server thread/INFO]: tyouamattoG issued server command: /gamemode 1
-[17:48:38] [Server thread/INFO]: tyouamattoG issued server command: /gamemode 1
-[17:48:41] [Server thread/INFO]: tyouamattoG issued server command: /gamemode 0
-[17:49:05] [Server thread/INFO]: tyouamattoG was shot by Skeleton
-[17:49:23] [Server thread/INFO]: lm0x issued server command: /give lm0x dirtpath 1
-[17:50:21] [Server thread/INFO]: lm0x issued server command: //set dirtpath
-[17:50:38] [Server thread/INFO]: lm0x issued server command: //set dirtpath
-[17:51:03] [Server thread/INFO]: lm0x issued server command: //set dirtpath
-[17:51:30] [Server thread/INFO]: lm0x issued server command: //set grass
-[17:51:41] [Server thread/INFO]: tyouamattoG was slain by Zombie
-[17:55:37] [Server thread/INFO]: lm0x issued server command: /give lm0x saddle 1
-[17:55:43] [Server thread/INFO]: lm0x issued server command: /gamemode 0
-[17:55:46] [Server thread/INFO]: lm0x issued server command: /fly
-[17:57:11] [Server thread/INFO]: lm0x issued server command: //set dirtpath 2
-[17:57:27] [Server thread/INFO]: lm0x issued server command: /gamemode 1
-[17:57:40] [Server thread/INFO]: lm0x issued server command: //set 0
-[17:57:53] [Server thread/INFO]: lm0x issued server command: //set dirtpath
-[17:58:05] [Server thread/INFO]: lm0x issued server command: //set grass
-[17:58:07] [Server thread/INFO]: lm0x issued server command: //set grass
-[17:58:17] [Server thread/INFO]: lm0x issued server command: /gamemode 0
-[17:58:18] [Server thread/INFO]: lm0x issued server command: /fly
-[18:01:51] [Server thread/WARN]: lm0x moved wrongly!
-[18:05:39] [Async Chat Thread - #16/INFO]: <[0;31;22mlm0x[m> ‚±‚Ì•ÓˆÀ‘S’n‘Ñ‚È‚¢‚Ì‚©[m
-[18:06:16] [Server thread/INFO]: tyouamattoG issued server command: /gamemode 1
-[18:08:52] [Server thread/WARN]: Horse moved wrongly!
-[18:08:53] [Server thread/INFO]: tyouamattoG issued server command: /gamemode 0
-[18:09:10] [Async Chat Thread - #17/INFO]: <[0;31;22mlm0x[m> F‚—‚—‚—[m
-[18:09:26] [Server thread/INFO]: lm0x issued server command: //help
-[18:09:41] [Server thread/INFO]: lm0x issued server command: //biomeinfo
-[18:09:46] [Server thread/INFO]: tyouamattoG issued server command: /set time 0
-[18:09:47] [Server thread/INFO]: lm0x issued server command: //biomelist
-[18:09:51] [Server thread/INFO]: lm0x issued server command: //biomelist 1
-[18:09:57] [Server thread/INFO]: lm0x issued server command: //setbiome
-[18:10:00] [Async Chat Thread - #17/INFO]: <tyouamattoG> ‚»‚ñ‚È‚Ğ‚Ç‚¢‚ñH[m
-[18:10:01] [Server thread/INFO]: lm0x issued server command: //setbiome forest
-[18:10:11] [Server thread/INFO]: lm0x issued server command: /biomelist
-[18:10:16] [Async Chat Thread - #17/INFO]: <[0;31;22mlm0x[m> ‚»‚ñ‚È‚Å‚à‚È‚¢‚¯‚Ç[m
-[18:10:24] [Async Chat Thread - #17/INFO]: <[0;31;22mlm0x[m> X‚ÌF‚µ‚Ä‚È‚¢‚©‚ç‚È[m
-[18:10:30] [Server thread/INFO]: lm0x issued server command: //setbiome forest
-[18:10:31] [Async Chat Thread - #17/INFO]: <tyouamattoG> opti‚Æ‰e‚Å‚Ù‚Úˆá˜aŠ´‚È‚¢[m
-[18:10:36] [Async Chat Thread - #17/INFO]: <tyouamattoG> »²º°[m
-[18:10:38] [Server thread/INFO]: lm0x issued server command: //setbiome lm0x
-[18:10:47] [Server thread/INFO]: lm0x issued server command: //biomelist
-[18:10:51] [Server thread/INFO]: lm0x issued server command: //biome
-[18:10:51] [Async Chat Thread - #17/INFO]: <tyouamattoG> ’‹‚É‚µ‚Ä‚İ‚Ä[m
-[18:10:57] [Server thread/INFO]: lm0x issued server command: /time set day
-[18:10:58] [Async Chat Thread - #17/INFO]: <tyouamattoG> ³’¼‚­‚ç‚¢‚©‚ç‚ ‚ñ‚Ü‚í‚©‚ç‚ñ‚—[m
-[18:11:04] [Server thread/INFO]: lm0x issued server command: //biomes
-[18:11:20] [Async Chat Thread - #17/INFO]: <tyouamattoG> ‚ [‚¤‚ñ‚—[m
-[18:11:37] [Async Chat Thread - #17/INFO]: <tyouamattoG> ‚¶‚á‚Á‚©‚ña‚¢F‚È‚Á‚Ä‚é‚¯‚Ç‚»‚ñ‚È‚Ç‚¬‚Â‚­‚È‚¢‚µ‚â‚Á‚Ï_[m
-[18:11:57] [Async Chat Thread - #17/INFO]: <tyouamattoG> —£‚ê‚Ä‚İ‚é‚Æ‚í‚©‚Á‚½‚í‚—[m
-[18:12:03] [Server thread/INFO]: lm0x issued server command: /cs
-[18:12:21] [Server thread/INFO]: lm0x issued server command: /cs build biome forest 1
-[18:12:31] [Server thread/INFO]: tyouamattoG was shot by lm0x
-[18:12:34] [Async Chat Thread - #17/INFO]: <[0;31;22mlm0x[m> aaaa[m
-[18:12:37] [Async Chat Thread - #17/INFO]: <tyouamattoG> ‚ÍH‚—[m
-[18:13:36] [Server thread/INFO]: lm0x issued server command: /biome
-[18:13:41] [Server thread/INFO]: lm0x issued server command: //biome
-[18:13:53] [Server thread/INFO]: lm0x issued server command: //setbiome -p
-[18:14:36] [Server thread/INFO]: lm0x issued server command: /b biome forest
-[18:15:30] [Server thread/INFO]: lm0x issued server command: //biomelist
-[18:15:34] [Server thread/INFO]: lm0x issued server command: //biomelist
-[18:15:57] [Async Chat Thread - #18/INFO]: <[0;31;22mlm0x[m> worldedit‚ÅƒoƒCƒI[ƒ€•Ï‚¦‚ç‚ê‚é‚Í‚¸‚È‚ñ‚¾‚¯‚Ç‚í‚©‚ñ‚Ë‚¦‚È[m
-[18:16:48] [Async Chat Thread - #18/INFO]: <tyouamattoG> gamemode 1[m
-[18:16:51] [Server thread/INFO]: tyouamattoG issued server command: /gamemode 1
-[18:18:21] [Async Chat Thread - #19/INFO]: <tyouamattoG> ”Ñs‚Á‚Ä‚­‚é[m
-[18:18:24] [Async Chat Thread - #19/INFO]: <[0;31;22mlm0x[m> tera[m
-[18:18:51] [Server thread/INFO]: lm0x issued server command: //set dirtpath
-[18:18:53] [Server thread/WARN]: Horse moved wrongly!
-[18:20:14] [Server thread/INFO]: lm0x lost connection: Disconnected
-[18:20:14] [Server thread/INFO]: lm0x left the game
-[18:43:27] [Async Chat Thread - #20/INFO]: <tyouamattoG> ‚¾‚ê‚à‚¨‚ç‚ñ‚â‚ñ‚¯[m
-[18:43:54] [Server thread/INFO]: tyouamattoG issued server command: /gamemode 0
-[18:44:38] [Server thread/INFO]: tyouamattoG issued server command: /gamemode 1
-[18:45:26] [Server thread/INFO]: tyouamattoG issued server command: /gamemode 0
-[18:47:01] [Server thread/INFO]: tyouamattoG was slain by Husk
-[19:03:48] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[19:03:50] [Server thread/INFO]: [Server] ‚¨‚é‚Å‚—
-[20:46:44] [Server thread/INFO]: tyouamattoG was killed by Witch using magic
-[20:47:20] [Server thread/INFO]: tyouamattoG was killed by Witch using magic
-[20:50:25] [Server thread/INFO]: tyouamattoG was shot by Skeleton
-[21:02:58] [Server thread/INFO]: [Server] aaa
-[21:50:18] [Server thread/INFO]: tyouamattoG was slain by Zombie
-[22:11:12] [User Authenticator #3/INFO]: UUID of player Ngt_0 is 73f0ca61-ba45-42cc-9054-31b1d88658b7
-[22:11:12] [Server thread/INFO]: Ngt_0[/14.132.211.55:55545] logged in with entity id 89250 at ([world]-217.00027447461662, 74.74317126936853, 261.923757908368)
-[22:23:08] [Server thread/INFO]: Ngt_0 lost connection: Internal Exception: java.io.IOException: Šù‘¶‚ÌÚ‘±‚ÍƒŠƒ‚[ƒg ƒzƒXƒg‚É‹­§“I‚ÉØ’f‚³‚ê‚Ü‚µ‚½B
-[22:23:08] [Server thread/INFO]: Ngt_0 left the game
-[22:23:32] [Server thread/INFO]: com.mojang.authlib.GameProfile@67b9bfad[id=<null>,name=Ngt_0,properties={},legacy=false] (/14.132.36.198:55674) lost connection: Timed out
-[22:24:41] [User Authenticator #4/INFO]: UUID of player Ngt_0 is 73f0ca61-ba45-42cc-9054-31b1d88658b7
-[22:24:41] [Server thread/INFO]: Ngt_0[/14.132.225.58:55714] logged in with entity id 93758 at ([world]-902.7393175230134, 70.66788038134096, 668.7472391896753)
-[22:32:27] [Async Chat Thread - #21/INFO]: <tyouamattoG> ‚¢‚Â‚«‚Ä‚ñ[m
-[22:32:34] [Async Chat Thread - #21/INFO]: <Ngt_0> sakki[m
-[22:32:41] [Async Chat Thread - #21/INFO]: <tyouamattoG> ‚ A‚»‚¤‚È‚ñ‚©‚—[m
-[22:37:00] [Async Chat Thread - #22/INFO]: <tyouamattoG> –l‚à‚¤Q‚é‚ñ‚·‚¯‚Ç‚Ë‚—[m
-[22:37:13] [Async Chat Thread - #22/INFO]: <Ngt_0> hayai[m
-[22:37:29] [Async Chat Thread - #22/INFO]: <tyouamattoG> ‚ÍH‚¨‘O–¼‚ÉŸè‚É“¹•Ï‚¦‚¿‚á‚Á‚Ä‚ñ‚Ì[m
-[22:37:33] [Async Chat Thread - #22/INFO]: <tyouamattoG> E‚·‚¼[m
-[22:37:42] [Async Chat Thread - #22/INFO]: <Ngt_0> eeee[m
-[22:37:49] [Async Chat Thread - #22/INFO]: <tyouamattoG> ‚Ù‚ñ‚ÜƒZƒ“ƒX‚È‚¢‚í‚Ÿ[m
-[22:38:06] [Server thread/INFO]: tyouamattoG issued server command: /gamemode 1
-[22:40:58] [Async Chat Thread - #23/INFO]: <tyouamattoG> ‚¨‘O‚Í“¹‚ÌF•Ï‚¦‚È“¹‚Æ”F¯‚Å‚«‚ñ‚Ì‚©H[m
-[22:41:19] [Async Chat Thread - #23/INFO]: <Ngt_0> seyade[m
-[22:44:06] [Async Chat Thread - #24/INFO]: <Ngt_0> ‘¶‚¦‚éwwwwwwww[m
-[22:44:25] [Async Chat Thread - #24/INFO]: <Ngt_0> ‘‚¾‚¯‚É[m
-[22:45:46] [Server thread/INFO]: tyouamattoG issued server command: /gamemode 0
-[22:45:50] [Async Chat Thread - #25/INFO]: <tyouamattoG> ‚¨‚à‚ñ‚È‚¢‚Å[m
-[22:48:04] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[22:48:07] [Server thread/INFO]: CONSOLE issued server command: /afk 
-[22:48:07] [Server thread/INFO]: Marks you as away-from-keyboard.[m
-[22:48:07] [Server thread/INFO]: /afk [player/message...][m
-[22:48:10] [Server thread/INFO]: CONSOLE issued server command: /list 
-[22:48:10] [Server thread/INFO]: [0;33;22mThere are [0;31;1m2[0;33;22m out of maximum [0;31;1m10[0;33;22m players online.[m
-[22:48:10] [Server thread/INFO]: [0;33;22mdefault[m: [mNgt_0[0;37;1m, tyouamattoG[0;37;1m[m
-[22:48:56] [Server thread/INFO]: tyouamattoG was shot by Skeleton
-[22:49:41] [Server thread/INFO]: tyouamattoG was shot by Skeleton
-[22:53:55] [Server thread/INFO]: tyouamattoG was slain by Husk
-[22:57:18] [Server thread/INFO]: Ngt_0 lost connection: Internal Exception: java.io.IOException: Šù‘¶‚ÌÚ‘±‚ÍƒŠƒ‚[ƒg ƒzƒXƒg‚É‹­§“I‚ÉØ’f‚³‚ê‚Ü‚µ‚½B
-[22:57:18] [Server thread/INFO]: Ngt_0 left the game
-[22:59:04] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[22:59:06] [Server thread/INFO]: [Server] omanko
-[23:25:20] [Server thread/INFO]: tyouamattoG was blown up by Creeper
-[23:30:27] [Server thread/INFO]: tyouamattoG was slain by Zombie
-[23:33:38] [Server thread/INFO]: CONSOLE issued server command: /list 
-[23:33:38] [Server thread/INFO]: [0;33;22mThere are [0;31;1m1[0;33;22m out of maximum [0;31;1m10[0;33;22m players online.[m
-[23:33:38] [Server thread/INFO]: [0;33;22mdefault[m: [mtyouamattoG[0;37;1m[m
-[23:42:06] [Async Chat Thread - #26/INFO]: <tyouamattoG> ‚È[‚ñ‚©”[“¾‚¢‚©‚ñ‚¯‚Ç‚Ü‚Ÿ‚¦‚¦‚©[m
-[23:42:11] [Async Chat Thread - #26/INFO]: <tyouamattoG> Q‚æ[m
-[23:42:14] [Server thread/INFO]: tyouamattoG lost connection: Disconnected
-[23:42:14] [Server thread/INFO]: tyouamattoG left the game
-[23:46:48] [Server thread/INFO]: CONSOLE issued server command: /list 
-[23:46:48] [Server thread/INFO]: [0;33;22mThere are [0;31;1m0[0;33;22m out of maximum [0;31;1m10[0;33;22m players online.[m
-[23:59:25] [Server thread/INFO]: Stopping the server
-[23:59:25] [Server thread/INFO]: Stopping server
-[23:59:25] [Server thread/INFO]: [ChopTree3] Disabling ChopTree3 v4.0.0
-[23:59:25] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1.3-SNAPSHOT;c904242
-[23:59:25] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
-[23:59:25] [Server thread/INFO]: [Essentials] Disabling Essentials v2.0.1-b461
-[23:59:25] [Server thread/INFO]: [FarmProtect] Disabling FarmProtect v1.8.3
-[23:59:25] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.3;7a097ca
-[23:59:25] [Server thread/INFO]: [HopperPipes] Disabling HopperPipes v0.1
-[23:59:25] [Server thread/INFO]: [dynmap] Disabling dynmap v2.3-1142
-[23:59:25] [Server thread/INFO]: [dynmap] Unloaded 11 components.
-[23:59:25] [Server thread/INFO]: [dynmap] Stopping map renderer...
-[23:59:26] [Server thread/INFO]: [dynmap] Disabled
-[23:59:26] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
-[23:59:26] [Server thread/INFO]: [GetCoord] Disabling GetCoord v1.0.0
-[23:59:26] [Server thread/INFO]: Saving players
-[23:59:26] [Server thread/INFO]: Saving worlds
-[23:59:26] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[23:59:26] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
-[23:59:26] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
+[16:33:09] [Server thread/INFO]: [FarmProtect] Enabling FarmProtect v1.8.3
+[16:33:10] [Server thread/INFO]: [FarmProtect] You are running the latest version of FarmProtect
+[16:33:10] [Server thread/INFO]: [FarmProtect] Version 1.8.3 by jacklin213 has been Enabled!
+[16:33:10] [Server thread/INFO]: [Essentials] Enabling Essentials v2.0.1-b461
+[16:33:11] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
+[16:33:11] [Server thread/INFO]: [Essentials] Using Reflection based provider as spawn egg provider.
+[16:33:11] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
+[16:33:11] [Server thread/INFO]: Using locale ja_JP
+[16:33:11] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global PluginMetrics config.
+[16:33:11] [Server thread/WARN]: [Essentials] Detected supported permissions plugin PermissionsEx without Vault installed.
+[16:33:11] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[16:33:11] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[16:33:11] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1.3-SNAPSHOT;c904242
+[16:33:13] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is blocked.
+[16:33:13] [Server thread/INFO]: [WorldGuard] (world) Lighters are blocked.
+[16:33:13] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
+[16:33:13] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[16:33:13] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[16:33:13] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is blocked.
+[16:33:13] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are blocked.
+[16:33:13] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is blocked.
+[16:33:13] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[16:33:13] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[16:33:13] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is blocked.
+[16:33:13] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are blocked.
+[16:33:13] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
+[16:33:13] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[16:33:13] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[16:33:13] [Server thread/INFO]: [WorldGuard] Loading region data...
+[16:33:13] [Server thread/INFO]: [ChopTree3] Enabling ChopTree3 v4.0.0
+[16:33:13] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:33:14] [Server thread/INFO]: Done (25.722s)! For help, type "help" or "?"
+[16:33:14] [Server thread/INFO]: Starting GS4 status listener
+[16:33:14] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
+[16:54:18] [User Authenticator #1/INFO]: UUID of player Ngt_0 is 73f0ca61-ba45-42cc-9054-31b1d88658b7
+[16:54:18] [Server thread/INFO]: Ngt_0[/14.132.225.58:57804] logged in with entity id 442 at ([world]-224.4121237318627, 75.0, 273.1129683791546)
+[16:55:09] [Server thread/INFO]: Ngt_0 lost connection: Internal Exception: java.io.IOException: Šù‘¶‚ÌÚ‘±‚ÍƒŠƒ‚[ƒg ƒzƒXƒg‚É‹­§“I‚ÉØ’f‚³‚ê‚Ü‚µ‚½B
+[16:55:09] [Server thread/INFO]: Ngt_0 left the game
+[18:37:43] [User Authenticator #2/INFO]: UUID of player Ngt_0 is 73f0ca61-ba45-42cc-9054-31b1d88658b7
+[18:37:44] [Server thread/INFO]: Ngt_0[/14.132.225.58:57832] logged in with entity id 1030 at ([world]-224.4121237318627, 75.0, 273.1129683791546)
+[18:39:21] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[20:02:15] [User Authenticator #3/INFO]: UUID of player lm0x is f3ed2aef-99b3-47b2-b8bd-27ad2a77c030
+[20:02:16] [Server thread/INFO]: lm0x[/127.0.0.1:64079] logged in with entity id 24320 at ([world]-167.26122725456952, 84.5, 238.57905465132097)
+[20:02:23] [Server thread/INFO]: lm0x issued server command: /fly
+[20:02:26] [Server thread/INFO]: lm0x issued server command: /tp Ngt_0
+[20:03:27] [Server thread/INFO]: lm0x issued server command: /give lm0x torch
+[20:06:35] [Server thread/INFO]: lm0x issued server command: /give ngt_0 dirtpath 1
+[20:06:55] [Server thread/INFO]: lm0x issued server command: /give lm0x dirtpath 1
+[20:07:03] [Server thread/INFO]: lm0x issued server command: /gamemode 1
+[20:07:58] [Server thread/INFO]: lm0x issued server command: //set dirtpath
+[20:08:56] [Server thread/INFO]: lm0x issued server command: //set sandstone
+[20:11:08] [Server thread/INFO]: lm0x issued server command: //set sandstone
+[20:11:17] [Server thread/INFO]: lm0x issued server command: //set 1:6
+[20:17:44] [User Authenticator #4/INFO]: UUID of player tyouamattoG is 246113b7-ec57-4fb8-a148-794c7929ba76
+[20:17:44] [Server thread/INFO]: tyouamattoG[/14.132.31.53:52769] logged in with entity id 31982 at ([world]-1164.9427580523368, 65.0, 1013.2697117898615)
+[20:20:30] [Server thread/INFO]: lm0x issued server command: //stack 20
+[20:20:37] [Server thread/INFO]: lm0x issued server command: //undo
+[20:22:41] [Server thread/INFO]: lm0x issued server command: //stack 20
+[20:23:11] [Server thread/INFO]: lm0x issued server command: //undo
+[20:23:15] [Server thread/INFO]: lm0x issued server command: //stack 5
+[20:23:34] [Server thread/INFO]: lm0x issued server command: //undo
+[20:23:39] [Server thread/INFO]: lm0x issued server command: //stack 5
+[20:24:02] [Server thread/INFO]: lm0x issued server command: /gamemode 0 Ngt_0
+[20:24:05] [Server thread/INFO]: lm0x issued server command: /gamemode 0 Ngt_0
+[20:24:06] [Server thread/INFO]: lm0x issued server command: /gamemode 0 Ngt_0
+[20:24:08] [Server thread/INFO]: lm0x issued server command: /gamemode 0 Ngt_0
+[20:24:13] [Server thread/INFO]: lm0x issued server command: /gamemode 0 Ngt_0
+[20:24:34] [Server thread/INFO]: lm0x issued server command: //set 0
+[20:25:11] [Server thread/INFO]: Ngt_0 issued server command: /gamemode 1
+[20:26:54] [Server thread/INFO]: lm0x issued server command: //set 1:6
+[20:27:00] [Server thread/INFO]: lm0x issued server command: //undo
+[20:27:28] [Server thread/INFO]: lm0x issued server command: //set 1:6
+[20:28:13] [Server thread/INFO]: lm0x issued server command: //set 1:6
+[20:29:09] [Server thread/INFO]: lm0x issued server command: //set 0
+[20:30:03] [Server thread/INFO]: lm0x issued server command: //set 0
+[20:30:06] [Server thread/INFO]: lm0x issued server command: //set 1:6
+[20:30:16] [Server thread/INFO]: lm0x issued server command: //set 1:6
+[20:38:30] [Server thread/INFO]: lm0x lost connection: Disconnected
+[20:38:30] [Server thread/INFO]: lm0x left the game
+[20:41:59] [Server thread/INFO]: tyouamattoG was slain by Zombie
+[21:11:45] [Server thread/INFO]: CONSOLE issued server command: /list 
+[21:11:45] [Server thread/INFO]: [0;33;22mThere are [0;31;1m2[0;33;22m out of maximum [0;31;1m10[0;33;22m players online.[m
+[21:11:45] [Server thread/INFO]: [0;33;22mdefault[m: [mNgt_0[0;37;1m, tyouamattoG[0;37;1m[m
+[21:47:35] [User Authenticator #5/INFO]: UUID of player Cokadori is 6b2843a9-e544-4cbb-b3e6-1478ea8e7907
+[21:47:35] [Server thread/INFO]: Cokadori[/120.72.13.198:52593] logged in with entity id 66122 at ([world]-223.89289698404892, 82.40763840892353, 207.08296539917743)
+[21:47:57] [Server thread/INFO]: CONSOLE issued server command: /list 
+[21:47:57] [Server thread/INFO]: [0;33;22mThere are [0;31;1m3[0;33;22m out of maximum [0;31;1m10[0;33;22m players online.[m
+[21:47:57] [Server thread/INFO]: [0;33;22mdefault[m: [mCokadori[0;37;1m, Ngt_0[0;37;1m, tyouamattoG[0;37;1m[m
+[21:53:08] [Server thread/INFO]: Ngt_0 lost connection: Internal Exception: java.io.IOException: Šù‘¶‚ÌÚ‘±‚ÍƒŠƒ‚[ƒg ƒzƒXƒg‚É‹­§“I‚ÉØ’f‚³‚ê‚Ü‚µ‚½B
+[21:53:08] [Server thread/INFO]: Ngt_0 left the game
+[21:54:38] [User Authenticator #6/INFO]: UUID of player Ngt_0 is 73f0ca61-ba45-42cc-9054-31b1d88658b7
+[21:54:39] [Server thread/INFO]: Ngt_0[/14.132.225.58:58366] logged in with entity id 70792 at ([world]-165.23897658379235, 112.90193278880258, 269.46085940426894)
+[21:59:55] [Server thread/INFO]: Ngt_0 lost connection: Disconnected
+[21:59:55] [Server thread/INFO]: Ngt_0 left the game
+[21:59:57] [User Authenticator #7/INFO]: UUID of player Ngt_0 is 73f0ca61-ba45-42cc-9054-31b1d88658b7
+[21:59:57] [Server thread/INFO]: Ngt_0[/14.132.225.58:58418] logged in with entity id 71404 at ([world]-141.0979576568047, 70.0, 237.73522382753944)
+[22:06:35] [Server thread/INFO]: Ngt_0 lost connection: Disconnected
+[22:06:35] [Server thread/INFO]: Ngt_0 left the game
+[22:06:39] [User Authenticator #8/INFO]: UUID of player Ngt_0 is 73f0ca61-ba45-42cc-9054-31b1d88658b7
+[22:06:39] [Server thread/INFO]: Ngt_0[/14.132.225.58:58442] logged in with entity id 71948 at ([world]-138.88975973826788, 76.2424478915889, 239.137264714289)
+[22:15:24] [Server thread/WARN]: Horse moved wrongly!
+[22:15:26] [Server thread/WARN]: Horse moved wrongly!
+[22:15:26] [Server thread/WARN]: Horse moved wrongly!
+[22:15:26] [Server thread/WARN]: Horse moved wrongly!
+[22:15:26] [Server thread/WARN]: Horse moved wrongly!
+[22:15:26] [Server thread/WARN]: Horse moved wrongly!
+[22:15:26] [Server thread/WARN]: Horse moved wrongly!
+[22:15:26] [Server thread/WARN]: Horse moved wrongly!
+[22:15:26] [Server thread/WARN]: Horse moved wrongly!
+[22:15:26] [Server thread/WARN]: Horse moved wrongly!
+[22:15:26] [Server thread/WARN]: Horse moved wrongly!
+[22:15:26] [Server thread/WARN]: Horse moved wrongly!
+[22:15:26] [Server thread/WARN]: Horse moved wrongly!
+[22:15:26] [Server thread/WARN]: Horse moved wrongly!
+[22:15:26] [Server thread/WARN]: Horse moved wrongly!
+[22:15:26] [Server thread/WARN]: Horse moved wrongly!
+[22:15:26] [Server thread/WARN]: Horse moved wrongly!
+[22:15:26] [Server thread/WARN]: Horse moved wrongly!
+[22:15:26] [Server thread/WARN]: Horse moved wrongly!
+[22:15:27] [Server thread/WARN]: Horse moved wrongly!
+[22:15:27] [Server thread/WARN]: Horse moved wrongly!
+[22:15:27] [Server thread/WARN]: Horse moved wrongly!
+[22:15:27] [Server thread/WARN]: Horse moved wrongly!
+[22:15:27] [Server thread/WARN]: Horse moved wrongly!
+[22:15:27] [Server thread/WARN]: Horse moved wrongly!
+[22:15:27] [Server thread/WARN]: Horse moved wrongly!
+[22:15:27] [Server thread/WARN]: Horse moved wrongly!
+[22:15:27] [Server thread/WARN]: Horse moved wrongly!
+[22:15:27] [Server thread/WARN]: Horse moved wrongly!
+[22:15:27] [Server thread/WARN]: Horse moved wrongly!
+[22:15:27] [Server thread/WARN]: Horse moved wrongly!
+[22:15:27] [Server thread/WARN]: Horse moved wrongly!
+[22:15:27] [Server thread/WARN]: Horse moved wrongly!
+[22:15:28] [Server thread/WARN]: Horse moved wrongly!
+[22:17:17] [Server thread/WARN]: Horse moved wrongly!
+[22:17:17] [Server thread/WARN]: Horse moved wrongly!
+[22:17:17] [Server thread/WARN]: Horse moved wrongly!
+[22:19:49] [Server thread/WARN]: Horse moved wrongly!
+[22:19:49] [Server thread/WARN]: Horse moved wrongly!
+[22:21:00] [Server thread/WARN]: Horse moved wrongly!
+[22:22:46] [Server thread/WARN]: Horse moved wrongly!
+[22:22:46] [Server thread/WARN]: Horse moved wrongly!
+[22:22:46] [Server thread/WARN]: Horse moved wrongly!
+[22:23:20] [Server thread/WARN]: Horse moved wrongly!
+[22:23:20] [Server thread/WARN]: Horse moved wrongly!
+[22:24:09] [Server thread/WARN]: Horse moved wrongly!
+[22:24:09] [Server thread/WARN]: Horse moved wrongly!
+[22:25:32] [Server thread/WARN]: Horse moved wrongly!
+[22:27:03] [Server thread/WARN]: Horse moved wrongly!
+[22:27:03] [Server thread/WARN]: Horse moved wrongly!
+[22:27:23] [Server thread/WARN]: Horse moved wrongly!
+[22:27:23] [Server thread/WARN]: Horse moved wrongly!
+[22:27:23] [Server thread/WARN]: Horse moved wrongly!
+[22:27:23] [Server thread/WARN]: Horse moved wrongly!
+[22:28:21] [Server thread/WARN]: Horse moved wrongly!
+[22:28:51] [Server thread/WARN]: Horse moved wrongly!
+[22:30:05] [Server thread/WARN]: Horse moved wrongly!
+[22:30:05] [Server thread/WARN]: Horse moved wrongly!
+[22:30:05] [Server thread/WARN]: Horse moved wrongly!
+[22:30:33] [Server thread/WARN]: Horse moved wrongly!
+[22:30:33] [Server thread/WARN]: Horse moved wrongly!
+[22:32:12] [Server thread/INFO]: tyouamattoG issued server command: /gamemode 1
+[22:32:47] [Server thread/INFO]: Cokadori issued server command: //set 0
+[22:33:51] [Server thread/INFO]: Cokadori issued server command: //undo
+[22:46:16] [Server thread/INFO]: Cokadori issued server command: /tp Ngt_0
+[22:46:16] [Server thread/INFO]: ˜cCokadori ˜4was denied access to command.
+[22:47:30] [Server thread/INFO]: Cokadori lost connection: Internal Exception: java.io.IOException: Šù‘¶‚ÌÚ‘±‚ÍƒŠƒ‚[ƒg ƒzƒXƒg‚É‹­§“I‚ÉØ’f‚³‚ê‚Ü‚µ‚½B
+[22:47:30] [Server thread/INFO]: Cokadori left the game
+[22:52:45] [Server thread/INFO]: tyouamattoG lost connection: Disconnected
+[22:52:45] [Server thread/INFO]: tyouamattoG left the game
+[23:05:06] [Server thread/INFO]: Ngt_0 lost connection: Internal Exception: java.io.IOException: Šù‘¶‚ÌÚ‘±‚ÍƒŠƒ‚[ƒg ƒzƒXƒg‚É‹­§“I‚ÉØ’f‚³‚ê‚Ü‚µ‚½B
+[23:05:06] [Server thread/INFO]: Ngt_0 left the game
+[23:28:03] [Server thread/INFO]: CONSOLE issued server command: /list 
+[23:28:03] [Server thread/INFO]: [0;33;22mThere are [0;31;1m0[0;33;22m out of maximum [0;31;1m10[0;33;22m players online.[m
+[23:28:06] [Server thread/INFO]: Stopping the server
+[23:28:06] [Server thread/INFO]: Stopping server
+[23:28:06] [Server thread/INFO]: [ChopTree3] Disabling ChopTree3 v4.0.0
+[23:28:06] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1.3-SNAPSHOT;c904242
+[23:28:06] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[23:28:06] [Server thread/INFO]: [Essentials] Disabling Essentials v2.0.1-b461
+[23:28:06] [Server thread/INFO]: [FarmProtect] Disabling FarmProtect v1.8.3
+[23:28:06] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.3;7a097ca
+[23:28:06] [Server thread/INFO]: [HopperPipes] Disabling HopperPipes v0.1
+[23:28:06] [Server thread/INFO]: [dynmap] Disabling dynmap v2.3-1142
+[23:28:06] [Server thread/INFO]: [dynmap] Unloaded 11 components.
+[23:28:06] [Server thread/INFO]: [dynmap] Stopping map renderer...
+[23:28:07] [Server thread/INFO]: [dynmap] Disabled
+[23:28:07] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
+[23:28:07] [Server thread/INFO]: [GetCoord] Disabling GetCoord v1.0.0
+[23:28:07] [Server thread/INFO]: Saving players
+[23:28:07] [Server thread/INFO]: Saving worlds
+[23:28:07] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[23:28:07] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[23:28:07] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
