@@ -1,14 +1,15 @@
 timestamps:
   lastteleport: 1484836561820
   logout: 1485784050964
-  login: 1485780455639
+  login: 1486039819228
+  jail: 0
 lastlocation:
-  world: world
-  x: -240.30000001192093
-  y: 12.395021561516701
-  z: 414.69999998807907
-  yaw: -130.22412
-  pitch: 24.299936
+  world: gaikaku
+  x: -422.92500001192093
+  y: 141.0
+  z: -29.69476385391777
+  yaw: 232.79161
+  pitch: 18.449919
 logoutlocation:
   world: world
   x: -159.91821025256843
@@ -19,3 +20,5 @@ logoutlocation:
 lastAccountName: Cokadori
 ipAddress: 120.72.13.198
 afk: false
+money: '0.0'
+jailed: false

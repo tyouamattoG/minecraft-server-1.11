@@ -27,3 +27,5 @@ logoutlocation:
 lastAccountName: sm0n
 ipAddress: 118.20.51.83
 afk: false
+jailed: true
+jail: jail1
