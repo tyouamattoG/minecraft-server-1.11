@@ -67,4 +67,9 @@ users:
     - Editor
     options:
       name: Ngt_0
+  246113b7-ec57-4fb8-a148-794c7929ba76:
+    greoup:
+    - Editor
+    options:
+      name: tyouamattoG
 schema-version: 1
