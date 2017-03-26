@@ -1,16 +1,16 @@
 lastAccountName: tyouamattoG
 timestamps:
-  login: 1490465737455
-  logout: 1490468089513
+  login: 1490537823463
+  logout: 1490537820695
   lastteleport: 1485047039318
-ipAddress: 14.132.214.184
+ipAddress: 127.0.0.1
 logoutlocation:
   world: world
-  x: -287.06275278196046
-  y: 64.0
-  z: 683.5815578077086
-  yaw: 296.33655
-  pitch: 59.24994
+  x: -229.90519378850175
+  y: 145.92716284901056
+  z: 666.7148448405554
+  yaw: 84.34277
+  pitch: 51.599945
 lastlocation:
   world: world
   x: -1162.5

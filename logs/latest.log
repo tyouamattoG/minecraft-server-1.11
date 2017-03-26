@@ -1,142 +1,140 @@
-[00:07:46] [Server thread/INFO]: Starting minecraft server version 1.11
-[00:07:46] [Server thread/INFO]: Loading properties
-[00:07:46] [Server thread/INFO]: Default game type: SURVIVAL
-[00:07:46] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-6f7aabf-c8ff651 (MC: 1.11) (Implementing API version 1.11-R0.1-SNAPSHOT)
-[00:07:47] [Server thread/INFO]: Debug logging is disabled
-[00:07:47] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[00:07:47] [Server thread/INFO]: Using 4 threads for Netty based IO
-[00:07:47] [Server thread/INFO]: Generating keypair
-[00:07:47] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:07:47] [Server thread/INFO]: Using default channel type
-[00:07:48] [Server thread/INFO]: Set PluginClassLoader as parallel capable
-[00:07:49] [Server thread/INFO]: [GetCoord] Loading GetCoord v1.0.0
-[00:07:49] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.4
-[00:07:49] [Server thread/INFO]: [dynmap] Loading dynmap v2.3-1142
-[00:07:49] [Server thread/INFO]: [dynmap] version=git-Spigot-6f7aabf-c8ff651 (MC: 1.11)
-[00:07:49] [Server thread/INFO]: [dynmap] Mod Support API available
-[00:07:49] [Server thread/INFO]: [HopperPipes] Loading HopperPipes v0.1
-[00:07:49] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.3;7a097ca
-[00:07:49] [Server thread/INFO]: [FarmProtect] Loading FarmProtect v1.8.3
-[00:07:49] [Server thread/INFO]: [Essentials] Loading Essentials v2.0.1-b461
-[00:07:49] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.4-b527
-[00:07:49] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1.3-SNAPSHOT;c904242
-[00:07:49] [Server thread/INFO]: [ChopTree3] Loading ChopTree3 v4.0.0
-[00:07:49] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[00:07:49] [Server thread/INFO]: Preparing level "world"
-[00:07:50] [Server thread/INFO]: -------- World Settings For [world] --------
-[00:07:50] [Server thread/INFO]: Item Merge Radius: 2.5
-[00:07:50] [Server thread/INFO]: Item Despawn Rate: 6000
-[00:07:50] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[00:07:50] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[00:07:50] [Server thread/INFO]: View Distance: 10
-[00:07:50] [Server thread/INFO]: Experience Merge Radius: 3.0
-[00:07:50] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[00:07:50] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[00:07:50] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[00:07:50] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[00:07:50] [Server thread/INFO]: Mob Spawn Range: 4
-[00:07:50] [Server thread/INFO]: Random Lighting Updates: false
-[00:07:50] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[00:07:50] [Server thread/INFO]: Cane Growth Modifier: 100%
-[00:07:50] [Server thread/INFO]: Melon Growth Modifier: 100%
-[00:07:50] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[00:07:50] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[00:07:50] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[00:07:50] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[00:07:50] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[00:07:50] [Server thread/INFO]: Vine Growth Modifier: 100%
-[00:07:50] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[00:07:50] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[00:07:50] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[00:07:50] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[00:07:50] [Server thread/INFO]: Max TNT Explosions: 100
-[00:07:50] [Server thread/INFO]: Structure Info Saving: true
-[00:07:50] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[00:07:50] [Server thread/INFO]: Item Merge Radius: 2.5
-[00:07:50] [Server thread/INFO]: Item Despawn Rate: 6000
-[00:07:50] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[00:07:50] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[00:07:50] [Server thread/INFO]: View Distance: 10
-[00:07:50] [Server thread/INFO]: Experience Merge Radius: 3.0
-[00:07:50] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[00:07:50] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[00:07:50] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[00:07:50] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[00:07:50] [Server thread/INFO]: Mob Spawn Range: 4
-[00:07:50] [Server thread/INFO]: Random Lighting Updates: false
-[00:07:50] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[00:07:50] [Server thread/INFO]: Cane Growth Modifier: 100%
-[00:07:50] [Server thread/INFO]: Melon Growth Modifier: 100%
-[00:07:50] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[00:07:50] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[00:07:50] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[00:07:50] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[00:07:50] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[00:07:50] [Server thread/INFO]: Vine Growth Modifier: 100%
-[00:07:50] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[00:07:50] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[00:07:50] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[00:07:50] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[00:07:50] [Server thread/INFO]: Max TNT Explosions: 100
-[00:07:50] [Server thread/INFO]: Structure Info Saving: true
-[00:07:50] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[00:07:50] [Server thread/INFO]: Item Merge Radius: 2.5
-[00:07:50] [Server thread/INFO]: Item Despawn Rate: 6000
-[00:07:50] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[00:07:50] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[00:07:50] [Server thread/INFO]: View Distance: 10
-[00:07:50] [Server thread/INFO]: Experience Merge Radius: 3.0
-[00:07:50] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[00:07:50] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[00:07:50] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[00:07:50] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[00:07:50] [Server thread/INFO]: Mob Spawn Range: 4
-[00:07:50] [Server thread/INFO]: Random Lighting Updates: false
-[00:07:50] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[00:07:50] [Server thread/INFO]: Cane Growth Modifier: 100%
-[00:07:50] [Server thread/INFO]: Melon Growth Modifier: 100%
-[00:07:50] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[00:07:50] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[00:07:50] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[00:07:50] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[00:07:50] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[00:07:50] [Server thread/INFO]: Vine Growth Modifier: 100%
-[00:07:50] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[00:07:50] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[00:07:50] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[00:07:50] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[00:07:50] [Server thread/INFO]: Max TNT Explosions: 100
-[00:07:50] [Server thread/INFO]: Structure Info Saving: true
-[00:07:50] [Server thread/INFO]: Preparing start region for level 0 (Seed: -8101145141919893)
-[00:07:52] [Server thread/INFO]: Preparing spawn area: 1%
-[00:07:53] [Server thread/INFO]: Preparing spawn area: 13%
-[00:07:54] [Server thread/INFO]: Preparing spawn area: 43%
-[00:07:54] [Server thread/INFO]: Preparing start region for level 1 (Seed: -8101145141919893)
-[00:07:55] [Server thread/INFO]: Preparing spawn area: 33%
-[00:07:56] [Server thread/INFO]: Preparing spawn area: 81%
-[00:07:57] [Server thread/INFO]: Preparing start region for level 2 (Seed: -8101145141919893)
-[00:07:57] [Server thread/INFO]: [GetCoord] Enabling GetCoord v1.0.0
-[00:07:57] [Server thread/INFO]: TEST Plugin Loaded!
-[00:07:57] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4
-[00:07:57] [Server thread/INFO]: [PermissionsEx] Initializing file backend
-[00:07:57] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
-[00:07:58] [Server thread/INFO]: [dynmap] Enabling dynmap v2.3-1142
-[00:07:58] [Server thread/INFO]: [dynmap] Added 1 custom biome mappings
-[00:07:58] [Server thread/INFO]: [dynmap] Using PermissionsEx 1.23.4 for access control
-[00:07:59] [Server thread/INFO]: [dynmap] Mod Support processing completed
-[00:08:00] [Server thread/INFO]: [dynmap] Loaded 23 shaders.
-[00:08:01] [Server thread/INFO]: [dynmap] Loaded 82 perspectives.
-[00:08:01] [Server thread/INFO]: [dynmap] Loaded 14 lightings.
-[00:08:01] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:8123
-[00:08:01] [Server thread/INFO]: [dynmap] version 2.3-1142 is enabled - core version 2.3-2074
-[00:08:01] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
-[00:08:01] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
-[00:08:01] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
-[00:08:01] [Server thread/INFO]: [dynmap] Enabled
-[00:08:01] [Server thread/INFO]: [HopperPipes] Enabling HopperPipes v0.1
-[00:08:01] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.3;7a097ca
-[00:08:02] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
-[00:08:02] [Server thread/WARN]: [WorldEdit] 
+[16:05:52] [Server thread/INFO]: Starting minecraft server version 1.11
+[16:05:52] [Server thread/INFO]: Loading properties
+[16:05:52] [Server thread/INFO]: Default game type: SURVIVAL
+[16:05:52] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-6f7aabf-c8ff651 (MC: 1.11) (Implementing API version 1.11-R0.1-SNAPSHOT)
+[16:05:52] [Server thread/INFO]: Debug logging is disabled
+[16:05:52] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:05:52] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:05:52] [Server thread/INFO]: Generating keypair
+[16:05:52] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:05:52] [Server thread/INFO]: Using default channel type
+[16:05:52] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[16:05:53] [Server thread/INFO]: [GetCoord] Loading GetCoord v1.0.0
+[16:05:53] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.4
+[16:05:53] [Server thread/INFO]: [dynmap] Loading dynmap v2.3-1142
+[16:05:53] [Server thread/INFO]: [dynmap] version=git-Spigot-6f7aabf-c8ff651 (MC: 1.11)
+[16:05:53] [Server thread/INFO]: [dynmap] Mod Support API available
+[16:05:53] [Server thread/INFO]: [HopperPipes] Loading HopperPipes v0.1
+[16:05:53] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.3;7a097ca
+[16:05:53] [Server thread/INFO]: [FarmProtect] Loading FarmProtect v1.8.3
+[16:05:53] [Server thread/INFO]: [Essentials] Loading Essentials v2.0.1-b461
+[16:05:53] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.4-b527
+[16:05:53] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1.3-SNAPSHOT;c904242
+[16:05:53] [Server thread/INFO]: [ChopTree3] Loading ChopTree3 v4.0.0
+[16:05:53] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[16:05:53] [Server thread/INFO]: Preparing level "world"
+[16:05:53] [Server thread/INFO]: -------- World Settings For [world] --------
+[16:05:53] [Server thread/INFO]: Item Merge Radius: 2.5
+[16:05:53] [Server thread/INFO]: Item Despawn Rate: 6000
+[16:05:53] [Server thread/INFO]: Experience Merge Radius: 3.0
+[16:05:53] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[16:05:53] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:05:53] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:05:53] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:05:53] [Server thread/INFO]: Mob Spawn Range: 4
+[16:05:53] [Server thread/INFO]: View Distance: 10
+[16:05:53] [Server thread/INFO]: Random Lighting Updates: false
+[16:05:53] [Server thread/INFO]: Structure Info Saving: true
+[16:05:53] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:05:53] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:05:53] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:05:53] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:05:53] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:05:53] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:05:53] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:05:53] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:05:53] [Server thread/INFO]: Vine Growth Modifier: 100%
+[16:05:53] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[16:05:53] [Server thread/INFO]: Max TNT Explosions: 100
+[16:05:53] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:05:53] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[16:05:53] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[16:05:53] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[16:05:53] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[16:05:53] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[16:05:53] [Server thread/INFO]: Item Merge Radius: 2.5
+[16:05:53] [Server thread/INFO]: Item Despawn Rate: 6000
+[16:05:53] [Server thread/INFO]: Experience Merge Radius: 3.0
+[16:05:53] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[16:05:53] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:05:53] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:05:53] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:05:53] [Server thread/INFO]: Mob Spawn Range: 4
+[16:05:53] [Server thread/INFO]: View Distance: 10
+[16:05:53] [Server thread/INFO]: Random Lighting Updates: false
+[16:05:53] [Server thread/INFO]: Structure Info Saving: true
+[16:05:53] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:05:53] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:05:53] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:05:53] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:05:53] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:05:53] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:05:53] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:05:53] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:05:53] [Server thread/INFO]: Vine Growth Modifier: 100%
+[16:05:53] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[16:05:53] [Server thread/INFO]: Max TNT Explosions: 100
+[16:05:53] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:05:53] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[16:05:53] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[16:05:53] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[16:05:53] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[16:05:53] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[16:05:53] [Server thread/INFO]: Item Merge Radius: 2.5
+[16:05:53] [Server thread/INFO]: Item Despawn Rate: 6000
+[16:05:53] [Server thread/INFO]: Experience Merge Radius: 3.0
+[16:05:53] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[16:05:53] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:05:53] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:05:53] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:05:53] [Server thread/INFO]: Mob Spawn Range: 4
+[16:05:53] [Server thread/INFO]: View Distance: 10
+[16:05:53] [Server thread/INFO]: Random Lighting Updates: false
+[16:05:53] [Server thread/INFO]: Structure Info Saving: true
+[16:05:53] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:05:53] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:05:53] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:05:53] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:05:53] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:05:53] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:05:53] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:05:53] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:05:53] [Server thread/INFO]: Vine Growth Modifier: 100%
+[16:05:53] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[16:05:53] [Server thread/INFO]: Max TNT Explosions: 100
+[16:05:53] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:05:53] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[16:05:53] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[16:05:53] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[16:05:53] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[16:05:53] [Server thread/INFO]: Preparing start region for level 0 (Seed: -8101145141919893)
+[16:05:54] [Server thread/INFO]: Preparing spawn area: 53%
+[16:05:54] [Server thread/INFO]: Preparing start region for level 1 (Seed: -8101145141919893)
+[16:05:55] [Server thread/INFO]: Preparing start region for level 2 (Seed: -8101145141919893)
+[16:05:55] [Server thread/INFO]: [GetCoord] Enabling GetCoord v1.0.0
+[16:05:55] [Server thread/INFO]: TEST Plugin Loaded!
+[16:05:55] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4
+[16:05:55] [Server thread/INFO]: [PermissionsEx] Initializing file backend
+[16:05:55] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[16:05:55] [Server thread/INFO]: [dynmap] Enabling dynmap v2.3-1142
+[16:05:56] [Server thread/INFO]: [dynmap] Added 1 custom biome mappings
+[16:05:56] [Server thread/INFO]: [dynmap] Using PermissionsEx 1.23.4 for access control
+[16:05:56] [Server thread/ERROR]: [dynmap] Error reading plugins\dynmap\markers.yml
+[16:05:57] [Server thread/INFO]: [dynmap] Extracted files upgraded
+[16:05:57] [Server thread/INFO]: [dynmap] Mod Support processing completed
+[16:05:57] [Server thread/INFO]: [dynmap] Loaded 23 shaders.
+[16:05:57] [Server thread/INFO]: [dynmap] Loaded 82 perspectives.
+[16:05:57] [Server thread/INFO]: [dynmap] Loaded 14 lightings.
+[16:05:57] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:8123
+[16:05:57] [Server thread/INFO]: [dynmap] version 2.3-1142 is enabled - core version 2.3-2074
+[16:05:57] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
+[16:05:57] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
+[16:05:57] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
+[16:05:57] [Server thread/INFO]: [dynmap] Enabled
+[16:05:57] [Server thread/INFO]: [HopperPipes] Enabling HopperPipes v0.1
+[16:05:57] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.3;7a097ca
+[16:05:57] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[16:05:57] [Server thread/WARN]: [WorldEdit] 
 **********************************************
 ** This WorldEdit version does not fully support your version of Bukkit.
 **
@@ -147,759 +145,366 @@
 ** Please see http://wiki.sk89q.com/wiki/WorldEdit/Bukkit_adapters
 **********************************************
 
-[00:08:02] [Server thread/INFO]: [FarmProtect] Enabling FarmProtect v1.8.3
-[00:08:02] [Server thread/INFO]: [FarmProtect] You are running the latest version of FarmProtect
-[00:08:02] [Server thread/INFO]: [FarmProtect] Version 1.8.3 by jacklin213 has been Enabled!
-[00:08:02] [Server thread/INFO]: [Essentials] Enabling Essentials v2.0.1-b461
-[00:08:03] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
-[00:08:03] [Server thread/INFO]: [Essentials] Using Reflection based provider as spawn egg provider.
-[00:08:03] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
-[00:08:04] [Server thread/INFO]: Using locale ja_JP
-[00:08:04] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global PluginMetrics config.
-[00:08:04] [Server thread/WARN]: [Essentials] Detected supported permissions plugin PermissionsEx without Vault installed.
-[00:08:04] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
-[00:08:04] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
-[00:08:04] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.4-b527
-[00:08:04] [Server thread/INFO]: [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
-[00:08:04] [Server thread/INFO]: [AllPay] - Version 10.0 - hooked into Essentials Economy for Multiverse-Core v2.4-b527
-[00:08:04] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -8101145141919893
-[00:08:05] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -8101145141919893
-[00:08:05] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -8101145141919893
-[00:08:05] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'gaikaku' - Env: NORMAL - Type: NORMAL & seed: -205671470
-[00:08:05] [Server thread/INFO]: -------- World Settings For [gaikaku] --------
-[00:08:05] [Server thread/INFO]: Item Merge Radius: 2.5
-[00:08:05] [Server thread/INFO]: Item Despawn Rate: 6000
-[00:08:05] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[00:08:05] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[00:08:05] [Server thread/INFO]: View Distance: 10
-[00:08:05] [Server thread/INFO]: Experience Merge Radius: 3.0
-[00:08:05] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[00:08:05] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[00:08:05] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[00:08:05] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[00:08:05] [Server thread/INFO]: Mob Spawn Range: 4
-[00:08:05] [Server thread/INFO]: Random Lighting Updates: false
-[00:08:05] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[00:08:05] [Server thread/INFO]: Cane Growth Modifier: 100%
-[00:08:05] [Server thread/INFO]: Melon Growth Modifier: 100%
-[00:08:05] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[00:08:05] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[00:08:05] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[00:08:05] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[00:08:05] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[00:08:05] [Server thread/INFO]: Vine Growth Modifier: 100%
-[00:08:05] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[00:08:05] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[00:08:05] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[00:08:05] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[00:08:05] [Server thread/INFO]: Max TNT Explosions: 100
-[00:08:05] [Server thread/INFO]: Structure Info Saving: true
-[00:08:05] [Server thread/INFO]: Preparing start region for level 3 (Seed: -205671470)
-[00:08:06] [Server thread/INFO]: Preparing spawn area for gaikaku, 12%
-[00:08:07] [Server thread/INFO]: Preparing spawn area for gaikaku, 40%
-[00:08:08] [Server thread/INFO]: Preparing spawn area for gaikaku, 65%
-[00:08:09] [Server thread/INFO]: Preparing spawn area for gaikaku, 89%
-[00:08:09] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'gaikaku'.
-[00:08:10] [Server thread/INFO]: [Multiverse-Core] 4 - World(s) loaded.
-[00:08:10] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1.3-SNAPSHOT;c904242
-[00:08:25] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is blocked.
-[00:08:25] [Server thread/INFO]: [WorldGuard] (world) Lighters are blocked.
-[00:08:25] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
-[00:08:25] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
-[00:08:25] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
-[00:08:25] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is blocked.
-[00:08:25] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are blocked.
-[00:08:25] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is blocked.
-[00:08:25] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
-[00:08:25] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
-[00:08:25] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is blocked.
-[00:08:25] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are blocked.
-[00:08:25] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
-[00:08:25] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
-[00:08:25] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
-[00:08:25] [Server thread/INFO]: [WorldGuard] (gaikaku) TNT ignition is blocked.
-[00:08:25] [Server thread/INFO]: [WorldGuard] (gaikaku) Lighters are blocked.
-[00:08:25] [Server thread/INFO]: [WorldGuard] (gaikaku) Lava fire is blocked.
-[00:08:25] [Server thread/INFO]: [WorldGuard] (gaikaku) Fire spread is UNRESTRICTED.
-[00:08:25] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'gaikaku'
-[00:08:25] [Server thread/INFO]: [WorldGuard] Loading region data...
-[00:08:26] [Server thread/INFO]: [ChopTree3] Enabling ChopTree3 v4.0.0
-[00:08:26] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[00:08:26] [Server thread/INFO]: Done (36.433s)! For help, type "help" or "?"
-[00:08:26] [Server thread/INFO]: Starting GS4 status listener
-[00:08:26] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
-[00:09:48] [User Authenticator #1/INFO]: UUID of player Cokadori is 6b2843a9-e544-4cbb-b3e6-1478ea8e7907
-[00:09:49] [Server thread/INFO]: Cokadori[/120.72.13.198:51628] logged in with entity id 1144 at ([world]-343.96733816102386, 37.42097036736177, 130.2529279814021)
-[00:09:50] [User Authenticator #2/INFO]: UUID of player lm0x is f3ed2aef-99b3-47b2-b8bd-27ad2a77c030
-[00:09:50] [Server thread/INFO]: lm0x[/127.0.0.1:49639] logged in with entity id 1221 at ([world]-202.16116098262583, 72.90616121184013, 264.48791006795534)
-[00:10:07] [Server thread/INFO]: Cokadori issued server command: /gamemode 1
-[00:10:54] [Server thread/INFO]: lm0x issued server command: /give lm0x torch
-[00:11:02] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
-[00:11:09] [User Authenticator #3/INFO]: UUID of player tyouamattoG is 246113b7-ec57-4fb8-a148-794c7929ba76
-[00:11:11] [Server thread/INFO]: tyouamattoG[/14.132.214.184:62060] logged in with entity id 3402 at ([world]-1181.3325810560236, 58.0, 1032.39887568485)
-[00:11:22] [Server thread/INFO]: tyouamattoG lost connection: Disconnected
-[00:11:22] [Server thread/INFO]: tyouamattoG left the game
-[00:16:10] [Server thread/INFO]: lm0x issued server command: /give lm0x torch
-[00:16:19] [Server thread/INFO]: lm0x issued server command: /gamemode 1
-[00:16:35] [Server thread/INFO]: Cokadori issued server command: /tp lm0x
-[00:16:35] [Server thread/INFO]: ÅòcCokadori Åò4was denied access to command.
-[00:19:10] [Server thread/INFO]: lm0x issued server command: //set stone
-[00:19:21] [Server thread/INFO]: lm0x issued server command: //set stone:6
-[00:19:24] [Server thread/INFO]: lm0x issued server command: //set stone:2
-[00:19:27] [Server thread/INFO]: lm0x issued server command: //set stone:4
-[00:19:30] [User Authenticator #4/INFO]: UUID of player Flasushi is ff256b53-8ce0-4acf-ab53-4fb3562e1c38
-[00:19:30] [Server thread/INFO]: Flasushi[/49.251.167.8:60972] logged in with entity id 7917 at ([world]-327.3077421374619, 36.0, 121.37327094988225)
-[00:19:36] [Server thread/INFO]: Flasushi lost connection: Internal Exception: java.io.IOException: ä˘ë∂ÇÃê⁄ë±ÇÕÉäÉÇÅ[Ég ÉzÉXÉgÇ…ã≠êßìIÇ…êÿífÇ≥ÇÍÇ‹ÇµÇΩÅB
-[00:19:36] [Server thread/INFO]: Flasushi left the game
-[00:19:59] [Server thread/INFO]: lm0x issued server command: //set cobble
-[00:20:30] [User Authenticator #5/INFO]: UUID of player Flasushi is ff256b53-8ce0-4acf-ab53-4fb3562e1c38
-[00:20:30] [Server thread/INFO]: Flasushi[/49.251.167.8:61134] logged in with entity id 9621 at ([world]-327.3077421374619, 36.0, 121.37327094988225)
-[00:21:01] [Server thread/INFO]: Flasushi issued server command: /gamemode creative Flasushi
-[00:21:34] [Server thread/INFO]: lm0x issued server command: //set stone:4
-[00:22:09] [Server thread/INFO]: lm0x issued server command: //set stone
-[00:22:13] [Server thread/INFO]: lm0x issued server command: //set stone:6
-[00:22:34] [Server thread/INFO]: lm0x issued server command: //set fence
-[00:22:51] [Server thread/INFO]: lm0x issued server command: //set fence
-[00:23:02] [User Authenticator #6/INFO]: UUID of player tyouamattoG is 246113b7-ec57-4fb8-a148-794c7929ba76
-[00:23:03] [Server thread/INFO]: tyouamattoG[/14.132.214.184:62688] logged in with entity id 11419 at ([world]-1163.5787792949902, 63.0, 1032.4190753657413)
-[00:23:54] [Server thread/INFO]: Flasushi issued server command: //set 0
-[00:24:02] [Server thread/INFO]: Flasushi issued server command: //set 1
-[00:24:05] [Server thread/INFO]: Flasushi issued server command: //set 0
-[00:24:06] [Server thread/INFO]: lm0x issued server command: //set golden_rail
-[00:24:08] [Server thread/INFO]: Flasushi issued server command: //set 9
-[00:24:11] [Server thread/INFO]: lm0x issued server command: //set rail
-[00:24:11] [Server thread/INFO]: Flasushi issued server command: //set 0
-[00:24:16] [Server thread/INFO]: lm0x issued server command: //set goldenrail
-[00:24:21] [Server thread/INFO]: lm0x issued server command: //set gold_rail
-[00:24:28] [Server thread/INFO]: lm0x issued server command: //set powerd_rail
-[00:24:39] [Server thread/INFO]: Flasushi issued server command: //set 9
-[00:24:44] [Server thread/INFO]: lm0x issued server command: //set powerd_rail
-[00:25:01] [Server thread/INFO]: lm0x issued server command: //set powerd_rail
-[00:25:02] [Server thread/INFO]: tyouamattoG lost connection: Internal Exception: java.io.IOException: ä˘ë∂ÇÃê⁄ë±ÇÕÉäÉÇÅ[Ég ÉzÉXÉgÇ…ã≠êßìIÇ…êÿífÇ≥ÇÍÇ‹ÇµÇΩÅB
-[00:25:02] [Server thread/INFO]: tyouamattoG left the game
-[00:25:12] [Server thread/INFO]: Flasushi issued server command: //set 0
-[00:25:16] [Server thread/INFO]: Flasushi issued server command: //set 9d
-[00:25:17] [User Authenticator #7/INFO]: UUID of player Ngt_0 is 73f0ca61-ba45-42cc-9054-31b1d88658b7
-[00:25:18] [Server thread/INFO]: Ngt_0[/14.132.216.32:50706] logged in with entity id 12889 at ([world]-2058.629355178995, 110.0, 2619.124694998784)
-[00:25:19] [Server thread/INFO]: Flasushi issued server command: //set 9
-[00:25:22] [Server thread/INFO]: Flasushi issued server command: //set 0
-[00:26:20] [Server thread/INFO]: Ngt_0 fell from a high place
-[00:26:35] [User Authenticator #8/INFO]: UUID of player tyouamattoG is 246113b7-ec57-4fb8-a148-794c7929ba76
-[00:26:36] [Server thread/INFO]: tyouamattoG[/14.132.214.184:63031] logged in with entity id 13751 at ([world]-1163.5787792949902, 63.0, 1032.4190753657413)
-[00:27:02] [Server thread/INFO]: Ngt_0 issued server command: /gamemode 1
-[00:28:09] [Server thread/INFO]: Flasushi issued server command: //set 0
-[00:28:17] [Server thread/INFO]: Flasushi issued server command: //undo
-[00:28:19] [Server thread/INFO]: tyouamattoG issued server command: /gamemode 1
-[00:28:26] [Server thread/INFO]: tyouamattoG issued server command: /tp Cokadori
-[00:28:26] [Server thread/INFO]: ÅòctyouamattoG Åò4was denied access to command.
-[00:31:27] [Server thread/INFO]: Ngt_0 lost connection: Disconnected
-[00:31:27] [Server thread/INFO]: Ngt_0 left the game
-[00:31:32] [User Authenticator #9/INFO]: UUID of player Ngt_0 is 73f0ca61-ba45-42cc-9054-31b1d88658b7
-[00:31:32] [Server thread/INFO]: Ngt_0[/14.132.216.32:50900] logged in with entity id 17677 at ([world]-120.89544685669165, 92.75097655482988, 252.66096057126663)
-[00:31:42] [Server thread/INFO]: Ngt_0 fell from a high place
-[00:31:59] [Server thread/INFO]: Ngt_0 issued server command: /gamemode 1
-[00:33:38] [Server thread/INFO]: Flasushi issued server command: //set 0
-[00:33:46] [Server thread/INFO]: Flasushi issued server command: //set 0
-[00:33:55] [Server thread/INFO]: Flasushi issued server command: //set 0
-[00:34:15] [Server thread/INFO]: Flasushi issued server command: //set 0
-[00:34:24] [Server thread/INFO]: Flasushi issued server command: //set 0
-[00:35:28] [Server thread/INFO]: Flasushi issued server command: //set 0
-[00:35:33] [Server thread/INFO]: Flasushi issued server command: //set 0
-[00:36:03] [Server thread/INFO]: Flasushi issued server command: //set 0
-[00:36:09] [Server thread/INFO]: Flasushi issued server command: //set 0
-[00:36:10] [Server thread/INFO]: Flasushi issued server command: //set 1
-[00:36:13] [Server thread/INFO]: Flasushi issued server command: //set 1
-[00:36:15] [Server thread/INFO]: Flasushi issued server command: //set 0
-[00:36:19] [Server thread/INFO]: Flasushi issued server command: //set 10
-[00:36:28] [Server thread/INFO]: Flasushi issued server command: //set 0
-[00:36:29] [Server thread/WARN]: Cokadori moved too quickly! 1.5055338470796755,-1.1999882611075918,-9.843734859146537
-[00:37:28] [Server thread/INFO]: Flasushi issued server command: //undo
-[00:37:30] [Server thread/INFO]: Flasushi issued server command: /undo
-[00:37:33] [Server thread/INFO]: Flasushi issued server command: /undo
-[00:37:35] [Server thread/INFO]: Flasushi issued server command: /undo
-[00:37:37] [Server thread/INFO]: Flasushi issued server command: /undo
-[00:37:39] [Server thread/INFO]: Flasushi issued server command: /undo
-[00:37:42] [Server thread/INFO]: Flasushi issued server command: /undo
-[00:37:44] [Server thread/INFO]: Flasushi issued server command: /undo
-[00:38:44] [Server thread/INFO]: Cokadori issued server command: /tp Ngt_0
-[00:38:44] [Server thread/INFO]: ÅòcCokadori Åò4was denied access to command.
-[00:39:37] [Server thread/INFO]: lm0x issued server command: //set stone:2
-[00:39:51] [Server thread/INFO]: Flasushi issued server command: //set 44
-[00:40:00] [Server thread/INFO]: Flasushi issued server command: //set 40
-[00:40:05] [Server thread/INFO]: Flasushi issued server command: //set 42
-[00:40:07] [Server thread/INFO]: Flasushi issued server command: //set 44
-[00:40:09] [Server thread/INFO]: Flasushi issued server command: //set 45
-[00:40:13] [Server thread/INFO]: Flasushi issued server command: //set 77
-[00:40:16] [Server thread/INFO]: Flasushi issued server command: //set 4
-[00:40:21] [Server thread/INFO]: Flasushi issued server command: //set 0
-[00:41:07] [Server thread/WARN]: Cokadori moved too quickly! 1.626209438407443,14.062500560046772,17.173306181934265
-[00:41:29] [Server thread/INFO]: Flasushi issued server command: //set 0
-[00:43:19] [Server thread/INFO]: Flasushi issued server command: //set 407
-[00:43:23] [Server thread/INFO]: Flasushi issued server command: //set 40
-[00:43:44] [Server thread/INFO]: [[0;37;1mworld[0;37;1m]<[0;31;22mlm0x[m> ã§óp[m
-[00:46:13] [Server thread/INFO]: Flasushi issued server command: //set 44
-[00:47:39] [Server thread/INFO]: lm0x issued server command: //copy
-[00:47:46] [Server thread/INFO]: lm0x issued server command: //paste
-[00:47:58] [Server thread/INFO]: lm0x issued server command: //undo
-[00:48:41] [Server thread/INFO]: Cokadori fell out of the world
-[00:48:41] [Server thread/INFO]: Ngt_0 fell out of the world
-[00:49:50] [Server thread/INFO]: Ngt_0 lost connection: Internal Exception: java.io.IOException: ä˘ë∂ÇÃê⁄ë±ÇÕÉäÉÇÅ[Ég ÉzÉXÉgÇ…ã≠êßìIÇ…êÿífÇ≥ÇÍÇ‹ÇµÇΩÅB
-[00:49:50] [Server thread/INFO]: Ngt_0 left the game
-[00:51:55] [Server thread/INFO]: lm0x issued server command: //copy
-[00:52:03] [Server thread/INFO]: lm0x issued server command: //paste
-[00:53:04] [Server thread/INFO]: Flasushi issued server command: //set 1
-[00:53:16] [Server thread/INFO]: lm0x issued server command: //paste
-[00:53:34] [Server thread/INFO]: lm0x issued server command: //paste
-[00:53:51] [Server thread/INFO]: lm0x issued server command: //paste
-[00:55:05] [Server thread/INFO]: Flasushi issued server command: //set 79
-[00:55:28] [Server thread/INFO]: lm0x issued server command: //paste
-[00:55:30] [Server thread/INFO]: Flasushi issued server command: //set 79
-[00:56:04] [Server thread/INFO]: lm0x issued server command: //set 0
-[00:56:24] [Server thread/INFO]: Flasushi issued server command: //set 79
-[00:56:39] [Server thread/WARN]: Boat moved wrongly!
-[00:56:39] [Server thread/WARN]: Boat moved wrongly!
-[00:56:39] [Server thread/WARN]: Boat moved wrongly!
-[00:56:39] [Server thread/WARN]: Boat moved wrongly!
-[00:56:40] [Server thread/WARN]: Boat moved wrongly!
-[00:56:40] [Server thread/WARN]: Boat moved wrongly!
-[00:56:40] [Server thread/WARN]: Boat moved wrongly!
-[00:56:40] [Server thread/WARN]: Boat moved wrongly!
-[00:56:40] [Server thread/WARN]: Boat moved wrongly!
-[00:56:40] [Server thread/WARN]: Boat moved wrongly!
-[00:56:40] [Server thread/WARN]: Boat moved wrongly!
-[00:56:40] [Server thread/WARN]: Boat moved wrongly!
-[00:56:40] [Server thread/WARN]: Boat moved wrongly!
-[00:56:40] [Server thread/WARN]: Boat moved wrongly!
-[00:56:40] [Server thread/WARN]: Boat moved wrongly!
-[00:56:41] [Server thread/WARN]: Boat moved wrongly!
-[00:56:41] [Server thread/WARN]: Boat moved wrongly!
-[00:56:41] [Server thread/WARN]: Boat moved wrongly!
-[00:56:41] [Server thread/WARN]: Boat moved wrongly!
-[00:56:41] [Server thread/WARN]: Boat moved wrongly!
-[00:56:41] [Server thread/WARN]: Boat moved wrongly!
-[00:56:41] [Server thread/WARN]: Boat moved wrongly!
-[00:57:28] [Server thread/INFO]: Flasushi issued server command: //set 79
-[00:58:21] [Server thread/WARN]: Boat (vehicle of Cokadori) moved too quickly! -1.1375411729696907,0.0,-26.757524840450174
-[00:58:21] [Server thread/WARN]: Boat (vehicle of Cokadori) moved too quickly! -1.3509938894627567,0.0,-28.139764034338896
-[00:58:21] [Server thread/WARN]: Boat (vehicle of Cokadori) moved too quickly! -1.5659632931996157,0.0,-29.53393773882749
-[00:58:21] [Server thread/WARN]: Boat (vehicle of Cokadori) moved too quickly! -1.7773964221486267,0.0,-30.940220715706687
-[00:58:21] [Server thread/WARN]: Boat (vehicle of Cokadori) moved too quickly! -1.980428399313439,0.0,-32.35815984264718
-[00:58:21] [Server thread/WARN]: Boat (vehicle of Cokadori) moved too quickly! -2.1704524419454287,0.0,-33.78672669581999
-[00:58:21] [Server thread/WARN]: Boat (vehicle of Cokadori) moved too quickly! -2.343178751606672,0.0,-35.224376244168184
-[00:58:21] [Server thread/WARN]: Boat (vehicle of Cokadori) moved too quickly! -2.494675335217096,0.0,-36.66910628085839
-[00:58:21] [Server thread/WARN]: Boat (vehicle of Cokadori) moved too quickly! -2.621409417578718,0.0,-38.11852291555567
-[00:58:21] [Server thread/WARN]: Boat (vehicle of Cokadori) moved too quickly! -2.7202686714279594,0.0,-39.56990075140277
-[00:58:21] [Server thread/WARN]: Boat (vehicle of Cokadori) moved too quickly! -2.7885804942717414,0.0,-41.02024643226946
-[00:58:21] [Server thread/WARN]: Boat (vehicle of Cokadori) moved too quickly! -2.8245619178982224,0.0,-42.466907558297635
-[00:58:21] [Server thread/WARN]: Boat (vehicle of Cokadori) moved too quickly! -2.8271512675173653,0.0,-43.90771169211848
-[00:58:21] [Server thread/WARN]: Boat (vehicle of Cokadori) moved too quickly! -2.7958680408861483,0.0,-45.34105753802794
-[00:58:21] [Server thread/WARN]: Boat (vehicle of Cokadori) moved too quickly! -2.730699940208922,0.0,-46.76596080295326
-[00:58:21] [Server thread/WARN]: Boat (vehicle of Cokadori) moved too quickly! -2.632024161778304,0.0,-48.18206860772136
-[00:58:21] [Server thread/WARN]: Boat (vehicle of Cokadori) moved too quickly! -2.500563882723384,0.0,-49.58965015695037
-[00:58:21] [Server thread/WARN]: Boat (vehicle of Cokadori) moved too quickly! -2.337378399401871,0.0,-50.9895685076425
-[00:58:21] [Server thread/WARN]: Boat (vehicle of Cokadori) moved too quickly! -2.143885880813059,0.0,-52.383237104025966
-[00:58:21] [Server thread/WARN]: Boat (vehicle of Cokadori) moved too quickly! -1.9219124489521846,0.0,-53.77255741428701
-[00:58:21] [Server thread/WARN]: Boat (vehicle of Cokadori) moved too quickly! -1.6737569826715344,0.0,-55.15982699505366
-[00:58:21] [Server thread/WARN]: Boat (vehicle of Cokadori) moved too quickly! -1.4022749266442815,0.0,-56.547630056958724
-[00:58:21] [Server thread/WARN]: Boat (vehicle of Cokadori) moved too quickly! -1.1109595938241341,0.0,-57.938689743988334
-[00:58:21] [Server thread/WARN]: Boat (vehicle of Cokadori) moved too quickly! -0.8040156057214745,0.0,-59.33568748151902
-[00:58:21] [Server thread/WARN]: Boat (vehicle of Cokadori) moved too quickly! -0.48640352769518813,0.0,-60.741043029496836
-[00:58:21] [Server thread/WARN]: Boat (vehicle of Cokadori) moved too quickly! -0.16384461520061677,0.0,-62.15666246023136
-[00:58:21] [Server thread/WARN]: Boat (vehicle of Cokadori) moved too quickly! 0.15723186012013457,0.0,-63.58365972586614
-[00:58:21] [Server thread/WARN]: Boat (vehicle of Cokadori) moved too quickly! 0.4698283526126943,0.0,-65.02206407280687
-[00:58:21] [Server thread/WARN]: Boat (vehicle of Cokadori) moved too quickly! 0.7666062909751474,0.0,-66.47053942845412
-[00:58:21] [Server thread/WARN]: Boat (vehicle of Cokadori) moved too quickly! 1.9709208176219022,0.0,-42.53987828785205
-[00:58:21] [Server thread/WARN]: Boat (vehicle of Cokadori) moved too quickly! 2.216767954552381,0.0,-43.999445829306524
-[00:58:21] [Server thread/WARN]: Boat (vehicle of Cokadori) moved too quickly! 2.42931372868739,0.0,-45.45800580789239
-[01:00:06] [Server thread/WARN]: Boat moved wrongly!
-[01:00:06] [Server thread/WARN]: Boat moved wrongly!
-[01:02:41] [Server thread/INFO]: Flasushi issued server command: //set 79
-[01:02:45] [Server thread/INFO]: Flasushi issued server command: //set 79
-[01:02:52] [Server thread/INFO]: Flasushi issued server command: //set 79
-[01:03:20] [Server thread/WARN]: Boat moved wrongly!
-[01:03:20] [Server thread/WARN]: Boat moved wrongly!
-[01:03:20] [Server thread/WARN]: Boat moved wrongly!
-[01:03:20] [Server thread/WARN]: Boat moved wrongly!
-[01:03:20] [Server thread/WARN]: Boat moved wrongly!
-[01:03:20] [Server thread/WARN]: Boat moved wrongly!
-[01:03:20] [Server thread/WARN]: Boat moved wrongly!
-[01:03:20] [Server thread/WARN]: Boat moved wrongly!
-[01:03:20] [Server thread/WARN]: Boat moved wrongly!
-[01:03:20] [Server thread/WARN]: Boat moved wrongly!
-[01:03:20] [Server thread/WARN]: Boat moved wrongly!
-[01:03:20] [Server thread/WARN]: Boat moved wrongly!
-[01:03:20] [Server thread/WARN]: Boat moved wrongly!
-[01:03:20] [Server thread/WARN]: Boat moved wrongly!
-[01:03:20] [Server thread/WARN]: Boat moved wrongly!
-[01:03:20] [Server thread/WARN]: Boat moved wrongly!
-[01:03:20] [Server thread/WARN]: Boat moved wrongly!
-[01:03:20] [Server thread/WARN]: Boat moved wrongly!
-[01:03:20] [Server thread/WARN]: Boat moved wrongly!
-[01:03:20] [Server thread/WARN]: Boat moved wrongly!
-[01:03:20] [Server thread/WARN]: Boat moved wrongly!
-[01:03:20] [Server thread/WARN]: Boat moved wrongly!
-[01:03:21] [Server thread/WARN]: Boat moved wrongly!
-[01:03:21] [Server thread/WARN]: Boat moved wrongly!
-[01:03:21] [Server thread/WARN]: Boat moved wrongly!
-[01:03:21] [Server thread/WARN]: Boat moved wrongly!
-[01:03:21] [Server thread/WARN]: Boat moved wrongly!
-[01:03:21] [Server thread/WARN]: Boat moved wrongly!
-[01:03:21] [Server thread/WARN]: Boat moved wrongly!
-[01:03:21] [Server thread/WARN]: Boat moved wrongly!
-[01:03:21] [Server thread/WARN]: Boat moved wrongly!
-[01:03:21] [Server thread/WARN]: Boat moved wrongly!
-[01:03:21] [Server thread/WARN]: Boat moved wrongly!
-[01:03:21] [Server thread/WARN]: Boat moved wrongly!
-[01:03:21] [Server thread/WARN]: Boat moved wrongly!
-[01:03:21] [Server thread/WARN]: Boat moved wrongly!
-[01:03:21] [Server thread/WARN]: Boat moved wrongly!
-[01:03:31] [Server thread/WARN]: Boat (vehicle of Flasushi) moved too quickly! 1.041217728060417,0.0,-32.90352647298391
-[01:03:31] [Server thread/WARN]: Boat (vehicle of Flasushi) moved too quickly! 1.1817909059146245,0.0,-34.5459721938862
-[01:03:33] [Server thread/WARN]: Boat moved wrongly!
-[01:03:33] [Server thread/WARN]: Boat moved wrongly!
-[01:03:33] [Server thread/WARN]: Boat moved wrongly!
-[01:03:33] [Server thread/WARN]: Boat moved wrongly!
-[01:03:33] [Server thread/WARN]: Boat moved wrongly!
-[01:03:33] [Server thread/WARN]: Boat moved wrongly!
-[01:03:33] [Server thread/WARN]: Boat moved wrongly!
-[01:03:33] [Server thread/WARN]: Boat moved wrongly!
-[01:03:33] [Server thread/WARN]: Boat moved wrongly!
-[01:03:33] [Server thread/WARN]: Boat moved wrongly!
-[01:03:33] [Server thread/WARN]: Boat moved wrongly!
-[01:03:33] [Server thread/WARN]: Boat moved wrongly!
-[01:03:33] [Server thread/WARN]: Boat moved wrongly!
-[01:03:33] [Server thread/WARN]: Boat moved wrongly!
-[01:03:33] [Server thread/WARN]: Boat moved wrongly!
-[01:03:33] [Server thread/WARN]: Boat moved wrongly!
-[01:03:33] [Server thread/WARN]: Boat moved wrongly!
-[01:03:33] [Server thread/WARN]: Boat moved wrongly!
-[01:03:33] [Server thread/WARN]: Boat moved wrongly!
-[01:03:33] [Server thread/WARN]: Boat moved wrongly!
-[01:03:33] [Server thread/WARN]: Boat moved wrongly!
-[01:03:33] [Server thread/WARN]: Boat moved wrongly!
-[01:03:33] [Server thread/WARN]: Boat moved wrongly!
-[01:03:33] [Server thread/WARN]: Boat moved wrongly!
-[01:03:33] [Server thread/WARN]: Boat moved wrongly!
-[01:03:33] [Server thread/WARN]: Boat moved wrongly!
-[01:03:33] [Server thread/WARN]: Boat moved wrongly!
-[01:03:33] [Server thread/WARN]: Boat moved wrongly!
-[01:03:33] [Server thread/WARN]: Boat moved wrongly!
-[01:03:33] [Server thread/WARN]: Boat moved wrongly!
-[01:03:34] [Server thread/WARN]: Boat moved wrongly!
-[01:03:34] [Server thread/WARN]: Boat moved wrongly!
-[01:03:34] [Server thread/WARN]: Boat moved wrongly!
-[01:03:34] [Server thread/WARN]: Boat moved wrongly!
-[01:03:34] [Server thread/WARN]: Boat moved wrongly!
-[01:03:34] [Server thread/WARN]: Boat moved wrongly!
-[01:03:34] [Server thread/WARN]: Boat moved wrongly!
-[01:03:34] [Server thread/WARN]: Boat moved wrongly!
-[01:03:34] [Server thread/WARN]: Boat moved wrongly!
-[01:03:34] [Server thread/WARN]: Boat moved wrongly!
-[01:03:34] [Server thread/WARN]: Boat moved wrongly!
-[01:03:34] [Server thread/WARN]: Boat moved wrongly!
-[01:03:34] [Server thread/WARN]: Boat moved wrongly!
-[01:03:34] [Server thread/WARN]: Boat moved wrongly!
-[01:03:34] [Server thread/WARN]: Boat moved wrongly!
-[01:03:34] [Server thread/WARN]: Boat moved wrongly!
-[01:03:34] [Server thread/WARN]: Boat moved wrongly!
-[01:03:34] [Server thread/WARN]: Boat moved wrongly!
-[01:03:34] [Server thread/WARN]: Boat moved wrongly!
-[01:03:34] [Server thread/WARN]: Boat moved wrongly!
-[01:03:34] [Server thread/WARN]: Boat moved wrongly!
-[01:03:34] [Server thread/WARN]: Boat moved wrongly!
-[01:03:35] [Server thread/WARN]: Boat moved wrongly!
-[01:03:35] [Server thread/WARN]: Boat moved wrongly!
-[01:03:35] [Server thread/WARN]: Boat moved wrongly!
-[01:03:36] [Server thread/WARN]: Boat moved wrongly!
-[01:03:40] [Server thread/WARN]: Boat moved wrongly!
-[01:03:40] [Server thread/WARN]: Boat moved wrongly!
-[01:03:40] [Server thread/WARN]: Boat moved wrongly!
-[01:03:40] [Server thread/WARN]: Boat moved wrongly!
-[01:03:40] [Server thread/WARN]: Boat moved wrongly!
-[01:03:40] [Server thread/WARN]: Boat moved wrongly!
-[01:03:40] [Server thread/WARN]: Boat moved wrongly!
-[01:03:51] [Server thread/WARN]: Boat (vehicle of Flasushi) moved too quickly! -0.544422128828387,0.0,-33.96421604161799
-[01:03:51] [Server thread/WARN]: Boat (vehicle of Flasushi) moved too quickly! -0.5914512249711379,0.0,-35.65843845854471
-[01:03:51] [Server thread/WARN]: Boat (vehicle of Flasushi) moved too quickly! -0.6370182034626168,0.0,-37.35877221172257
-[01:03:51] [Server thread/WARN]: Boat (vehicle of Flasushi) moved too quickly! -0.6805388500941945,0.0,-39.06508142880483
-[01:03:51] [Server thread/WARN]: Boat (vehicle of Flasushi) moved too quickly! -0.721440911591344,0.0,-40.77722354480568
-[01:04:19] [Server thread/INFO]: Flasushi issued server command: //set 0
-[01:04:25] [Server thread/INFO]: Flasushi issued server command: //set 9
-[01:04:47] [Server thread/INFO]: Flasushi issued server command: //set 44
-[01:04:57] [Server thread/INFO]: Flasushi issued server command: /
-[01:05:24] [Server thread/INFO]: Flasushi issued server command: //set 79
-[01:05:39] [Server thread/INFO]: Flasushi issued server command: //undo
-[01:05:42] [Server thread/INFO]: Flasushi issued server command: //undo
-[01:07:01] [Server thread/INFO]: lm0x issued server command: //set 0
-[01:07:29] [Server thread/INFO]: lm0x issued server command: //set torch
-[01:09:48] [Server thread/INFO]: lm0x issued server command: //set stone
-[01:09:52] [Server thread/INFO]: lm0x issued server command: //set stone:6
-[01:09:58] [Server thread/INFO]: lm0x issued server command: //set stone:4
-[01:10:06] [Server thread/INFO]: lm0x issued server command: //set stone:4
-[01:10:18] [Server thread/INFO]: lm0x issued server command: //set fence
-[01:10:26] [Server thread/INFO]: lm0x issued server command: //set fence
-[01:15:17] [Server thread/INFO]: lm0x issued server command: //set 0
-[01:15:22] [Server thread/INFO]: lm0x issued server command: //set 0
-[01:15:32] [Server thread/INFO]: lm0x issued server command: //set stone
-[01:18:22] [Server thread/INFO]: lm0x issued server command: /tp tyouamattoG
-[01:20:01] [Server thread/INFO]: lm0x issued server command: /back
-[01:30:43] [Server thread/INFO]: [[0;37;1mworld[0;37;1m]<Cokadori> èóÇÃéqÇ©ÇÁåáÇØÇƒÇ¢Ç¢Ç»ÇÒÇƒåæÇÌÇÍÇΩÇÁ[m
-[01:30:55] [Server thread/INFO]: [[0;37;1mworld[0;37;1m]<Flasushi> Ç®ÇÍÇÕãπÇ…Ç©ÇØÇƒÇŸÇµÇ¢[m
-[01:31:03] [Server thread/INFO]: [[0;37;1mworld[0;37;1m]<[0;31;22mlm0x[m> ????[m
-[01:31:12] [Server thread/INFO]: [[0;37;1mworld[0;37;1m]<Cokadori> ñOÇ´ÇøÇ·Ç¡ÇΩ[m
-[01:31:37] [Server thread/INFO]: [[0;37;1mworld[0;37;1m]<Cokadori> ëSïîì¸ÇÁÇ»Ç¢Ç‚Çƒ[m
-[01:31:56] [Server thread/INFO]: [[0;37;1mworld[0;37;1m]<Flasushi> Ç†Ç´ÇøÇ·ÇÒÅH[m
-[01:32:06] [Server thread/INFO]: [[0;37;1mworld[0;37;1m]<Cokadori> ÇªÇÍÇÕÇ†Ç©ÇÒ[m
-[01:35:59] [Server thread/INFO]: Flasushi issued server command: //copy
-[01:36:04] [Server thread/INFO]: Flasushi issued server command: /parst
-[01:36:07] [Server thread/INFO]: Flasushi issued server command: /paste
-[01:36:11] [Server thread/INFO]: Flasushi issued server command: /
-[01:36:13] [Server thread/INFO]: Flasushi issued server command: //paste
-[01:36:23] [Server thread/INFO]: Flasushi issued server command: //undo
-[01:36:27] [Server thread/INFO]: tyouamattoG issued server command: /copy
-[01:36:32] [Server thread/INFO]: Flasushi lost connection: Disconnected
-[01:36:32] [Server thread/INFO]: Flasushi left the game
-[01:36:47] [Server thread/INFO]: [[0;37;1mworld[0;37;1m]<Cokadori> Ç∑ÇµÉlÉ^ÇÃ[m
-[01:38:14] [Server thread/INFO]: lm0x issued server command: /pex reload
-[01:38:14] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
-[01:40:53] [Server thread/INFO]: lm0x issued server command: //set grass
-[01:40:57] [Server thread/INFO]: lm0x issued server command: //set glass
-[01:41:16] [Server thread/INFO]: lm0x issued server command: //set glass
-[01:45:56] [Server thread/INFO]: lm0x issued server command: //copy
-[01:46:00] [Server thread/INFO]: lm0x issued server command: //paste
-[01:46:02] [Server thread/INFO]: lm0x issued server command: //paste
-[01:46:04] [Server thread/INFO]: lm0x issued server command: //paste
-[01:46:05] [Server thread/INFO]: lm0x issued server command: //paste
-[01:46:07] [Server thread/INFO]: lm0x issued server command: //paste
-[01:46:08] [Server thread/INFO]: lm0x issued server command: //paste
-[01:46:09] [Server thread/INFO]: lm0x issued server command: //paste
-[01:46:11] [Server thread/INFO]: lm0x issued server command: //paste
-[01:46:13] [Server thread/INFO]: lm0x issued server command: //paste
-[01:46:14] [Server thread/INFO]: lm0x issued server command: //paste
-[01:46:15] [Server thread/INFO]: lm0x issued server command: //paste
-[01:46:17] [Server thread/INFO]: lm0x issued server command: //paste
-[01:46:18] [Server thread/INFO]: lm0x issued server command: //paste
-[01:46:19] [Server thread/INFO]: lm0x issued server command: //paste
-[01:55:27] [Server thread/INFO]: Cokadori lost connection: Internal Exception: java.io.IOException: ä˘ë∂ÇÃê⁄ë±ÇÕÉäÉÇÅ[Ég ÉzÉXÉgÇ…ã≠êßìIÇ…êÿífÇ≥ÇÍÇ‹ÇµÇΩÅB
-[01:55:27] [Server thread/INFO]: Cokadori left the game
-[02:14:32] [Server thread/INFO]: lm0x issued server command: //set 1
-[02:20:37] [User Authenticator #10/INFO]: UUID of player huratukibito is bbc4ad9d-dc72-47cc-91a9-34643ecfe55a
-[02:20:37] [Server thread/INFO]: huratukibito[/27.113.205.145:57229] logged in with entity id 43536 at ([world]-192.5, 80.0, 249.5)
-[02:20:37] [pool-11-thread-1/INFO]: Creating empty config: C:\Users\lm0x\Documents\minecraft\servers\minecraft-server-1.11\plugins\Essentials\userdata\bbc4ad9d-dc72-47cc-91a9-34643ecfe55a.yml
-[02:21:25] [Server thread/INFO]: huratukibito has just earned the achievement [Taking Inventory]
-[02:23:39] [Server thread/INFO]: [[0;37;1mworld[0;37;1m]<[0;31;22mlm0x[m> ./gamemode 1[m
-[02:23:48] [Server thread/INFO]: lm0x issued server command: /gm 1
-[02:23:53] [Server thread/INFO]: [[0;37;1mworld[0;37;1m]<huratukibito> ./gamemode 1][m
-[02:24:00] [Server thread/INFO]: [[0;37;1mworld[0;37;1m]<huratukibito> ./gamemode 1[m
-[02:24:22] [Server thread/INFO]: huratukibito issued server command: /gamemode 1
-[02:25:11] [Server thread/INFO]: [[0;37;1mworld[0;37;1m]<[0;31;22mlm0x[m> ./give dirt_path me[m
-[02:26:03] [Server thread/INFO]: lm0x issued server command: //copy
-[02:26:15] [Server thread/INFO]: lm0x issued server command: //paste
-[02:26:20] [Server thread/INFO]: lm0x issued server command: //set 0
-[02:27:02] [Server thread/INFO]: lm0x issued server command: //copy
-[02:27:07] [Server thread/INFO]: lm0x issued server command: //paste
-[02:27:10] [Server thread/INFO]: lm0x issued server command: //paste
-[02:27:13] [Server thread/INFO]: lm0x issued server command: //paste
-[02:27:17] [Server thread/INFO]: lm0x issued server command: //paste
-[02:27:43] [Server thread/INFO]: lm0x issued server command: //set glass
-[02:27:52] [Server thread/INFO]: lm0x issued server command: //set glass
-[02:29:26] [Server thread/INFO]: [[0;37;1mworld[0;37;1m]<[0;31;22mlm0x[m> map.feelingso.blue[m
-[02:31:20] [Server thread/INFO]: lm0x issued server command: //set glass
-[02:31:30] [Server thread/INFO]: lm0x issued server command: //set glass
-[02:31:37] [Server thread/INFO]: lm0x issued server command: //set glass
-[02:32:28] [Server thread/INFO]: lm0x issued server command: //pos2
-[02:32:33] [Server thread/INFO]: lm0x issued server command: //copy
-[02:32:37] [Server thread/INFO]: lm0x issued server command: //paste
-[02:33:09] [Server thread/INFO]: lm0x issued server command: /tp huratukibito lm0x
-[02:38:31] [Server thread/INFO]: lm0x issued server command: /tp tyouamattoG
-[02:41:07] [Server thread/INFO]: lm0x issued server command: //set cobble
-[02:42:58] [Server thread/INFO]: lm0x issued server command: /dmarker add ÉAÉAÉA
-[02:43:09] [Server thread/INFO]: lm0x issued server command: /dmarker del ÉAÉAÉA
-[02:43:16] [Server thread/INFO]: lm0x issued server command: /dmarker remove ÉAÉAÉA
-[02:43:27] [Server thread/INFO]: lm0x issued server command: /dmarker delete marker_6
-[02:43:33] [Server thread/INFO]: lm0x issued server command: /dmarker delete ÉAÉAÉA
-[02:43:42] [Server thread/INFO]: lm0x issued server command: /dmarker add ÉAÉAÉA icon:minecart
-[02:43:49] [Server thread/INFO]: lm0x issued server command: /dmarker delete ÉAÉAÉA
-[02:46:13] [Server thread/INFO]: lm0x issued server command: /dmarker add ëÂòaî™ñÿ icon:minecart
-[02:48:14] [Server thread/INFO]: lm0x issued server command: /dmarker delete ëÂòaî™ñÿ
-[02:48:24] [Server thread/INFO]: lm0x issued server command: /dmarker add ëÂòaî™ñÿ icon:minecart
-[02:51:43] [Server thread/INFO]: lm0x issued server command: //pos2
-[02:51:44] [Server thread/INFO]: lm0x issued server command: //set 0
-[02:54:34] [Server thread/INFO]: lm0x issued server command: /give dirtpath
-[02:54:38] [Server thread/INFO]: lm0x issued server command: /give dirtpath lm0x
-[02:54:49] [Server thread/INFO]: lm0x issued server command: /give lm0x dirtpath
-[03:00:10] [Server thread/INFO]: lm0x issued server command: //set dirt
-[03:00:13] [Server thread/INFO]: lm0x issued server command: //set dirt
-[03:07:25] [Server thread/INFO]: lm0x issued server command: //set 1
-[03:08:04] [Server thread/INFO]: lm0x issued server command: //set 1
-[03:09:13] [Server thread/INFO]: lm0x issued server command: //set 1
-[03:15:12] [Server thread/INFO]: lm0x issued server command: //fixwater 5
-[03:15:18] [Server thread/INFO]: [[0;37;1mworld[0;37;1m]<[0;31;22mlm0x[m> .//fixwater 5[m
-[03:15:19] [Server thread/INFO]: huratukibito has just earned the achievement [Getting Wood]
-[03:15:34] [Server thread/INFO]: tyouamattoG lost connection: Disconnected
-[03:15:34] [Server thread/INFO]: tyouamattoG left the game
-[03:15:37] [User Authenticator #11/INFO]: UUID of player tyouamattoG is 246113b7-ec57-4fb8-a148-794c7929ba76
-[03:15:37] [Server thread/INFO]: tyouamattoG[/14.132.214.184:64153] logged in with entity id 50348 at ([world]-287.79221995823605, 65.63906398182772, 655.5482586118853)
-[03:15:54] [Server thread/INFO]: tyouamattoG issued server command: /gamemode 1
-[03:16:08] [Server thread/INFO]: lm0x issued server command: /reload
-[03:16:08] [Server thread/INFO]: lm0x: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
-[03:16:08] [Server thread/INFO]: lm0x: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
-[03:16:08] [Server thread/INFO]: Debug logging is disabled
-[03:16:08] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[03:16:08] [Server thread/INFO]: Using 4 threads for Netty based IO
-[03:16:08] [Server thread/INFO]: -------- World Settings For [world] --------
-[03:16:08] [Server thread/INFO]: Item Merge Radius: 2.5
-[03:16:08] [Server thread/INFO]: Item Despawn Rate: 6000
-[03:16:08] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[03:16:08] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[03:16:08] [Server thread/INFO]: View Distance: 10
-[03:16:08] [Server thread/INFO]: Experience Merge Radius: 3.0
-[03:16:08] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[03:16:08] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[03:16:08] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[03:16:08] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[03:16:08] [Server thread/INFO]: Mob Spawn Range: 4
-[03:16:08] [Server thread/INFO]: Random Lighting Updates: false
-[03:16:08] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[03:16:08] [Server thread/INFO]: Cane Growth Modifier: 100%
-[03:16:08] [Server thread/INFO]: Melon Growth Modifier: 100%
-[03:16:08] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[03:16:08] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[03:16:08] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[03:16:08] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[03:16:08] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[03:16:08] [Server thread/INFO]: Vine Growth Modifier: 100%
-[03:16:08] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[03:16:08] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[03:16:08] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[03:16:08] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[03:16:08] [Server thread/INFO]: Max TNT Explosions: 100
-[03:16:08] [Server thread/INFO]: Structure Info Saving: true
-[03:16:08] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[03:16:08] [Server thread/INFO]: Item Merge Radius: 2.5
-[03:16:08] [Server thread/INFO]: Item Despawn Rate: 6000
-[03:16:08] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[03:16:08] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[03:16:08] [Server thread/INFO]: View Distance: 10
-[03:16:08] [Server thread/INFO]: Experience Merge Radius: 3.0
-[03:16:08] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[03:16:08] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[03:16:08] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[03:16:08] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[03:16:08] [Server thread/INFO]: Mob Spawn Range: 4
-[03:16:08] [Server thread/INFO]: Random Lighting Updates: false
-[03:16:08] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[03:16:08] [Server thread/INFO]: Cane Growth Modifier: 100%
-[03:16:08] [Server thread/INFO]: Melon Growth Modifier: 100%
-[03:16:08] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[03:16:08] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[03:16:08] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[03:16:08] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[03:16:08] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[03:16:08] [Server thread/INFO]: Vine Growth Modifier: 100%
-[03:16:08] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[03:16:08] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[03:16:08] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[03:16:08] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[03:16:08] [Server thread/INFO]: Max TNT Explosions: 100
-[03:16:08] [Server thread/INFO]: Structure Info Saving: true
-[03:16:08] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[03:16:08] [Server thread/INFO]: Item Merge Radius: 2.5
-[03:16:08] [Server thread/INFO]: Item Despawn Rate: 6000
-[03:16:08] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[03:16:08] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[03:16:08] [Server thread/INFO]: View Distance: 10
-[03:16:08] [Server thread/INFO]: Experience Merge Radius: 3.0
-[03:16:08] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[03:16:08] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[03:16:08] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[03:16:08] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[03:16:08] [Server thread/INFO]: Mob Spawn Range: 4
-[03:16:08] [Server thread/INFO]: Random Lighting Updates: false
-[03:16:08] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[03:16:08] [Server thread/INFO]: Cane Growth Modifier: 100%
-[03:16:08] [Server thread/INFO]: Melon Growth Modifier: 100%
-[03:16:08] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[03:16:08] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[03:16:08] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[03:16:08] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[03:16:08] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[03:16:08] [Server thread/INFO]: Vine Growth Modifier: 100%
-[03:16:08] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[03:16:08] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[03:16:08] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[03:16:08] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[03:16:08] [Server thread/INFO]: Max TNT Explosions: 100
-[03:16:08] [Server thread/INFO]: Structure Info Saving: true
-[03:16:08] [Server thread/INFO]: -------- World Settings For [gaikaku] --------
-[03:16:08] [Server thread/INFO]: Item Merge Radius: 2.5
-[03:16:08] [Server thread/INFO]: Item Despawn Rate: 6000
-[03:16:08] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[03:16:08] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[03:16:08] [Server thread/INFO]: View Distance: 10
-[03:16:08] [Server thread/INFO]: Experience Merge Radius: 3.0
-[03:16:08] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[03:16:08] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[03:16:08] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[03:16:08] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[03:16:08] [Server thread/INFO]: Mob Spawn Range: 4
-[03:16:08] [Server thread/INFO]: Random Lighting Updates: false
-[03:16:08] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[03:16:08] [Server thread/INFO]: Cane Growth Modifier: 100%
-[03:16:08] [Server thread/INFO]: Melon Growth Modifier: 100%
-[03:16:08] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[03:16:08] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[03:16:08] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[03:16:08] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[03:16:08] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[03:16:08] [Server thread/INFO]: Vine Growth Modifier: 100%
-[03:16:08] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[03:16:08] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[03:16:08] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[03:16:08] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[03:16:08] [Server thread/INFO]: Max TNT Explosions: 100
-[03:16:08] [Server thread/INFO]: Structure Info Saving: true
-[03:16:08] [Server thread/INFO]: [ChopTree3] Disabling ChopTree3 v4.0.0
-[03:16:08] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1.3-SNAPSHOT;c904242
-[03:16:08] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
-[03:16:08] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.4-b527
-[03:16:08] [Server thread/INFO]: [Multiverse-Core] - Disabled
-[03:16:08] [Server thread/INFO]: [Essentials] Disabling Essentials v2.0.1-b461
-[03:16:08] [Server thread/INFO]: [FarmProtect] Disabling FarmProtect v1.8.3
-[03:16:08] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.3;7a097ca
-[03:16:08] [Server thread/INFO]: [HopperPipes] Disabling HopperPipes v0.1
-[03:16:08] [Server thread/INFO]: [dynmap] Disabling dynmap v2.3-1142
-[03:16:08] [Server thread/INFO]: [dynmap] Unloaded 11 components.
-[03:16:08] [Server thread/INFO]: [dynmap] Stopping map renderer...
-[03:16:08] [Server thread/INFO]: [dynmap] Saved 52 pending tile renders in world 'world'
-[03:16:08] [Server thread/INFO]: [dynmap] Disabled
-[03:16:08] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
-[03:16:08] [Server thread/INFO]: [GetCoord] Disabling GetCoord v1.0.0
-[03:16:09] [Server thread/INFO]: [GetCoord] Loading GetCoord v1.0.0
-[03:16:09] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.4
-[03:16:09] [Server thread/INFO]: [dynmap] Loading dynmap v2.3-1142
-[03:16:09] [Server thread/INFO]: [dynmap] version=git-Spigot-6f7aabf-c8ff651 (MC: 1.11)
-[03:16:09] [Server thread/INFO]: [dynmap] Mod Support API available
-[03:16:09] [Server thread/INFO]: [HopperPipes] Loading HopperPipes v0.1
-[03:16:09] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.3;7a097ca
-[03:16:09] [Server thread/INFO]: [FarmProtect] Loading FarmProtect v1.8.3
-[03:16:09] [Server thread/INFO]: [Essentials] Loading Essentials v2.0.1-b461
-[03:16:09] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.4-b527
-[03:16:09] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1.3-SNAPSHOT;c904242
-[03:16:09] [Server thread/INFO]: [ChopTree3] Loading ChopTree3 v4.0.0
-[03:16:09] [Server thread/INFO]: [GetCoord] Enabling GetCoord v1.0.0
-[03:16:09] [Server thread/INFO]: TEST Plugin Loaded!
-[03:16:09] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4
-[03:16:09] [Server thread/INFO]: [PermissionsEx] Initializing file backend
-[03:16:09] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
-[03:16:09] [Server thread/INFO]: [dynmap] Enabling dynmap v2.3-1142
-[03:16:09] [Server thread/INFO]: [dynmap] Added 1 custom biome mappings
-[03:16:09] [Server thread/INFO]: [dynmap] Using PermissionsEx 1.23.4 for access control
-[03:16:10] [Server thread/INFO]: [dynmap] Mod Support processing completed
-[03:16:12] [Server thread/INFO]: [dynmap] Loaded 23 shaders.
-[03:16:12] [Server thread/INFO]: [dynmap] Loaded 82 perspectives.
-[03:16:12] [Server thread/INFO]: [dynmap] Loaded 14 lightings.
-[03:16:12] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:8123
-[03:16:12] [Server thread/INFO]: [dynmap] version 2.3-1142 is enabled - core version 2.3-2074
-[03:16:12] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
-[03:16:12] [Server thread/INFO]: [dynmap] Loaded 52 pending tile renders for world 'world'
-[03:16:12] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
-[03:16:12] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
-[03:16:12] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'gaikaku'.
-[03:16:12] [Server thread/INFO]: [dynmap] Enabled
-[03:16:12] [Server thread/INFO]: [HopperPipes] Enabling HopperPipes v0.1
-[03:16:12] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.3;7a097ca
-[03:16:13] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
-[03:16:13] [Server thread/WARN]: [WorldEdit] 
-**********************************************
-** This WorldEdit version does not fully support your version of Bukkit.
-**
-** When working with blocks or undoing, chests will be empty, signs
-** will be blank, and so on. There will be no support for entity
-** and biome-related functions.
-**
-** Please see http://wiki.sk89q.com/wiki/WorldEdit/Bukkit_adapters
-**********************************************
-
-[03:16:13] [Server thread/INFO]: [FarmProtect] Enabling FarmProtect v1.8.3
-[03:16:13] [Server thread/INFO]: [FarmProtect] You are running the latest version of FarmProtect
-[03:16:13] [Server thread/INFO]: [FarmProtect] Version 1.8.3 by jacklin213 has been Enabled!
-[03:16:13] [Server thread/INFO]: [Essentials] Enabling Essentials v2.0.1-b461
-[03:16:13] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
-[03:16:13] [Server thread/INFO]: [Essentials] Using Reflection based provider as spawn egg provider.
-[03:16:13] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
-[03:16:13] [Server thread/INFO]: Using locale ja_JP
-[03:16:13] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global PluginMetrics config.
-[03:16:13] [Server thread/WARN]: [Essentials] Detected supported permissions plugin PermissionsEx without Vault installed.
-[03:16:13] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
-[03:16:13] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
-[03:16:13] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.4-b527
-[03:16:13] [Server thread/INFO]: [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
-[03:16:13] [Server thread/INFO]: [AllPay] - Version 10.0 - hooked into Essentials Economy for Multiverse-Core v2.4-b527
-[03:16:13] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -8101145141919893
-[03:16:14] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -8101145141919893
-[03:16:16] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -8101145141919893
-[03:16:16] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'gaikaku' - Env: NORMAL - Type: NORMAL & seed: -205671470
-[03:16:18] [Server thread/INFO]: [Multiverse-Core] 4 - World(s) loaded.
-[03:16:18] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1.3-SNAPSHOT;c904242
-[03:16:18] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is blocked.
-[03:16:18] [Server thread/INFO]: [WorldGuard] (world) Lighters are blocked.
-[03:16:18] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
-[03:16:18] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
-[03:16:18] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
-[03:16:18] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is blocked.
-[03:16:18] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are blocked.
-[03:16:18] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is blocked.
-[03:16:18] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
-[03:16:18] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
-[03:16:18] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is blocked.
-[03:16:18] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are blocked.
-[03:16:18] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
-[03:16:18] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
-[03:16:18] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
-[03:16:18] [Server thread/INFO]: [WorldGuard] (gaikaku) TNT ignition is blocked.
-[03:16:18] [Server thread/INFO]: [WorldGuard] (gaikaku) Lighters are blocked.
-[03:16:18] [Server thread/INFO]: [WorldGuard] (gaikaku) Lava fire is blocked.
-[03:16:18] [Server thread/INFO]: [WorldGuard] (gaikaku) Fire spread is UNRESTRICTED.
-[03:16:18] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'gaikaku'
-[03:16:18] [Server thread/INFO]: [WorldGuard] Loading region data...
-[03:16:19] [Server thread/INFO]: [ChopTree3] Enabling ChopTree3 v4.0.0
-[03:16:19] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[03:16:19] [Server thread/INFO]: lm0x: [0;32;1mReload complete.[m
-[03:16:19] [Server thread/WARN]: huratukibito moved too quickly! 19.258545469349258,1.0,-5.093067967442835
-[03:16:19] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
-[03:16:32] [Server thread/INFO]: huratukibito fell from a high place
-[03:16:45] [Server thread/INFO]: tyouamattoG issued server command: /gamemode 1
-[03:17:06] [Server thread/INFO]: huratukibito issued server command: /gamemode 1
-[03:23:08] [Server thread/INFO]: lm0x lost connection: Disconnected
-[03:23:08] [Server thread/INFO]: lm0x left the game
-[03:49:23] [Server thread/INFO]: huratukibito lost connection: Disconnected
-[03:49:23] [Server thread/INFO]: huratukibito left the game
-[03:54:49] [Server thread/INFO]: tyouamattoG lost connection: Disconnected
-[03:54:49] [Server thread/INFO]: tyouamattoG left the game
-[10:03:53] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
-[10:03:56] [Server thread/INFO]: CONSOLE issued server command: /list 
-[10:03:56] [Server thread/INFO]: [0;33;22mThere are [0;31;1m0[0;33;22m out of maximum [0;31;1m10[0;33;22m players online.[m
-[10:03:58] [Server thread/INFO]: Stopping the server
-[10:03:58] [Server thread/INFO]: Stopping server
-[10:03:58] [Server thread/INFO]: [ChopTree3] Disabling ChopTree3 v4.0.0
-[10:03:58] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1.3-SNAPSHOT;c904242
-[10:03:58] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
-[10:03:58] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.4-b527
-[10:03:58] [Server thread/INFO]: [Multiverse-Core] - Disabled
-[10:03:58] [Server thread/INFO]: [Essentials] Disabling Essentials v2.0.1-b461
-[10:03:58] [Server thread/INFO]: [FarmProtect] Disabling FarmProtect v1.8.3
-[10:03:58] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.3;7a097ca
-[10:03:58] [Server thread/INFO]: [HopperPipes] Disabling HopperPipes v0.1
-[10:03:58] [Server thread/INFO]: [dynmap] Disabling dynmap v2.3-1142
-[10:03:58] [Server thread/INFO]: [dynmap] Unloaded 11 components.
-[10:03:58] [Server thread/INFO]: [dynmap] Stopping map renderer...
-[10:03:59] [Server thread/INFO]: [dynmap] Disabled
-[10:03:59] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
-[10:03:59] [Server thread/INFO]: [GetCoord] Disabling GetCoord v1.0.0
-[10:03:59] [Server thread/INFO]: Saving players
-[10:03:59] [Server thread/INFO]: Saving worlds
-[10:03:59] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[10:03:59] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
-[10:03:59] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
-[10:03:59] [Server thread/INFO]: Saving chunks for level 'gaikaku'/Overworld
+[16:05:57] [Server thread/INFO]: [FarmProtect] Enabling FarmProtect v1.8.3
+[16:05:58] [Server thread/INFO]: [FarmProtect] You are running the latest version of FarmProtect
+[16:05:58] [Server thread/INFO]: [FarmProtect] Version 1.8.3 by jacklin213 has been Enabled!
+[16:05:58] [Server thread/INFO]: [Essentials] Enabling Essentials v2.0.1-b461
+[16:05:58] [Server thread/WARN]: File plugins\Essentials\items.csv has been modified by user and file version differs, please update the file manually.
+[16:05:58] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
+[16:05:58] [Server thread/INFO]: [Essentials] Using Reflection based provider as spawn egg provider.
+[16:05:58] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
+[16:05:58] [Server thread/INFO]: Using locale ja_JP
+[16:05:58] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global PluginMetrics config.
+[16:05:58] [Server thread/WARN]: [Essentials] Detected supported permissions plugin PermissionsEx without Vault installed.
+[16:05:58] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[16:05:58] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[16:05:58] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.4-b527
+[16:05:58] [Server thread/INFO]: [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+[16:05:58] [Server thread/INFO]: [AllPay] - Version 10.0 - hooked into Essentials Economy for Multiverse-Core v2.4-b527
+[16:05:58] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -8101145141919893
+[16:05:58] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: -8101145141919893
+[16:05:58] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: -8101145141919893
+[16:05:58] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'gaikaku' - Env: NORMAL - Type: NORMAL & seed: -205671470
+[16:05:58] [Server thread/INFO]: -------- World Settings For [gaikaku] --------
+[16:05:58] [Server thread/INFO]: Item Merge Radius: 2.5
+[16:05:58] [Server thread/INFO]: Item Despawn Rate: 6000
+[16:05:58] [Server thread/INFO]: Experience Merge Radius: 3.0
+[16:05:58] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[16:05:58] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[16:05:58] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[16:05:58] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[16:05:58] [Server thread/INFO]: Mob Spawn Range: 4
+[16:05:58] [Server thread/INFO]: View Distance: 10
+[16:05:58] [Server thread/INFO]: Random Lighting Updates: false
+[16:05:58] [Server thread/INFO]: Structure Info Saving: true
+[16:05:58] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[16:05:58] [Server thread/INFO]: Cane Growth Modifier: 100%
+[16:05:58] [Server thread/INFO]: Melon Growth Modifier: 100%
+[16:05:58] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[16:05:58] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[16:05:58] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[16:05:58] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[16:05:58] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[16:05:58] [Server thread/INFO]: Vine Growth Modifier: 100%
+[16:05:58] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[16:05:58] [Server thread/INFO]: Max TNT Explosions: 100
+[16:05:58] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[16:05:58] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[16:05:58] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[16:05:58] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[16:05:58] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[16:05:58] [Server thread/INFO]: Preparing start region for level 3 (Seed: -205671470)
+[16:05:59] [Server thread/INFO]: Preparing spawn area for gaikaku, 73%
+[16:06:00] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'gaikaku'.
+[16:06:00] [Server thread/INFO]: [Multiverse-Core] 4 - World(s) loaded.
+[16:06:00] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1.3-SNAPSHOT;c904242
+[16:06:01] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is blocked.
+[16:06:01] [Server thread/INFO]: [WorldGuard] (world) Lighters are blocked.
+[16:06:01] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
+[16:06:01] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[16:06:01] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[16:06:01] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is blocked.
+[16:06:01] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are blocked.
+[16:06:01] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is blocked.
+[16:06:01] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[16:06:01] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[16:06:01] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is blocked.
+[16:06:01] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are blocked.
+[16:06:01] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
+[16:06:01] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[16:06:01] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[16:06:01] [Server thread/INFO]: [WorldGuard] (gaikaku) TNT ignition is blocked.
+[16:06:01] [Server thread/INFO]: [WorldGuard] (gaikaku) Lighters are blocked.
+[16:06:01] [Server thread/INFO]: [WorldGuard] (gaikaku) Lava fire is blocked.
+[16:06:01] [Server thread/INFO]: [WorldGuard] (gaikaku) Fire spread is UNRESTRICTED.
+[16:06:01] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'gaikaku'
+[16:06:01] [Server thread/INFO]: [WorldGuard] Loading region data...
+[16:06:01] [Server thread/INFO]: [ChopTree3] Enabling ChopTree3 v4.0.0
+[16:06:01] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:06:01] [Server thread/INFO]: Done (8.391s)! For help, type "help" or "?"
+[16:06:01] [Server thread/INFO]: Starting GS4 status listener
+[16:06:01] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
+[16:13:42] [User Authenticator #1/INFO]: UUID of player Ngt_0 is 73f0ca61-ba45-42cc-9054-31b1d88658b7
+[16:13:42] [Server thread/INFO]: Ngt_0[/14.132.216.32:49797] logged in with entity id 1157 at ([world]-282.7792076990318, -219.50763788164218, 467.7798616136385)
+[16:14:17] [Server thread/INFO]: Ngt_0 issued server command: /gamemode 1
+[16:15:28] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[16:17:46] [User Authenticator #2/INFO]: UUID of player tyouamattoG is 246113b7-ec57-4fb8-a148-794c7929ba76
+[16:17:46] [Server thread/INFO]: tyouamattoG[/127.0.0.1:56790] logged in with entity id 3788 at ([world]-287.06275278196046, 64.0, 683.5815578077086)
+[16:17:57] [Server thread/INFO]: tyouamattoG issued server command: /gamemode 1
+[16:18:25] [Server thread/INFO]: [[0;37;1mworld[0;37;1m]<tyouamattoG> í òbÇÕ[m
+[16:28:26] [User Authenticator #3/INFO]: UUID of player huratukibito is bbc4ad9d-dc72-47cc-91a9-34643ecfe55a
+[16:28:26] [Server thread/INFO]: huratukibito[/27.113.205.145:58514] logged in with entity id 5062 at ([world]-293.44465175008156, 65.74874464192135, 681.2103146874584)
+[16:29:55] [Server thread/INFO]: huratukibito issued server command: /gamemode 1
+[17:03:48] [User Authenticator #4/INFO]: UUID of player Cokadori is 6b2843a9-e544-4cbb-b3e6-1478ea8e7907
+[17:03:48] [Server thread/INFO]: Cokadori[/120.72.13.198:52209] logged in with entity id 7990 at ([world]-278.7878876806486, 78.87760338847406, 435.0109643263477)
+[17:04:03] [Server thread/INFO]: Cokadori issued server command: /gamemode 1
+[17:09:47] [Server thread/INFO]: tyouamattoG issued server command: /worldedit cui
+[17:09:55] [Server thread/INFO]: tyouamattoG issued server command: /worldedit cui tyouamattoG
+[17:17:26] [Server thread/INFO]: Cokadori issued server command: //set 0
+[17:17:49] [Server thread/INFO]: Cokadori issued server command: //set 0
+[17:23:49] [Server thread/INFO]: Cokadori issued server command: //set dert
+[17:24:10] [Server thread/INFO]: Cokadori issued server command: //undo
+[17:24:45] [Server thread/INFO]: Cokadori issued server command: //set dert
+[17:28:54] [Server thread/INFO]: Cokadori issued server command: //set 0
+[17:29:35] [Server thread/INFO]: Cokadori issued server command: //set 0
+[17:32:44] [Server thread/INFO]: Cokadori issued server command: //set dert
+[17:35:33] [Server thread/INFO]: huratukibito lost connection: Internal Exception: java.io.IOException: ä˘ë∂ÇÃê⁄ë±ÇÕÉäÉÇÅ[Ég ÉzÉXÉgÇ…ã≠êßìIÇ…êÿífÇ≥ÇÍÇ‹ÇµÇΩÅB
+[17:35:33] [Server thread/INFO]: huratukibito left the game
+[18:02:03] [Server thread/INFO]: Cokadori issued server command: //copy
+[18:02:40] [Server thread/INFO]: Cokadori issued server command: //paste
+[18:11:51] [Server thread/INFO]: Cokadori issued server command: //set dert
+[18:12:39] [Server thread/INFO]: Cokadori issued server command: //set woter
+[18:13:06] [Server thread/INFO]: Cokadori issued server command: //set water
+[18:20:54] [Server thread/INFO]: Cokadori issued server command: //copy
+[18:21:14] [Server thread/INFO]: Cokadori issued server command: //perst
+[18:21:31] [Server thread/INFO]: Cokadori issued server command: //paste
+[18:21:53] [Server thread/INFO]: Cokadori issued server command: //undo
+[18:22:09] [Server thread/INFO]: Cokadori issued server command: //paste
+[18:22:23] [Server thread/INFO]: Cokadori issued server command: //undo
+[18:23:01] [Server thread/INFO]: Cokadori issued server command: //paste
+[18:23:22] [Server thread/INFO]: Cokadori issued server command: //undo
+[18:23:42] [Server thread/INFO]: Cokadori issued server command: //paste
+[18:24:13] [Server thread/INFO]: Cokadori issued server command: //undo
+[18:24:29] [Server thread/INFO]: Cokadori issued server command: //paste
+[18:42:33] [Server thread/WARN]: Ngt_0 moved too quickly! -21.48668786639962,0.6446432281940417,-46.303811450081184
+[18:51:07] [Server thread/INFO]: Cokadori issued server command: //copy
+[18:51:23] [Server thread/INFO]: Cokadori issued server command: //paste
+[18:52:13] [Server thread/INFO]: Cokadori issued server command: //undo
+[18:52:34] [Server thread/INFO]: Cokadori issued server command: //paste
+[18:52:42] [Server thread/INFO]: [[0;37;1mworld[0;37;1m]<Cokadori> undo[m
+[18:52:49] [Server thread/INFO]: Cokadori issued server command: //undo
+[18:53:00] [Server thread/INFO]: Cokadori issued server command: //paste
+[18:53:16] [Server thread/INFO]: Cokadori issued server command: //undo
+[18:53:39] [Server thread/INFO]: Cokadori issued server command: //paste
+[18:54:06] [Server thread/INFO]: Cokadori issued server command: //undo
+[18:54:19] [Server thread/INFO]: Cokadori issued server command: //paste
+[18:54:28] [Server thread/INFO]: Cokadori issued server command: //undo
+[18:54:34] [Server thread/INFO]: Cokadori issued server command: //paste
+[18:58:44] [Server thread/INFO]: Cokadori issued server command: //copy
+[18:58:53] [Server thread/INFO]: Cokadori issued server command: //paste
+[18:59:19] [Server thread/INFO]: Cokadori issued server command: //undo
+[18:59:39] [Server thread/INFO]: Cokadori issued server command: //copy
+[18:59:58] [Server thread/INFO]: Cokadori issued server command: //paste
+[19:00:10] [Server thread/INFO]: Cokadori issued server command: //undo
+[19:00:38] [Server thread/INFO]: Cokadori issued server command: //paste
+[19:00:49] [Server thread/INFO]: Cokadori issued server command: //undo
+[19:00:59] [Server thread/INFO]: Cokadori issued server command: //paste
+[19:02:13] [Server thread/INFO]: Cokadori issued server command: //copy
+[19:02:25] [Server thread/INFO]: Cokadori issued server command: //paste
+[19:02:48] [Server thread/INFO]: Cokadori issued server command: //undo
+[19:03:13] [Server thread/INFO]: Cokadori issued server command: //copy
+[19:03:30] [Server thread/INFO]: Cokadori issued server command: //paste
+[19:03:43] [Server thread/INFO]: Cokadori issued server command: //undo
+[20:13:28] [Server thread/INFO]: [[0;37;1mworld[0;37;1m]<tyouamattoG> tuuwa[m
+[20:26:16] [Server thread/INFO]: [[0;37;1mworld[0;37;1m]<Cokadori> ÇµÇÈÇ»ÇËÇ¬Ç§ÇÌ[m
+[20:26:21] [Server thread/INFO]: [[0;37;1mworld[0;37;1m]<Ngt_0> ee[m
+[20:34:31] [User Authenticator #5/INFO]: UUID of player huratukibito is bbc4ad9d-dc72-47cc-91a9-34643ecfe55a
+[20:34:31] [Server thread/INFO]: huratukibito[/27.113.205.145:62294] logged in with entity id 28762 at ([world]-271.66115291879066, 68.0, 664.0270041807247)
+[20:34:51] [Server thread/INFO]: huratukibito issued server command: /gamemode 1
+[20:37:08] [Server thread/INFO]: huratukibito issued server command: /gamemode 1
+[20:37:15] [Server thread/INFO]: huratukibito issued server command: /gamemode 0
+[20:37:48] [Server thread/INFO]: huratukibito issued server command: /gamemode 1
+[20:41:34] [Server thread/INFO]: Cokadori issued server command: //set block of quartz full of half-slab
+[20:42:34] [Server thread/INFO]: Cokadori issued server command: //set quartz
+[20:43:18] [Server thread/INFO]: Cokadori issued server command: //set quqrtz half
+[20:45:26] [Server thread/INFO]: Cokadori issued server command: //copy
+[20:45:38] [Server thread/INFO]: Cokadori issued server command: //parst
+[20:46:08] [Server thread/INFO]: Cokadori issued server command: //parst
+[20:46:17] [Server thread/INFO]: Cokadori issued server command: //parst
+[20:46:43] [Server thread/INFO]: Cokadori issued server command: //peast
+[20:47:27] [Server thread/INFO]: Cokadori issued server command: //paste
+[20:47:39] [Server thread/INFO]: Cokadori issued server command: /undo
+[20:48:14] [Server thread/INFO]: Cokadori issued server command: //paste
+[20:48:58] [Server thread/INFO]: Cokadori issued server command: //paste
+[20:49:11] [Server thread/INFO]: Cokadori issued server command: //undo
+[20:49:18] [Server thread/INFO]: [[0;37;1mworld[0;37;1m]<Cokadori> paste[m
+[20:49:25] [Server thread/INFO]: Cokadori issued server command: //paste
+[20:49:40] [Server thread/INFO]: Cokadori issued server command: //paste
+[20:52:20] [Server thread/INFO]: Cokadori issued server command: //copy
+[20:52:46] [Server thread/INFO]: Cokadori issued server command: //paste
+[20:53:28] [Server thread/INFO]: Cokadori issued server command: //paste
+[20:53:40] [Server thread/INFO]: Cokadori issued server command: //undo
+[20:53:46] [Server thread/INFO]: Cokadori issued server command: //paste
+[20:54:06] [Server thread/INFO]: Cokadori issued server command: //undo
+[20:54:15] [Server thread/INFO]: Cokadori issued server command: //paste
+[20:54:40] [Server thread/INFO]: Cokadori issued server command: //paste
+[20:54:47] [Server thread/INFO]: Cokadori issued server command: //undo
+[20:54:55] [Server thread/INFO]: Cokadori issued server command: //paste
+[20:55:45] [Server thread/INFO]: Cokadori issued server command: //paste
+[20:56:13] [Server thread/INFO]: Cokadori issued server command: //paste
+[21:10:36] [Server thread/INFO]: huratukibito lost connection: Internal Exception: java.io.IOException: ämóßÇ≥ÇÍÇΩê⁄ë±Ç™ÉzÉXÉg ÉRÉìÉsÉÖÅ[É^Å[ÇÃÉ\ÉEÉgÉEÉFÉAÇ…ÇÊÇ¡ÇƒíÜé~Ç≥ÇÍÇ‹ÇµÇΩÅB
+[21:10:36] [Server thread/INFO]: huratukibito left the game
+[21:12:06] [User Authenticator #6/INFO]: UUID of player huratukibito is bbc4ad9d-dc72-47cc-91a9-34643ecfe55a
+[21:12:06] [Server thread/INFO]: huratukibito[/27.113.205.145:62404] logged in with entity id 32095 at ([world]-235.65194816392992, 77.09791529703122, 666.3079823526948)
+[21:12:16] [Server thread/INFO]: huratukibito issued server command: /gamemode 1
+[21:29:27] [Server thread/INFO]: huratukibito lost connection: Disconnected
+[21:29:27] [Server thread/INFO]: huratukibito left the game
+[21:29:46] [Server thread/INFO]: tyouamattoG issued server command: /gamemode 0 Ngt_0
+[21:29:49] [Server thread/INFO]: Ngt_0 tried to swim in lava
+[21:30:05] [Server thread/INFO]: Ngt_0 issued server command: /gamemode 1
+[21:31:39] [Server thread/INFO]: tyouamattoG issued server command: /tp Ngt_0
+[21:31:39] [Server thread/INFO]: ÅòctyouamattoG Åò4was denied access to command.
+[21:31:52] [Server thread/INFO]: tyouamattoG issued server command: /kiill
+[21:36:39] [Server thread/INFO]: Cokadori issued server command: //set dart
+[21:36:58] [Server thread/INFO]: Cokadori issued server command: //set dart
+[21:37:21] [Server thread/INFO]: Cokadori issued server command: //set daret
+[21:37:47] [Server thread/INFO]: Cokadori issued server command: //set daret
+[21:39:17] [Server thread/INFO]: Cokadori issued server command: //set 0
+[21:40:52] [Server thread/INFO]: Ngt_0 lost connection: Internal Exception: java.io.IOException: ä˘ë∂ÇÃê⁄ë±ÇÕÉäÉÇÅ[Ég ÉzÉXÉgÇ…ã≠êßìIÇ…êÿífÇ≥ÇÍÇ‹ÇµÇΩÅB
+[21:40:52] [Server thread/INFO]: Ngt_0 left the game
+[21:43:10] [Server thread/INFO]: Cokadori issued server command: //set 0
+[21:43:25] [Server thread/INFO]: Cokadori issued server command: //set water
+[21:46:28] [Server thread/INFO]: Cokadori issued server command: //copy
+[21:46:35] [Server thread/INFO]: Cokadori issued server command: //paste
+[21:46:43] [Server thread/INFO]: Cokadori issued server command: //undo
+[21:46:53] [Server thread/INFO]: Cokadori issued server command: //paste
+[21:47:06] [Server thread/INFO]: Cokadori issued server command: //paste
+[21:47:48] [Server thread/INFO]: Cokadori issued server command: //copy
+[21:48:01] [Server thread/INFO]: Cokadori issued server command: //paste
+[21:48:27] [Server thread/INFO]: Cokadori issued server command: //paste
+[21:48:55] [Server thread/INFO]: Cokadori issued server command: //copy
+[21:49:08] [Server thread/INFO]: Cokadori issued server command: //paste
+[21:49:57] [Server thread/INFO]: Cokadori issued server command: //paste
+[21:51:14] [Server thread/INFO]: Cokadori issued server command: //paste
+[21:51:24] [Server thread/INFO]: Cokadori issued server command: //paste
+[21:51:58] [Server thread/INFO]: Cokadori issued server command: //paste
+[21:54:06] [Server thread/INFO]: Cokadori issued server command: //copy
+[21:54:19] [Server thread/INFO]: Cokadori issued server command: //paste
+[21:55:09] [Server thread/INFO]: Cokadori issued server command: //undo
+[21:55:33] [Server thread/INFO]: Cokadori issued server command: //paste
+[21:55:50] [Server thread/INFO]: Cokadori issued server command: //set 0
+[21:56:16] [Server thread/INFO]: Cokadori issued server command: //paste
+[21:56:57] [Server thread/INFO]: Cokadori issued server command: //paste
+[21:57:28] [Server thread/INFO]: Cokadori issued server command: //set 0
+[21:58:19] [Server thread/INFO]: Cokadori issued server command: //set 0
+[21:59:23] [Server thread/INFO]: Cokadori issued server command: //copy
+[21:59:45] [Server thread/INFO]: Cokadori issued server command: //paste
+[22:05:55] [Server thread/INFO]: Cokadori issued server command: //paste
+[22:11:13] [Server thread/INFO]: Cokadori issued server command: //copy
+[22:11:30] [Server thread/INFO]: Cokadori issued server command: //paste
+[22:12:03] [Server thread/INFO]: Cokadori issued server command: //undo
+[22:12:54] [Server thread/INFO]: Cokadori issued server command: //copy
+[22:13:15] [Server thread/INFO]: Cokadori issued server command: //paste
+[22:13:40] [Server thread/INFO]: Cokadori issued server command: //undo
+[22:14:10] [Server thread/INFO]: Cokadori issued server command: //copy
+[22:14:24] [Server thread/INFO]: Cokadori issued server command: //paste
+[22:14:49] [Server thread/INFO]: Cokadori issued server command: //undo
+[22:15:00] [Server thread/INFO]: Cokadori issued server command: //paste
+[22:15:42] [Server thread/INFO]: Cokadori issued server command: //copy
+[22:15:59] [Server thread/INFO]: Cokadori issued server command: //paste
+[22:24:49] [Server thread/INFO]: Cokadori issued server command: //copy
+[22:25:19] [Server thread/INFO]: Cokadori issued server command: //paste
+[22:25:34] [Server thread/INFO]: Cokadori issued server command: //undo
+[22:25:45] [Server thread/INFO]: Cokadori issued server command: //paste
+[22:25:57] [Server thread/INFO]: [[0;37;1mworld[0;37;1m]<Cokadori> undo[m
+[22:26:03] [Server thread/INFO]: Cokadori issued server command: //undo
+[22:26:19] [Server thread/INFO]: Cokadori issued server command: //paste
+[22:27:18] [Server thread/INFO]: Cokadori issued server command: //copy
+[22:27:37] [Server thread/INFO]: Cokadori issued server command: //paste
+[22:28:43] [Server thread/INFO]: Cokadori issued server command: //copy
+[22:29:20] [Server thread/INFO]: Cokadori issued server command: //paste
+[22:29:30] [Server thread/INFO]: Cokadori issued server command: //paste
+[22:29:42] [Server thread/INFO]: Cokadori issued server command: //paste
+[22:29:57] [Server thread/INFO]: Cokadori issued server command: //paste
+[22:30:09] [Server thread/INFO]: Cokadori issued server command: //paste
+[22:37:21] [Server thread/INFO]: tyouamattoG issued server command: /time set 10000000
+[22:37:22] [Server thread/INFO]: ÅòctyouamattoG Åò4was denied access to command.
+[22:48:33] [Server thread/INFO]: tyouamattoG lost connection: Internal Exception: java.io.IOException: ä˘ë∂ÇÃê⁄ë±ÇÕÉäÉÇÅ[Ég ÉzÉXÉgÇ…ã≠êßìIÇ…êÿífÇ≥ÇÍÇ‹ÇµÇΩÅB
+[22:48:33] [Server thread/INFO]: tyouamattoG left the game
+[22:49:18] [User Authenticator #7/INFO]: UUID of player tyouamattoG is 246113b7-ec57-4fb8-a148-794c7929ba76
+[22:49:18] [Server thread/INFO]: tyouamattoG[/127.0.0.1:62182] logged in with entity id 44004 at ([world]-247.0853051069986, 110.0, 649.1923068536461)
+[22:50:04] [Server thread/INFO]: tyouamattoG issued server command: /gamemode 1
+[22:52:45] [User Authenticator #8/INFO]: UUID of player Flasushi is ff256b53-8ce0-4acf-ab53-4fb3562e1c38
+[22:52:45] [Server thread/INFO]: Flasushi[/49.251.167.8:51828] logged in with entity id 44225 at ([world]-286.7228760939951, 77.20165764181694, 435.4892601593661)
+[22:53:23] [Server thread/INFO]: Flasushi issued server command: /gamemode creative Flasushi
+[22:54:09] [Server thread/INFO]: Cokadori issued server command: //copy
+[22:54:30] [Server thread/INFO]: Cokadori issued server command: //paste
+[22:56:17] [Server thread/INFO]: Cokadori issued server command: //undo
+[22:56:40] [Server thread/INFO]: Flasushi lost connection: Internal Exception: java.io.IOException: ä˘ë∂ÇÃê⁄ë±ÇÕÉäÉÇÅ[Ég ÉzÉXÉgÇ…ã≠êßìIÇ…êÿífÇ≥ÇÍÇ‹ÇµÇΩÅB
+[22:56:40] [Server thread/INFO]: Flasushi left the game
+[22:57:36] [Server thread/INFO]: Cokadori issued server command: //copy
+[22:57:39] [User Authenticator #9/INFO]: UUID of player Flasushi is ff256b53-8ce0-4acf-ab53-4fb3562e1c38
+[22:57:39] [Server thread/INFO]: Flasushi[/49.251.167.8:51916] logged in with entity id 45619 at ([world]-265.4823886589882, 68.0, 662.3004442190488)
+[22:57:49] [Server thread/INFO]: Cokadori issued server command: //paste
+[22:57:56] [Server thread/INFO]: Cokadori issued server command: //undo
+[22:58:03] [Server thread/INFO]: Cokadori issued server command: //paste
+[22:58:11] [Server thread/INFO]: Flasushi issued server command: /gamemode creative Flasushi
+[22:59:15] [Server thread/INFO]: Cokadori issued server command: //copy
+[22:59:26] [Server thread/INFO]: Cokadori issued server command: //paste
+[22:59:31] [Server thread/INFO]: [[0;37;1mworld[0;37;1m]<Flasushi> paste[m
+[22:59:38] [Server thread/INFO]: [[0;37;1mworld[0;37;1m]<Flasushi> parst[m
+[22:59:52] [Server thread/INFO]: Cokadori issued server command: //copy
+[23:00:06] [Server thread/INFO]: Cokadori issued server command: //paste
+[23:00:27] [Server thread/INFO]: Cokadori issued server command: //paste
+[23:01:30] [Server thread/INFO]: Flasushi issued server command: //set 123
+[23:01:36] [Server thread/INFO]: Flasushi issued server command: //set 123
+[23:01:40] [Server thread/INFO]: Flasushi issued server command: //set 123
+[23:02:30] [Server thread/INFO]: Cokadori issued server command: //copy
+[23:02:47] [Server thread/INFO]: Cokadori issued server command: //paste
+[23:02:51] [Server thread/INFO]: Flasushi issued server command: //fast
+[23:02:59] [Server thread/INFO]: Flasushi issued server command: /fast
+[23:05:56] [Server thread/INFO]: Flasushi issued server command: //help
+[23:06:05] [Server thread/INFO]: Flasushi issued server command: //help 2
+[23:06:31] [Server thread/INFO]: Flasushi issued server command: //help 14
+[23:07:41] [Server thread/INFO]: Flasushi issued server command: //set 10
+[23:07:43] [Server thread/INFO]: Flasushi issued server command: //set 0
+[23:10:51] [Server thread/INFO]: Flasushi lost connection: Disconnected
+[23:10:51] [Server thread/INFO]: Flasushi left the game
+[23:10:55] [User Authenticator #10/INFO]: UUID of player Flasushi is ff256b53-8ce0-4acf-ab53-4fb3562e1c38
+[23:10:55] [Server thread/INFO]: Flasushi[/49.251.167.8:52242] logged in with entity id 47900 at ([world]-241.21672131126715, 153.0, 664.4740056689379)
+[23:11:37] [Server thread/INFO]: Flasushi fell from a high place
+[23:11:53] [Server thread/INFO]: Flasushi issued server command: /gamemode creative Flasushi
+[23:16:18] [Server thread/INFO]: Flasushi issued server command: //set 10
+[23:16:25] [Server thread/INFO]: Flasushi issued server command: //set 44
+[23:16:28] [Server thread/INFO]: Flasushi issued server command: //set 20
+[23:16:31] [Server thread/INFO]: Flasushi issued server command: //set 10
+[23:17:00] [Server thread/INFO]: tyouamattoG lost connection: Disconnected
+[23:17:00] [Server thread/INFO]: tyouamattoG left the game
+[23:17:03] [User Authenticator #11/INFO]: UUID of player tyouamattoG is 246113b7-ec57-4fb8-a148-794c7929ba76
+[23:17:03] [Server thread/INFO]: tyouamattoG[/127.0.0.1:62435] logged in with entity id 50291 at ([world]-229.90519378850175, 145.92716284901056, 666.7148448405554)
+[23:17:06] [Server thread/INFO]: tyouamattoG fell from a high place
+[23:17:15] [Server thread/INFO]: tyouamattoG issued server command: /gamemode 1
+[23:17:41] [Server thread/INFO]: Cokadori issued server command: //set 0
+[23:22:10] [Server thread/INFO]: Flasushi issued server command: /restart
+[23:22:21] [Server thread/INFO]: Flasushi lost connection: Disconnected
+[23:22:21] [Server thread/INFO]: Flasushi left the game
+[23:22:23] [User Authenticator #12/INFO]: UUID of player Flasushi is ff256b53-8ce0-4acf-ab53-4fb3562e1c38
+[23:22:23] [Server thread/INFO]: Flasushi[/49.251.167.8:52526] logged in with entity id 53569 at ([world]-222.17907250059665, 152.0, 674.4959686596085)
+[23:22:26] [Server thread/INFO]: tyouamattoG issued server command: /buther
+[23:22:36] [Server thread/INFO]: tyouamattoG issued server command: //buther
+[23:22:51] [Server thread/INFO]: tyouamattoG issued server command: /gamemode 0
+[23:23:24] [Server thread/INFO]: tyouamattoG fell from a high place
+[23:23:30] [Server thread/INFO]: tyouamattoG issued server command: /gamemdoe 1
+[23:23:42] [Server thread/INFO]: Flasushi fell from a high place
+[23:23:49] [Server thread/INFO]: Flasushi lost connection: Internal Exception: java.io.IOException: ä˘ë∂ÇÃê⁄ë±ÇÕÉäÉÇÅ[Ég ÉzÉXÉgÇ…ã≠êßìIÇ…êÿífÇ≥ÇÍÇ‹ÇµÇΩÅB
+[23:23:49] [Server thread/INFO]: Flasushi left the game
+[23:23:56] [Server thread/INFO]: tyouamattoG issued server command: /
+[23:24:00] [Server thread/INFO]: tyouamattoG issued server command: /stop
+[23:24:10] [Server thread/INFO]: Stopping the server
+[23:24:10] [Server thread/INFO]: Stopping server
+[23:24:10] [Server thread/INFO]: [ChopTree3] Disabling ChopTree3 v4.0.0
+[23:24:10] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1.3-SNAPSHOT;c904242
+[23:24:10] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[23:24:10] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.4-b527
+[23:24:10] [Server thread/INFO]: [Multiverse-Core] - Disabled
+[23:24:10] [Server thread/INFO]: [Essentials] Disabling Essentials v2.0.1-b461
+[23:24:10] [Server thread/INFO]: [FarmProtect] Disabling FarmProtect v1.8.3
+[23:24:10] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.3;7a097ca
+[23:24:10] [Server thread/INFO]: [HopperPipes] Disabling HopperPipes v0.1
+[23:24:10] [Server thread/INFO]: [dynmap] Disabling dynmap v2.3-1142
+[23:24:10] [Server thread/INFO]: [dynmap] Unloaded 11 components.
+[23:24:10] [Server thread/INFO]: [dynmap] Stopping map renderer...
+[23:24:11] [Server thread/INFO]: [dynmap] Saved 5 pending tile renders in world 'world'
+[23:24:11] [Server thread/INFO]: [dynmap] Disabled
+[23:24:11] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
+[23:24:11] [Server thread/INFO]: [GetCoord] Disabling GetCoord v1.0.0
+[23:24:11] [Server thread/INFO]: Saving players
+[23:24:11] [Server thread/INFO]: Cokadori lost connection: Server closed
+[23:24:11] [Server thread/INFO]: Cokadori left the game
+[23:24:11] [Server thread/INFO]: tyouamattoG lost connection: Server closed
+[23:24:11] [Server thread/INFO]: tyouamattoG left the game
+[23:24:11] [Server thread/INFO]: Saving worlds
+[23:24:11] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[23:24:12] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[23:24:12] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
+[23:24:12] [Server thread/INFO]: Saving chunks for level 'gaikaku'/Overworld

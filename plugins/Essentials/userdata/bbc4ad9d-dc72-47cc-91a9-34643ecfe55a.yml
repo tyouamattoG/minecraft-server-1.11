@@ -1,7 +1,7 @@
 lastAccountName: huratukibito
 timestamps:
-  login: 1490462437372
-  logout: 1490467763604
+  login: 1490530326181
+  logout: 1490531367550
 ipAddress: 27.113.205.145
 lastlocation:
   world: world
@@ -12,8 +12,8 @@ lastlocation:
   pitch: 55.649986
 logoutlocation:
   world: world
-  x: -293.44465175008156
-  y: 65.74874464192135
-  z: 681.2103146874584
-  yaw: 353.22534
-  pitch: 14.699955
+  x: -262.8185134610527
+  y: 70.90779718977033
+  z: 671.4395847776203
+  yaw: 142.08203
+  pitch: 42.29995
